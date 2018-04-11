@@ -1,0 +1,2636 @@
+CITY,STATE,COUNTRY,GENDER,AGE,MARITAL_STATUS,PROFESSION,REPELLENT_NEGTWEETS,TENT_NEGTWEETS,REPELLENT,TENT
+Fussa,NA,Japan,F,39,Unspecified,Hospitality,6,1,FALSE,TRUE
+Anyang,NA,Korea,F,37,Married,Retail,7,1,FALSE,TRUE
+Basel,NA,Switzerland,F,24,Single,Other,7,2,FALSE,TRUE
+Khabarovsk,NA,Russia,F,34,Married,Professional,2,7,TRUE,FALSE
+New Delhi,DL,India,F,22,Married,Other,2,5,TRUE,FALSE
+Loughton,NA,United Kingdom,M,20,Single,Executive,8,0,FALSE,TRUE
+Playa del Carmen,NA,Mexico,M,44,Married,Executive,7,3,FALSE,TRUE
+Granada,NA,Spain,M,22,Single,Professional,7,1,FALSE,TRUE
+Burnaby,BC,Canada,M,33,Single,Professional,6,2,FALSE,TRUE
+Basel,NA,Switzerland,F,48,Married,Other,2,0,FALSE,TRUE
+Niquelândia,BR-GO,Brazil,M,30,Single,Student,4,1,FALSE,TRUE
+Beijing,NA,China,M,28,Single,Other,8,0,FALSE,TRUE
+Chennai,NA,India,M,31,Married,Sales,6,4,FALSE,TRUE
+Guarulhos,BR-SP,Brazil,F,41,Married,Executive,0,6,TRUE,FALSE
+Nässjö,NA,Sweden,M,31,Married,Trades,5,2,FALSE,TRUE
+Victoria,NA,Mexico,F,30,Married,Executive,9,1,FALSE,TRUE
+Augsburg,NA,Germany,F,44,Unspecified,Hospitality,6,1,FALSE,TRUE
+Viborg,NA,Denmark,F,21,Single,Other,2,5,TRUE,FALSE
+Guangzhou,NA,China,F,26,Married,Other,3,2,TRUE,TRUE
+Komae,NA,Japan,F,59,Married,Retired,9,2,FALSE,TRUE
+Brisbane,Qld,Australia,M,28,Single,Professional,5,2,FALSE,TRUE
+Coventry,NA,United Kingdom,F,30,Married,Executive,2,7,TRUE,FALSE
+Guangzhou,NA,China,M,37,Married,Sales,8,3,FALSE,TRUE
+Las Vegas,NV,United States,F,45,Married,Hospitality,4,1,FALSE,TRUE
+Timóteo,BR-MG,Brazil,M,39,Married,Other,6,2,FALSE,TRUE
+Perth,WA,Australia,M,28,Single,Professional,9,2,FALSE,TRUE
+Melbourne,Vic,Australia,F,30,Single,Retail,1,1,TRUE,TRUE
+Cangzhou,NA,China,M,23,Single,Other,12,1,FALSE,TRUE
+Maanshan,NA,China,F,48,Married,Executive,6,3,FALSE,TRUE
+Shijiazhuang,NA,China,M,27,Single,Trades,6,3,FALSE,TRUE
+Oakland,CA,United States,F,35,Married,Other,1,2,TRUE,TRUE
+Eastbourne,NA,United Kingdom,F,48,Married,Executive,6,2,FALSE,TRUE
+Patna,NA,India,F,37,Single,Retail,0,5,TRUE,FALSE
+Sendai,NA,Japan,M,44,Married,Executive,6,1,FALSE,TRUE
+Ecatepec,NA,Mexico,M,24,Single,Sales,5,4,FALSE,TRUE
+Bregenz,NA,Austria,M,30,Single,Professional,2,0,TRUE,TRUE
+Apeldoorn,NA,Netherlands,M,30,Single,Trades,9,2,FALSE,TRUE
+Brasília,BR-DF,Brazil,F,40,Married,Executive,8,0,FALSE,TRUE
+Toulouse,NA,France,F,32,Married,Other,1,7,TRUE,FALSE
+Fukui,NA,Japan,F,27,Single,Other,2,9,TRUE,FALSE
+Bellinzona,NA,Switzerland,M,20,Single,Other,2,0,FALSE,TRUE
+Kazan,NA,Russia,M,27,Single,Professional,7,0,FALSE,TRUE
+Bellinzona,NA,Switzerland,F,33,Married,Other,2,1,TRUE,TRUE
+Braunschweig,NA,Germany,M,32,Single,Other,5,0,FALSE,TRUE
+Mendota Heights,MN,United States,F,30,Married,Hospitality,3,3,TRUE,FALSE
+Sion,NA,Switzerland,F,34,Married,Other,2,11,TRUE,FALSE
+Yellowknife,NT,Canada,M,29,Single,Sales,4,2,FALSE,TRUE
+Nagaur,RJ,India,F,35,Married,Other,1,9,TRUE,FALSE
+Springfield,VA,United States,M,23,Single,Other,4,2,FALSE,TRUE
+Heihe,NA,China,M,23,Single,Professional,6,1,FALSE,TRUE
+Osasco,BR-SP,Brazil,M,44,Married,Other,9,2,FALSE,TRUE
+Enschede,NA,Netherlands,M,38,Married,Executive,6,2,FALSE,TRUE
+Twin Falls,ID,United States,M,26,Single,Trades,4,2,FALSE,TRUE
+Kushiro,NA,Japan,F,29,Married,Retail,3,9,TRUE,FALSE
+Portsmouth,NA,United Kingdom,M,20,Single,Professional,6,3,FALSE,TRUE
+Delhi,NCT,India,F,43,Married,Executive,8,1,FALSE,TRUE
+Lübeck,NA,Germany,M,28,Single,Other,6,2,FALSE,TRUE
+Gaspé,QC,Canada,F,44,Married,Other,6,1,FALSE,TRUE
+Astrakhan,NA,Russia,M,30,Married,Executive,6,2,FALSE,TRUE
+Chihuahua,NA,Mexico,M,34,Married,Student,3,1,FALSE,TRUE
+Cangzhou,NA,China,F,60,Married,Other,7,1,FALSE,TRUE
+Sion,NA,Switzerland,M,25,Single,Sales,6,0,FALSE,TRUE
+Leoben,NA,Austria,M,29,Single,Trades,3,2,FALSE,TRUE
+Bedford,NA,United Kingdom,F,33,Married,Hospitality,1,6,TRUE,FALSE
+Erfurt,NA,Germany,M,23,Single,Professional,6,3,FALSE,TRUE
+Timóteo,BR-MG,Brazil,F,60,Married,Other,6,0,FALSE,TRUE
+Nimes,NA,France,M,23,Single,Professional,9,1,FALSE,TRUE
+Kasugai,NA,Japan,F,27,Married,Other,1,9,TRUE,FALSE
+Toronto,ON,Canada,F,20,Married,Retail,3,8,TRUE,FALSE
+Frederikshavn,NA,Denmark,M,21,Single,Retail,0,5,TRUE,FALSE
+South San Francisco,CA,United States,M,32,Married,Other,4,2,FALSE,TRUE
+Kyoto,NA,Japan,M,31,Married,Trades,6,2,FALSE,TRUE
+São João de Meriti,BR-RJ,Brazil,M,29,Single,Professional,6,2,FALSE,TRUE
+Chemnitz,NA,Germany,M,30,Single,Other,7,1,FALSE,TRUE
+Chongqing,NA,China,F,27,Married,Other,9,2,FALSE,TRUE
+Kasugai,NA,Japan,M,25,Single,Other,6,1,FALSE,TRUE
+Great Yarmouth,NA,United Kingdom,F,25,Single,Other,4,9,TRUE,FALSE
+Krymsk,NA,Russia,M,25,Single,Professional,10,1,FALSE,TRUE
+Albuquerque,NM,United States,M,28,Single,Trades,5,2,FALSE,TRUE
+Köln,NA,Germany,F,47,Unspecified,Hospitality,2,7,TRUE,FALSE
+Wenatchee,WA,United States,M,31,Married,Other,8,2,FALSE,TRUE
+Chyofu,NA,Japan,F,36,Married,Executive,7,2,FALSE,TRUE
+Shimonoseki,NA,Japan,M,29,Single,Other,4,2,FALSE,TRUE
+Volta Redonda,BR-RJ,Brazil,M,26,Single,Other,7,2,FALSE,TRUE
+Berlin,NA,Germany,F,37,Married,Other,1,1,TRUE,TRUE
+Padova,PD,Italy,M,20,Single,Sales,9,2,FALSE,TRUE
+Osasco,BR-SP,Brazil,F,36,Married,Executive,1,4,TRUE,FALSE
+St. Pölten,NA,Austria,M,23,Single,Other,10,1,FALSE,TRUE
+Chengdu,NA,China,M,35,Married,Other,2,8,TRUE,FALSE
+Shimonoseki,NA,Japan,F,37,Married,Other,6,0,FALSE,TRUE
+Petrópolis,BR-RJ,Brazil,F,46,Married,Executive,2,1,TRUE,TRUE
+Chongqing,NA,China,F,21,Single,Other,9,0,FALSE,TRUE
+Lausanne,NA,Switzerland,M,19,Single,Trades,5,2,FALSE,TRUE
+Wenatchee,WA,United States,M,27,Single,Sales,7,3,FALSE,TRUE
+Dübendorf,NA,Switzerland,M,40,Married,Other,1,8,TRUE,FALSE
+Bari,BA,Italy,M,29,Single,Sales,4,0,FALSE,TRUE
+Pamplona,NA,Spain,M,28,Single,Professional,8,3,FALSE,TRUE
+Ketchikan,AK,United States,F,54,Married,Other,4,3,FALSE,TRUE
+Utrecht,NA,Netherlands,M,23,Single,Other,6,0,FALSE,TRUE
+Linz,NA,Austria,F,26,Single,Other,7,1,FALSE,TRUE
+Wuhan,NA,China,M,24,Single,Student,5,4,FALSE,TRUE
+Annapolis Junction,MD,United States,M,27,Single,Other,9,3,FALSE,TRUE
+Nice,NA,France,M,23,Single,Sales,6,3,FALSE,TRUE
+Stevenage,NA,United Kingdom,F,43,Married,Other,6,3,FALSE,TRUE
+Roskilde,NA,Denmark,M,22,Single,Sales,9,2,FALSE,TRUE
+Portland,OR,United States,M,41,Single,Sales,6,3,FALSE,TRUE
+Changchun,NA,China,F,20,Married,Retail,2,6,TRUE,FALSE
+Guangzhou,NA,China,F,36,Married,Other,3,1,FALSE,TRUE
+Singapore,Singapore,Singapore,F,32,Married,Executive,4,1,FALSE,TRUE
+Pensacola,FL,United States,M,36,Married,Other,4,0,FALSE,TRUE
+Brasília,BR-DF,Brazil,M,21,Single,Other,7,2,FALSE,TRUE
+Porto Alegre,BR-RS,Brazil,F,36,Married,Executive,8,2,FALSE,TRUE
+Chengdu,NA,China,F,25,Married,Retail,1,7,TRUE,FALSE
+Balneário Camboriú,BR-SC,Brazil,F,33,Single,Retail,2,5,TRUE,FALSE
+Manzanilo,NA,Mexico,F,21,Single,Other,7,1,FALSE,TRUE
+Changchun,NA,China,M,37,Married,Sales,10,0,FALSE,TRUE
+Logroño,LO,Spain,M,24,Single,Executive,9,1,FALSE,TRUE
+Shimla,HP,India,F,37,Married,Other,2,5,TRUE,FALSE
+Singapore,Singapore,Singapore,F,34,Married,Retail,2,7,TRUE,FALSE
+Adelaide,SA,Australia,M,21,Single,Sales,7,1,FALSE,TRUE
+Changchun,NA,China,F,37,Married,Other,2,0,TRUE,TRUE
+Angers,NA,France,M,43,Married,Trades,6,2,FALSE,TRUE
+Aguascalientes,NA,Mexico,M,30,Single,Professional,4,2,FALSE,TRUE
+Zapopan,NA,Mexico,F,48,Married,Executive,1,4,TRUE,FALSE
+Bologna,NA,Italy,M,23,Single,Other,8,2,FALSE,TRUE
+Huelva,NA,Spain,M,30,Single,Other,9,2,FALSE,TRUE
+Heihe,NA,China,M,28,Single,Sales,8,1,FALSE,TRUE
+Annapolis,MD,United States,M,25,Single,Professional,4,1,FALSE,TRUE
+Fukui,NA,Japan,F,42,Unspecified,Hospitality,8,0,FALSE,TRUE
+Bellinzona,NA,Switzerland,M,26,Single,Professional,8,0,FALSE,TRUE
+Stuttgart,NA,Germany,F,38,Unspecified,Hospitality,11,2,FALSE,TRUE
+Portsmouth,NA,United Kingdom,F,27,Single,Other,8,2,FALSE,TRUE
+Yukhnov,NA,Russia,F,43,Married,Other,7,1,FALSE,TRUE
+Batesville,MS,United States,M,23,Single,Executive,5,2,FALSE,TRUE
+Maanshan,NA,China,M,23,Single,Professional,9,2,FALSE,TRUE
+Nago,NA,Japan,M,40,Married,Professional,8,0,FALSE,TRUE
+Huntsville,AL,United States,F,31,Married,Retail,2,8,TRUE,FALSE
+Windsor,CT,United States,F,39,Married,Other,8,1,FALSE,TRUE
+Zapopan,NA,Mexico,F,32,Married,Executive,11,3,FALSE,TRUE
+Southampton,NA,United Kingdom,M,28,Single,Student,7,2,FALSE,TRUE
+Bellinzona,NA,Switzerland,F,26,Single,Other,8,2,FALSE,TRUE
+Playa del Carmen,NA,Mexico,M,42,Unspecified,Other,3,2,TRUE,TRUE
+Plaquemine,LA,United States,F,23,Single,Other,1,7,TRUE,FALSE
+Lausanne,NA,Switzerland,M,47,Married,Professional,7,2,FALSE,TRUE
+Campos dos Goytacazes,BR-RJ,Brazil,F,23,Single,Hospitality,7,1,FALSE,TRUE
+Mulhouse,NA,France,M,38,Married,Executive,5,2,FALSE,TRUE
+Brisbane,Qld,Australia,M,31,Married,Other,6,0,FALSE,TRUE
+Genève,NA,Switzerland,M,37,Married,Other,3,0,FALSE,TRUE
+Dillon,SC,United States,M,31,Married,Other,2,8,TRUE,FALSE
+Suwa,NA,Japan,F,29,Single,Student,4,3,FALSE,TRUE
+Gaspé,QC,Canada,F,37,Unspecified,Hospitality,7,0,FALSE,TRUE
+Napoli,NA,Italy,M,28,Married,Sales,6,2,FALSE,TRUE
+Osnabrück,NA,Germany,F,37,Married,Other,5,2,FALSE,TRUE
+Boulogne-Billancourt,NA,France,F,30,Married,Other,9,0,FALSE,TRUE
+San Luis,NA,Mexico,M,33,Married,Executive,4,1,FALSE,TRUE
+Tijuana,NA,Mexico,M,34,Single,Other,6,3,FALSE,TRUE
+Göteborg,NA,Sweden,M,22,Single,Trades,12,1,FALSE,TRUE
+Nizhny Novgorod,NA,Russia,F,48,Married,Executive,2,6,TRUE,FALSE
+Melbourne,Vic,Australia,F,20,Married,Retail,2,10,TRUE,FALSE
+Hamburg,NA,Germany,M,32,Single,Trades,5,2,FALSE,TRUE
+Ryazan,NA,Russia,F,47,Married,Hospitality,6,0,FALSE,TRUE
+Lappeenranta,NA,Finland,M,27,Single,Other,3,1,FALSE,TRUE
+Cuernavaca,NA,Mexico,F,25,Married,Other,0,8,TRUE,FALSE
+Aalborg,NA,Denmark,M,43,Married,Other,7,2,FALSE,TRUE
+Sault Ste. Marie,ON,Canada,M,44,Married,Professional,8,1,FALSE,TRUE
+San Sebastián,SS,Spain,F,48,Married,Hospitality,8,0,FALSE,TRUE
+Leuven,NA,Belgium,F,27,Married,Other,1,5,TRUE,FALSE
+Brisbane,Qld,Australia,F,36,Married,Executive,2,9,TRUE,FALSE
+Kawasaki,NA,Japan,F,47,Married,Executive,4,2,FALSE,TRUE
+Vancouver,OR,United States,F,32,Unspecified,Other,2,6,TRUE,FALSE
+Cangzhou,NA,China,M,45,Married,Professional,7,3,FALSE,TRUE
+Lethbridge,AB,Canada,M,28,Single,Trades,6,0,FALSE,TRUE
+Exeter,NA,United Kingdom,F,46,Married,Executive,0,0,TRUE,TRUE
+Malmö,NA,Sweden,F,36,Married,Other,2,5,TRUE,FALSE
+Kyoto,NA,Japan,M,34,Single,Executive,6,1,FALSE,TRUE
+Guarulhos,BR-SP,Brazil,M,32,Married,Sales,5,2,FALSE,TRUE
+Namur,NA,Belgium,F,32,Married,Other,0,6,TRUE,FALSE
+Dresden,NA,Germany,F,29,Married,Other,2,8,TRUE,FALSE
+Frederiction,NB,Canada,F,21,Single,Other,2,1,TRUE,TRUE
+Zaragoza,NA,Spain,M,30,Single,Other,7,3,FALSE,TRUE
+Volta Redonda,BR-RJ,Brazil,M,24,Single,Retail,1,6,TRUE,FALSE
+Balneário Camboriú,BR-SC,Brazil,F,30,Married,Other,4,2,FALSE,TRUE
+Frankfurt,NA,Germany,F,39,Married,Other,1,7,TRUE,FALSE
+Sault Ste. Marie,ON,Canada,F,48,Married,Other,7,3,FALSE,TRUE
+Anchorage,AK,United States,F,25,Single,Student,3,1,FALSE,TRUE
+Canberra,ACT,Australia,M,41,Married,Retired,1,8,TRUE,FALSE
+Akishima,NA,Japan,F,30,Married,Executive,8,2,FALSE,TRUE
+Charleston,SC,United States,F,25,Single,Other,7,2,FALSE,TRUE
+Kawasaki,NA,Japan,F,30,Married,Executive,2,4,TRUE,FALSE
+Logroño,NA,Spain,F,39,Married,Other,2,4,TRUE,TRUE
+Chengdu,NA,China,F,33,Unspecified,Other,7,1,FALSE,TRUE
+Rivière-du-Loup,QC,Canada,M,22,Single,Other,9,3,FALSE,TRUE
+Trail,BC,Canada,M,36,Single,Sales,9,1,FALSE,TRUE
+Spearfish,SD,United States,M,44,Married,Other,5,1,FALSE,TRUE
+Stans,NA,Austria,M,32,Single,Trades,6,2,FALSE,TRUE
+Brasília,BR-DF,Brazil,M,43,Married,Executive,5,1,FALSE,TRUE
+New York,NY,United States,F,42,Married,Other,7,2,FALSE,TRUE
+Brisbane,Qld,Australia,F,22,Married,Retail,1,4,TRUE,FALSE
+Hiroshima,NA,Japan,M,21,Single,Sales,5,3,FALSE,TRUE
+Hermosillo,NA,Mexico,M,21,Single,Other,2,2,TRUE,TRUE
+Fredericia,NA,Denmark,M,21,Single,Professional,3,1,FALSE,TRUE
+Campbell,CA,United States,M,20,Single,Executive,7,1,FALSE,TRUE
+Ahmedabad,GJ,India,M,20,Single,Sales,7,3,FALSE,TRUE
+Kristinehamn,NA,Sweden,F,32,Married,Other,5,2,FALSE,TRUE
+Berlin,NA,Germany,M,29,Single,Trades,10,1,FALSE,TRUE
+Sydney,NSW,Australia,F,38,Married,Retail,0,5,TRUE,FALSE
+Ahmedabad,GJ,India,F,19,Single,Other,9,2,FALSE,TRUE
+Roma,NA,Italy,M,25,Single,Other,4,3,FALSE,TRUE
+Basildon,NA,United Kingdom,F,33,Married,Other,1,7,TRUE,FALSE
+Halifax,NS,Canada,F,44,Married,Other,2,8,TRUE,FALSE
+Essen,NA,Germany,M,24,Single,Sales,6,1,FALSE,TRUE
+Dresden,NA,Germany,M,23,Single,Sales,6,3,FALSE,TRUE
+Guangzhou,NA,China,M,20,Single,Trades,7,0,FALSE,TRUE
+Saint-Etienne,NA,France,M,20,Single,Professional,6,2,FALSE,TRUE
+Sterling Heights,MI,United States,M,42,Married,Other,5,0,FALSE,TRUE
+Toulon,NA,France,M,34,Single,Professional,4,1,FALSE,TRUE
+Portsmouth,NA,United Kingdom,F,31,Single,Retail,3,5,TRUE,FALSE
+Caen,NA,France,F,38,Married,Other,2,3,TRUE,FALSE
+Maanshan,NA,China,M,22,Single,Executive,10,1,FALSE,TRUE
+Nijmegen,NA,Netherlands,F,33,Married,Executive,4,2,FALSE,TRUE
+Luling,LA,United States,M,29,Single,Professional,5,2,FALSE,TRUE
+Petrópolis,BR-RJ,Brazil,M,42,Married,Sales,8,2,FALSE,TRUE
+Aix-en-Provence,NA,France,F,37,Single,Professional,2,6,TRUE,FALSE
+Leuven,NA,Belgium,M,29,Single,Other,5,2,FALSE,TRUE
+Brooklyn,NY,United States,M,25,Single,Trades,4,1,FALSE,TRUE
+Bern,NA,Switzerland,F,35,Single,Retail,2,7,TRUE,FALSE
+Singapore,Singapore,Singapore,F,35,Married,Other,1,8,TRUE,FALSE
+Bordeaux,NA,France,M,27,Single,Professional,7,1,FALSE,TRUE
+Chihuahua,NA,Mexico,M,44,Married,Sales,6,1,FALSE,TRUE
+Portage La Prairie,MB,Canada,M,43,Married,Executive,6,0,FALSE,TRUE
+Kissimmee,FL,United States,F,32,Married,Other,2,5,TRUE,FALSE
+Essen,NA,Germany,M,22,Single,Executive,6,2,FALSE,TRUE
+Hadano,NA,Japan,F,40,Married,Other,4,2,FALSE,TRUE
+Perth,WA,Australia,F,44,Unspecified,Hospitality,3,2,FALSE,TRUE
+Fort Lauderdale,FL,United States,M,30,Married,Other,8,1,FALSE,TRUE
+Woodcote,NA,United Kingdom,M,36,Married,Sales,5,2,FALSE,TRUE
+Madrid,NA,Spain,F,21,Single,Professional,2,6,TRUE,FALSE
+Machida,NA,Japan,M,28,Married,Professional,3,1,FALSE,TRUE
+Portage La Prairie,MB,Canada,F,24,Married,Retail,2,8,TRUE,FALSE
+Fussa,NA,Japan,M,39,Married,Other,13,1,FALSE,TRUE
+Davie,FL,United States,M,25,Single,Other,5,2,FALSE,TRUE
+San Luis,NA,Mexico,F,24,Married,Retail,1,8,TRUE,FALSE
+Mandrem,KA,India,M,22,Single,Student,7,2,FALSE,TRUE
+Campos dos Goytacazes,BR-RJ,Brazil,F,33,Single,Retail,3,7,TRUE,FALSE
+Limoges,NA,France,M,30,Married,Sales,7,1,FALSE,TRUE
+Amherst,NY,United States,F,34,Married,Other,2,4,TRUE,FALSE
+Sydney,NSW,Australia,F,33,Single,Retail,1,5,TRUE,FALSE
+Le Havre,NA,France,F,31,Single,Retail,1,9,TRUE,FALSE
+Jacksonville,FL,United States,M,28,Single,Trades,7,2,FALSE,TRUE
+Chiba,NA,Japan,M,35,Single,Executive,7,2,FALSE,TRUE
+Heihe,NA,China,M,20,Single,Trades,11,0,FALSE,TRUE
+Suwa,NA,Japan,M,28,Married,Executive,1,4,TRUE,FALSE
+Fuxin,NA,China,M,30,Married,Trades,7,1,FALSE,TRUE
+Paris,NA,France,F,26,Married,Retail,3,9,TRUE,FALSE
+Guarulhos,BR-SP,Brazil,F,37,Married,Other,1,5,TRUE,FALSE
+Melbourne,Vic,Australia,F,23,Married,Retail,1,8,TRUE,FALSE
+Dijon,NA,France,F,48,Married,Hospitality,7,1,FALSE,TRUE
+Krymsk,NA,Russia,F,30,Married,Other,0,0,TRUE,TRUE
+Tolyatti,NA,Russia,M,23,Single,Other,6,1,FALSE,TRUE
+Sherbrooke,QC,Canada,M,22,Single,Student,12,1,FALSE,TRUE
+Kawasaki,NA,Japan,M,39,Married,Executive,4,0,FALSE,TRUE
+Singapore,Singapore,Singapore,F,22,Single,Hospitality,9,1,FALSE,TRUE
+Brisbane,Qld,Australia,M,22,Single,Professional,7,2,FALSE,TRUE
+Leipzig,NA,Germany,F,37,Married,Retail,0,6,TRUE,FALSE
+Randers,NA,Denmark,F,22,Single,Other,8,2,FALSE,TRUE
+Fort Lauderdale,FL,United States,M,38,Unspecified,Sales,7,2,FALSE,TRUE
+Beijing,NA,China,F,33,Married,Retail,3,8,TRUE,FALSE
+Nanaimo,BC,Canada,F,30,Married,Retail,7,0,FALSE,TRUE
+Haparanda,NA,Sweden,F,40,Married,Executive,3,6,TRUE,FALSE
+Cupertino,CA,United States,F,37,Married,Other,0,3,TRUE,FALSE
+Delhi,DL,India,M,22,Single,Sales,6,2,FALSE,TRUE
+Conyers,GA,United States,M,36,Married,Executive,7,1,FALSE,TRUE
+Fukui,NA,Japan,F,38,Married,Other,2,2,FALSE,TRUE
+Suwa,NA,Japan,M,21,Single,Executive,10,3,FALSE,TRUE
+Bern,NA,Switzerland,F,35,Married,Other,2,8,TRUE,FALSE
+Verona,VR,Italy,M,35,Married,Executive,6,2,FALSE,TRUE
+Grenoble,NA,France,F,31,Married,Executive,5,2,FALSE,TRUE
+San Antonio,TX,United States,M,30,Married,Other,6,3,FALSE,TRUE
+Southwark,NA,United Kingdom,M,33,Single,Trades,6,2,FALSE,TRUE
+Córdoba,NA,Spain,M,41,Married,Other,0,2,TRUE,TRUE
+Pamplona,NA,Spain,F,20,Single,Other,7,0,FALSE,TRUE
+Vancouver,BC,Canada,M,33,Married,Trades,2,8,TRUE,FALSE
+Köln,NA,Germany,M,23,Single,Professional,11,0,FALSE,TRUE
+Genève,NA,Switzerland,F,33,Married,Other,5,0,FALSE,TRUE
+San Luis,NA,Mexico,M,28,Single,Trades,6,2,FALSE,TRUE
+Chicago,IL,United States,M,36,Married,Other,6,3,FALSE,TRUE
+Sudbury,ON,Canada,M,26,Single,Professional,2,2,TRUE,TRUE
+Ajmer,NA,India,F,46,Married,Executive,0,1,TRUE,TRUE
+Guangzhou,NA,China,M,44,Married,Executive,7,1,FALSE,TRUE
+Tampico,NA,Mexico,F,23,Married,Other,2,5,TRUE,FALSE
+Hamburg,NA,Germany,M,25,Single,Trades,6,1,FALSE,TRUE
+Navegantes,BR-SC,Brazil,M,21,Single,Executive,3,2,FALSE,TRUE
+Perugia,NA,Italy,M,22,Single,Trades,9,2,FALSE,TRUE
+Guangzhou,NA,China,F,24,Married,Retail,2,8,TRUE,FALSE
+Exeter,NA,United Kingdom,M,31,Married,Trades,7,2,FALSE,TRUE
+Ketchikan,AK,United States,F,33,Married,Executive,7,1,FALSE,TRUE
+Billerica,MA,United States,M,39,Married,Executive,7,2,FALSE,TRUE
+Manchester,NA,United Kingdom,F,36,Married,Other,0,7,TRUE,FALSE
+Lille,NA,France,F,39,Married,Other,1,6,TRUE,FALSE
+Basel,NA,Switzerland,F,28,Married,Other,1,3,TRUE,FALSE
+México,NA,Mexico,M,32,Unspecified,Sales,3,1,FALSE,TRUE
+Manaus,BR-AM,Brazil,F,38,Married,Other,1,1,TRUE,TRUE
+Basel,NA,Switzerland,M,29,Single,Professional,8,3,FALSE,TRUE
+Limoges,NA,France,F,47,Married,Other,7,1,FALSE,TRUE
+Eindhoven,NA,Netherlands,M,19,Single,Other,6,0,FALSE,TRUE
+Potsdam,NA,Germany,M,20,Single,Professional,9,2,FALSE,TRUE
+Bremen,NA,Germany,M,32,Married,Trades,4,3,FALSE,TRUE
+Hong Kong,NA,China,M,25,Single,Other,8,1,FALSE,TRUE
+Orlando,FL,United States,F,31,Single,Retail,1,4,TRUE,FALSE
+Broomfield,CO,United States,M,41,Married,Sales,5,0,FALSE,TRUE
+Khabarovsk,NA,Russia,M,19,Single,Trades,7,1,FALSE,TRUE
+Melbourne,Vic,Australia,F,49,Married,Executive,0,0,TRUE,TRUE
+Nynäshamn,NA,Sweden,F,37,Married,Other,8,0,FALSE,TRUE
+Portland,OR,United States,M,26,Single,Other,3,9,TRUE,FALSE
+Singapore,Singapore,Singapore,F,32,Married,Other,1,7,TRUE,FALSE
+Amravati,MP,India,F,41,Married,Other,2,3,TRUE,TRUE
+Cuernavaca,NA,Mexico,M,23,Single,Executive,9,1,FALSE,TRUE
+Padova,NA,Italy,M,33,Married,Sales,5,0,FALSE,TRUE
+Leicester,NA,United Kingdom,M,31,Single,Professional,8,4,FALSE,TRUE
+Alexandria,VA,United States,M,30,Single,Professional,7,1,FALSE,TRUE
+Dresden,NA,Germany,M,36,Married,Sales,11,2,FALSE,TRUE
+Basel,NA,Switzerland,M,35,Single,Other,9,2,FALSE,TRUE
+Chyofu,NA,Japan,M,20,Single,Trades,7,1,FALSE,TRUE
+Kasugai,NA,Japan,F,21,Married,Other,0,6,TRUE,FALSE
+Mulhouse,NA,France,M,20,Single,Professional,3,3,TRUE,FALSE
+Nova Iguaçu,BR-RJ,Brazil,M,24,Single,Trades,11,1,FALSE,TRUE
+Qiqihaer,NA,China,M,22,Single,Sales,4,3,FALSE,TRUE
+Sherbrooke,QC,Canada,F,30,Unspecified,Other,2,5,TRUE,FALSE
+Brisbane,Qld,Australia,F,34,Married,Retail,2,6,TRUE,FALSE
+Esbjerg,NA,Denmark,F,27,Married,Sales,6,2,FALSE,TRUE
+Orsk,NA,Russia,M,41,Married,Trades,2,6,TRUE,FALSE
+Zell am See,NA,Austria,F,47,Married,Other,1,6,TRUE,FALSE
+Auburn University,AL,United States,M,25,Single,Other,3,1,FALSE,TRUE
+Peoria,IL,United States,F,48,Married,Other,4,1,FALSE,TRUE
+Singapore,Singapore,Singapore,F,35,Married,Other,3,4,TRUE,FALSE
+Tokyo,NA,Japan,F,34,Single,Retail,0,6,TRUE,FALSE
+Guadalajara,NA,Mexico,F,45,Unspecified,Hospitality,2,5,TRUE,FALSE
+Timóteo,BR-MG,Brazil,F,22,Single,Other,6,3,FALSE,TRUE
+Chihuahua,NA,Mexico,F,46,Married,Executive,3,1,FALSE,TRUE
+Akishima,NA,Japan,M,19,Single,Professional,4,1,FALSE,TRUE
+Mesquite,TX,United States,M,20,Single,Professional,8,0,FALSE,TRUE
+Basel,NA,Switzerland,M,38,Married,Professional,7,1,FALSE,TRUE
+Reading,NA,United Kingdom,F,20,Single,Other,6,0,FALSE,TRUE
+Kiyose,NA,Japan,M,24,Single,Other,10,2,FALSE,TRUE
+Stuttgart,NA,Germany,F,34,Unspecified,Other,1,5,TRUE,FALSE
+Cangzhou,NA,China,F,21,Married,Other,1,3,TRUE,TRUE
+Riverton,UT,United States,M,28,Single,Trades,9,2,FALSE,TRUE
+Puebla,NA,Mexico,F,21,Single,Other,10,2,FALSE,TRUE
+São Bernardo do Campo,BR-SP,Brazil,M,20,Single,Other,4,2,FALSE,TRUE
+Peterborough,ON,Canada,M,20,Single,Trades,7,1,FALSE,TRUE
+Qingdao,NA,China,M,41,Married,Trades,6,4,FALSE,TRUE
+Vejle,NA,Denmark,F,42,Married,Executive,7,2,FALSE,TRUE
+Smolensk,NA,Russia,F,26,Married,Other,2,5,TRUE,FALSE
+Aguascalientes,NA,Mexico,F,37,Unspecified,Hospitality,2,0,TRUE,TRUE
+Guarulhos,BR-SP,Brazil,F,24,Single,Other,2,9,TRUE,FALSE
+Chongqing,NA,China,F,20,Married,Retail,1,5,TRUE,FALSE
+Silkeborg,NA,Denmark,M,35,Unspecified,Sales,9,3,FALSE,TRUE
+Venezia,VE,Italy,M,29,Single,Executive,5,1,FALSE,TRUE
+Kristinehamn,NA,Sweden,F,36,Married,Retail,4,9,TRUE,FALSE
+Grenoble,NA,France,F,24,Single,Other,12,2,FALSE,TRUE
+Bedford,NA,United Kingdom,M,32,Single,Sales,6,1,FALSE,TRUE
+Utrecht,NA,Netherlands,F,26,Married,Other,1,0,TRUE,TRUE
+Bossier City,LA,United States,M,28,Single,Student,5,2,FALSE,TRUE
+Linz,NA,Austria,M,28,Single,Other,6,2,FALSE,TRUE
+Perugia,NA,Italy,M,38,Single,Professional,10,2,FALSE,TRUE
+Krems,NA,Austria,M,20,Single,Other,7,1,FALSE,TRUE
+Flin Flon,MB,Canada,F,39,Married,Other,5,1,FALSE,TRUE
+Groningen,NA,Netherlands,M,44,Married,Other,6,1,FALSE,TRUE
+San Jose,CA,United States,M,35,Married,Other,5,1,FALSE,TRUE
+Burnaby,BC,Canada,F,37,Unspecified,Hospitality,1,2,TRUE,FALSE
+Brisbane,Qld,Australia,F,33,Married,Other,8,2,FALSE,TRUE
+Singapore,Singapore,Singapore,F,21,Single,Other,2,6,TRUE,FALSE
+Huntsville,AL,United States,M,40,Married,Other,5,1,FALSE,TRUE
+Tours,NA,France,F,36,Married,Executive,8,2,FALSE,TRUE
+Beijing,NA,China,M,41,Married,Sales,7,0,FALSE,TRUE
+Västerås,NA,Sweden,M,29,Single,Other,6,2,FALSE,TRUE
+Yarmouth,NS,Canada,M,23,Single,Other,6,1,FALSE,TRUE
+Changchun,NA,China,M,22,Single,Executive,6,2,FALSE,TRUE
+Potsdam,NA,Germany,M,27,Married,Executive,6,2,FALSE,TRUE
+Renton,WA,United States,M,30,Single,Trades,9,0,FALSE,TRUE
+Bielefeld,NA,Germany,M,34,Married,Sales,9,0,FALSE,TRUE
+Besancon,NA,France,M,32,Married,Other,7,3,FALSE,TRUE
+Rio de Janeiro,BR-RJ,Brazil,M,30,Single,Professional,6,0,FALSE,TRUE
+Shanghai,NA,China,M,26,Single,Trades,7,3,FALSE,TRUE
+Dübendorf,NA,Switzerland,F,32,Married,Executive,5,0,FALSE,TRUE
+Venezia,NA,Italy,F,46,Married,Other,1,4,TRUE,FALSE
+Toronto,ON,Canada,M,23,Single,Other,5,0,FALSE,TRUE
+Gwangju,NA,Korea,F,31,Single,Retail,0,2,TRUE,TRUE
+Melbourne,Vic,Australia,F,45,Unspecified,Hospitality,8,1,FALSE,TRUE
+Barcelona,B,Spain,F,23,Married,Retail,2,6,TRUE,FALSE
+Rancho Santa Margarita,CA,United States,F,37,Married,Other,2,8,TRUE,FALSE
+Tolyatti,NA,Russia,F,32,Married,Other,3,7,TRUE,FALSE
+Perpignan,NA,France,F,34,Married,Other,7,2,FALSE,TRUE
+Brisbane,Qld,Australia,F,33,Unspecified,Other,1,4,TRUE,FALSE
+Delhi,DL,India,M,24,Single,Other,5,2,FALSE,TRUE
+Cancún,NA,Mexico,M,34,Married,Sales,8,2,FALSE,TRUE
+Macon,GA,United States,F,36,Unspecified,Hospitality,4,6,TRUE,FALSE
+Canberra,ACT,Australia,M,22,Single,Other,5,3,FALSE,TRUE
+Silkeborg,NA,Denmark,M,39,Single,Other,6,4,FALSE,TRUE
+Haparanda,NA,Sweden,F,38,Single,Retail,3,6,TRUE,FALSE
+Manaus,BR-AM,Brazil,F,43,Married,Other,6,2,FALSE,TRUE
+Canberra,ACT,Australia,F,40,Married,Other,7,1,FALSE,TRUE
+Chennai,NA,India,F,45,Married,Other,6,2,FALSE,TRUE
+Ronse,NA,Belgium,F,34,Married,Other,2,6,TRUE,FALSE
+Dresden,NA,Germany,F,46,Married,Professional,7,1,FALSE,TRUE
+Balneário Camboriú,BR-SC,Brazil,M,24,Single,Sales,3,2,FALSE,TRUE
+Nantes,NA,France,M,24,Single,Student,8,2,FALSE,TRUE
+Gaspé,QC,Canada,F,47,Married,Hospitality,1,3,TRUE,FALSE
+Melbourne,Vic,Australia,M,24,Single,Other,6,2,FALSE,TRUE
+Shimla,HP,India,M,24,Single,Executive,4,1,FALSE,TRUE
+Singapore,Singapore,Singapore,F,34,Married,Executive,8,3,FALSE,TRUE
+Brisbane,Qld,Australia,M,27,Single,Trades,11,1,FALSE,TRUE
+Great Yarmouth,NA,United Kingdom,F,39,Unspecified,Other,2,3,TRUE,TRUE
+Ajmer,NA,India,F,46,Married,Other,6,2,FALSE,TRUE
+Osasco,BR-SP,Brazil,F,38,Married,Other,2,6,TRUE,FALSE
+Thunder Bay,ON,Canada,F,37,Single,Retail,2,7,TRUE,FALSE
+Qingdao,NA,China,M,28,Single,Other,7,1,FALSE,TRUE
+Henderson,NV,United States,F,29,Single,Other,7,1,FALSE,TRUE
+Bedford,NH,United States,M,34,Married,Sales,3,5,TRUE,FALSE
+Kotka,NA,Finland,M,36,Married,Sales,9,2,FALSE,TRUE
+Essen,NA,Germany,M,31,Single,Student,10,1,FALSE,TRUE
+Basildon,NA,United Kingdom,F,29,Single,Other,5,2,FALSE,TRUE
+Oakland,CA,United States,M,25,Single,Sales,11,2,FALSE,TRUE
+Manaus,BR-AM,Brazil,M,44,Married,Executive,4,0,FALSE,TRUE
+Los Angeles,CA,United States,M,30,Single,Student,4,1,FALSE,TRUE
+São Paulo,BR-SP,Brazil,F,33,Married,Executive,3,1,FALSE,TRUE
+Chengdu,NA,China,M,27,Single,Professional,10,2,FALSE,TRUE
+Perth,WA,Australia,F,28,Single,Other,2,9,TRUE,FALSE
+Pamplona,NA,Spain,M,37,Married,Executive,5,4,FALSE,TRUE
+Angers,NA,France,M,28,Single,Other,7,1,FALSE,TRUE
+Reston,VA,United States,M,23,Single,Professional,10,2,FALSE,TRUE
+Sydney,NSW,Australia,F,39,Married,Other,1,7,TRUE,FALSE
+Lafayette,IN,United States,M,20,Single,Other,6,1,FALSE,TRUE
+Groningen,NA,Netherlands,M,43,Married,Other,10,2,FALSE,TRUE
+Grenoble,NA,France,F,34,Married,Executive,7,3,FALSE,TRUE
+Statesboro,GA,United States,M,30,Single,Trades,6,3,FALSE,TRUE
+Portsmouth,NA,United Kingdom,M,37,Single,Other,6,2,FALSE,TRUE
+Leipzig,NA,Germany,M,30,Married,Other,4,1,FALSE,TRUE
+San Francisco,CA,United States,F,32,Married,Other,10,1,FALSE,TRUE
+Ufa,NA,Russia,F,22,Married,Other,2,10,TRUE,FALSE
+Basel,NA,Switzerland,M,44,Married,Sales,1,2,TRUE,TRUE
+St. Pölten,NA,Austria,F,44,Married,Executive,5,1,FALSE,TRUE
+Doerun,GA,United States,F,39,Married,Retail,6,1,FALSE,TRUE
+Campos dos Goytacazes,BR-RJ,Brazil,M,22,Single,Trades,5,4,FALSE,TRUE
+Changsha,NA,China,M,39,Married,Sales,8,2,FALSE,TRUE
+Bilbao,BI,Spain,M,34,Married,Other,4,1,FALSE,TRUE
+Zaventern,NA,Belgium,M,21,Single,Other,5,2,FALSE,TRUE
+Pune,NA,India,F,37,Married,Retail,1,5,TRUE,FALSE
+Timóteo,BR-MG,Brazil,M,43,Married,Trades,7,1,FALSE,TRUE
+Leicester,NA,United Kingdom,M,29,Single,Other,2,1,FALSE,TRUE
+Essen,NA,Germany,F,31,Married,Retail,3,3,TRUE,FALSE
+Murmansk,NA,Russia,M,21,Single,Sales,4,2,FALSE,TRUE
+Middlesbrough,NA,United Kingdom,M,26,Single,Other,10,3,FALSE,TRUE
+Würzburg,NA,Germany,M,39,Married,Trades,5,2,FALSE,TRUE
+Melbourne,FL,United States,F,48,Married,Executive,1,1,TRUE,TRUE
+Kawasaki,NA,Japan,M,25,Single,Trades,8,1,FALSE,TRUE
+Loughton,NA,United Kingdom,F,31,Married,Other,7,2,FALSE,TRUE
+Genova,NA,Italy,F,20,Single,Other,9,2,FALSE,TRUE
+Maanshan,NA,China,M,35,Married,Executive,7,2,FALSE,TRUE
+Bern,NA,Switzerland,M,32,Married,Sales,6,2,FALSE,TRUE
+Qiqihaer,NA,China,M,29,Single,Other,7,1,FALSE,TRUE
+Enfield,NA,United Kingdom,M,47,Unspecified,Trades,2,6,TRUE,FALSE
+San Sebastián,SS,Spain,F,34,Married,Executive,13,0,FALSE,TRUE
+Machida,NA,Japan,M,25,Single,Professional,7,1,FALSE,TRUE
+Regensburg,NA,Germany,F,32,Married,Other,2,2,TRUE,TRUE
+Lanham,MD,United States,M,32,Married,Trades,1,6,TRUE,FALSE
+Northampton,NA,United Kingdom,M,23,Single,Sales,6,1,FALSE,TRUE
+Pelham,AL,United States,M,39,Married,Other,7,2,FALSE,TRUE
+Anchorage,AK,United States,M,21,Single,Sales,6,2,FALSE,TRUE
+Chunahn,NA,Korea,M,29,Unspecified,Sales,5,1,FALSE,TRUE
+Machida,NA,Japan,F,23,Married,Retail,3,1,TRUE,TRUE
+Niterói,BR-RJ,Brazil,F,37,Unspecified,Other,0,6,TRUE,FALSE
+Machida,NA,Japan,M,23,Single,Other,6,1,FALSE,TRUE
+Brunn am Gebirge,NA,Austria,M,26,Single,Other,7,2,FALSE,TRUE
+Helsinki,NA,Finland,M,26,Single,Sales,8,1,FALSE,TRUE
+Brescia,BS,Italy,M,38,Married,Other,3,9,TRUE,FALSE
+Patuxent River,MD,United States,F,41,Married,Other,6,3,FALSE,TRUE
+Brooklyn,NY,United States,F,38,Married,Other,0,7,TRUE,FALSE
+Yellowknife,NT,Canada,F,33,Married,Executive,1,4,TRUE,FALSE
+Rouen,NA,France,F,32,Married,Other,3,7,TRUE,FALSE
+Ecatepec,NA,Mexico,M,22,Single,Other,9,1,FALSE,TRUE
+Queensbury,NY,United States,M,30,Married,Executive,2,7,TRUE,FALSE
+Berlin,NA,Germany,M,22,Single,Other,5,1,FALSE,TRUE
+Bologna,NA,Italy,M,27,Single,Executive,7,2,FALSE,TRUE
+Palm Bay,FL,United States,F,41,Married,Executive,6,3,FALSE,TRUE
+New York,NY,United States,F,32,Married,Other,0,6,TRUE,FALSE
+Brisbane,Qld,Australia,F,35,Married,Other,7,1,FALSE,TRUE
+Kelamayi,NA,China,M,24,Single,Other,7,0,FALSE,TRUE
+Madrid,M,Spain,F,33,Married,Other,2,6,TRUE,FALSE
+Stavropol,NA,Russia,M,29,Single,Trades,6,2,FALSE,TRUE
+Pachuca de Soto,NA,Mexico,F,42,Married,Other,5,1,FALSE,TRUE
+Ufa,NA,Russia,F,38,Married,Other,10,0,FALSE,TRUE
+Perugia,PG,Italy,F,44,Married,Other,7,0,FALSE,TRUE
+Lambeth,NA,United Kingdom,F,31,Married,Other,1,5,TRUE,FALSE
+Adelaide,SA,Australia,F,36,Unspecified,Other,1,2,TRUE,TRUE
+Thunder Bay,ON,Canada,M,32,Single,Other,6,2,FALSE,TRUE
+Mulhouse,NA,France,F,24,Married,Other,2,5,TRUE,FALSE
+Magnitogorsk,NA,Russia,M,37,Married,Sales,9,2,FALSE,TRUE
+Marugame,NA,Japan,M,20,Single,Trades,8,2,FALSE,TRUE
+Aguascalientes,NA,Mexico,M,26,Single,Professional,7,3,FALSE,TRUE
+Alicante,NA,Spain,M,23,Single,Professional,7,2,FALSE,TRUE
+Kenora,ON,Canada,M,37,Married,Other,6,3,FALSE,TRUE
+Frogmore,NA,United Kingdom,M,23,Single,Trades,9,3,FALSE,TRUE
+Dresden,NA,Germany,M,38,Married,Trades,5,1,FALSE,TRUE
+Granada,NA,Spain,M,22,Single,Other,9,1,FALSE,TRUE
+Qingdao,NA,China,F,53,Married,Other,6,3,FALSE,TRUE
+Singapore,Singapore,Singapore,M,21,Single,Other,8,1,FALSE,TRUE
+Alicante,NA,Spain,F,22,Married,Retail,2,5,TRUE,FALSE
+Hamburg,NA,Germany,M,24,Single,Professional,7,2,FALSE,TRUE
+Kyoto,NA,Japan,M,36,Married,Sales,2,0,TRUE,TRUE
+Busan,NA,Korea,F,34,Married,Other,3,9,TRUE,FALSE
+Cixi,NA,China,M,21,Single,Trades,6,2,FALSE,TRUE
+Köln,NA,Germany,M,22,Single,Trades,13,2,FALSE,TRUE
+Salzburg,NA,Austria,M,45,Married,Retired,3,5,TRUE,FALSE
+Brisbane,Qld,Australia,M,44,Married,Executive,4,1,FALSE,TRUE
+Århus,NA,Denmark,M,20,Single,Sales,7,1,FALSE,TRUE
+Lexington,MA,United States,F,21,Married,Other,1,7,TRUE,FALSE
+Dübendorf,NA,Switzerland,F,38,Married,Retail,3,5,TRUE,FALSE
+San Pedro Garza García,NA,Mexico,M,22,Single,Other,2,3,FALSE,TRUE
+Chengdu,NA,China,M,37,Married,Executive,5,0,FALSE,TRUE
+Osasco,BR-SP,Brazil,M,24,Single,Executive,4,0,FALSE,TRUE
+Campos dos Goytacazes,BR-RJ,Brazil,F,23,Single,Other,6,2,FALSE,TRUE
+Uppsala,NA,Sweden,M,26,Single,Trades,8,1,FALSE,TRUE
+Osasco,BR-SP,Brazil,M,34,Single,Other,8,4,FALSE,TRUE
+Raigarh,MP,India,M,29,Single,Professional,4,1,FALSE,TRUE
+Chunahn,NA,Korea,F,34,Married,Executive,6,0,FALSE,TRUE
+Québec,QC,Canada,M,37,Married,Other,7,1,FALSE,TRUE
+Sydney,NSW,Australia,M,25,Single,Professional,5,1,FALSE,TRUE
+Woodcote,NA,United Kingdom,F,29,Married,Other,1,6,TRUE,FALSE
+Vancouver,OR,United States,M,32,Single,Other,6,1,FALSE,TRUE
+Victoria,NA,Mexico,F,48,Married,Hospitality,2,7,TRUE,FALSE
+Timóteo,BR-MG,Brazil,F,43,Married,Other,6,0,FALSE,TRUE
+Mysore,MP,India,F,20,Single,Other,5,2,FALSE,TRUE
+Halifax,NS,Canada,F,32,Married,Other,4,11,TRUE,FALSE
+Kushiro,NA,Japan,M,38,Married,Executive,9,2,FALSE,TRUE
+Nimes,NA,France,F,25,Married,Other,2,6,TRUE,FALSE
+Córdoba,NA,Spain,M,43,Married,Other,1,2,TRUE,TRUE
+Delhi,NCT,India,M,31,Unspecified,Professional,9,0,FALSE,TRUE
+Portland,OR,United States,M,32,Married,Other,5,2,FALSE,TRUE
+Napoli,NA,Italy,F,43,Unspecified,Hospitality,0,3,TRUE,TRUE
+Dresden,NA,Germany,F,36,Unspecified,Other,1,8,TRUE,FALSE
+Carson City,NV,United States,M,28,Single,Sales,8,0,FALSE,TRUE
+San Nicolás de los Garza,NA,Mexico,M,26,Single,Other,3,3,FALSE,TRUE
+Le Havre,NA,France,M,29,Single,Sales,7,2,FALSE,TRUE
+Guangzhou,NA,China,F,32,Married,Hospitality,6,1,FALSE,TRUE
+Vancouver,BC,Canada,M,31,Married,Executive,9,2,FALSE,TRUE
+Osnabrück,NA,Germany,M,22,Single,Other,5,2,FALSE,TRUE
+Wiarton,ON,Canada,M,43,Married,Executive,5,2,FALSE,TRUE
+Frederikshavn,NA,Denmark,M,41,Married,Other,6,1,FALSE,TRUE
+Seattle,WA,United States,F,36,Married,Other,0,6,TRUE,FALSE
+Seattle,WA,United States,F,43,Married,Other,2,9,TRUE,FALSE
+Sydney,NSW,Australia,F,22,Single,Retail,1,5,TRUE,FALSE
+Wuhan,NA,China,F,39,Married,Other,2,0,TRUE,TRUE
+Lübeck,NA,Germany,M,34,Married,Sales,8,2,FALSE,TRUE
+Saint Paul,MN,United States,M,54,Married,Other,5,3,FALSE,TRUE
+Newham,NA,United Kingdom,F,38,Unspecified,Hospitality,7,2,FALSE,TRUE
+Overland Park,KS,United States,M,30,Married,Other,5,1,FALSE,TRUE
+Sendai,NA,Japan,F,40,Unspecified,Hospitality,6,2,FALSE,TRUE
+Heidelberg,NA,Germany,M,26,Single,Other,8,1,FALSE,TRUE
+Rennes,NA,France,M,23,Single,Professional,6,1,FALSE,TRUE
+Inta,NA,Russia,F,49,Married,Hospitality,3,0,FALSE,TRUE
+Toulon,NA,France,M,24,Single,Other,8,1,FALSE,TRUE
+New Delhi,NCT,India,F,39,Married,Retail,0,7,TRUE,FALSE
+Exton,PA,United States,F,38,Married,Other,1,2,TRUE,TRUE
+Bern,NA,Switzerland,F,32,Single,Retail,4,8,TRUE,FALSE
+Campbell,CA,United States,M,36,Married,Other,3,2,TRUE,TRUE
+Dresden,NA,Germany,F,33,Married,Hospitality,0,2,TRUE,TRUE
+Rio de Janeiro,BR-RJ,Brazil,F,20,Married,Other,2,5,TRUE,FALSE
+Apeldoorn,NA,Netherlands,F,34,Married,Other,1,8,TRUE,FALSE
+Beijing,NA,China,F,33,Married,Other,9,0,FALSE,TRUE
+Salamanca,NA,Spain,F,22,Married,Other,0,5,TRUE,FALSE
+Balneário Camboriú,BR-SC,Brazil,F,23,Married,Other,7,1,FALSE,TRUE
+Fukuoka,NA,Japan,M,26,Single,Trades,5,0,FALSE,TRUE
+Milano,NA,Italy,M,32,Married,Sales,6,1,FALSE,TRUE
+New Delhi,NA,India,F,22,Single,Other,8,1,FALSE,TRUE
+Köln,NA,Germany,F,34,Married,Other,2,0,FALSE,TRUE
+Hadano,NA,Japan,M,27,Single,Professional,5,0,FALSE,TRUE
+Saint Petersburg,NA,Russia,F,43,Married,Executive,3,6,TRUE,FALSE
+Reggio Emilia,RE,Italy,F,48,Unspecified,Hospitality,6,3,FALSE,TRUE
+Brescia,BS,Italy,F,31,Married,Hospitality,12,4,FALSE,TRUE
+Antwerpen,NA,Belgium,M,26,Single,Student,10,1,FALSE,TRUE
+Pamplona,NA,Spain,M,21,Single,Professional,5,2,FALSE,TRUE
+Nova Iguaçu,BR-RJ,Brazil,M,26,Single,Trades,5,2,FALSE,TRUE
+Suwon,NA,Korea,F,24,Single,Student,4,2,FALSE,TRUE
+Kasugai,NA,Japan,F,23,Single,Professional,1,5,TRUE,FALSE
+Kushiro,NA,Japan,M,29,Single,Other,9,1,FALSE,TRUE
+Riverside,CA,United States,F,43,Unspecified,Hospitality,7,2,FALSE,TRUE
+Gangleung,NA,Korea,M,38,Married,Executive,6,1,FALSE,TRUE
+New Richmond,WI,United States,F,43,Married,Executive,4,0,FALSE,TRUE
+Zaragoza,NA,Spain,M,21,Single,Other,10,2,FALSE,TRUE
+Toulon,NA,France,F,28,Married,Retail,0,8,TRUE,FALSE
+Chesterfield,NA,United Kingdom,F,40,Unspecified,Hospitality,0,2,TRUE,TRUE
+Staten Island,NY,United States,M,41,Married,Executive,5,0,FALSE,TRUE
+Linz,NA,Austria,M,23,Single,Trades,6,2,FALSE,TRUE
+Saint-Etienne,NA,France,M,21,Single,Trades,4,1,FALSE,TRUE
+Frogmore,NA,United Kingdom,F,45,Married,Executive,0,10,TRUE,FALSE
+Stavropol,NA,Russia,M,21,Single,Other,8,2,FALSE,TRUE
+Chongqing,NA,China,F,39,Married,Other,2,0,TRUE,TRUE
+Shijiazhuang,NA,China,M,32,Married,Sales,7,1,FALSE,TRUE
+Los Angeles,CA,United States,F,30,Married,Retail,2,5,TRUE,FALSE
+Houston,TX,United States,F,44,Married,Other,8,2,FALSE,TRUE
+Fukushima,NA,Japan,M,32,Married,Sales,2,7,TRUE,FALSE
+Salem,OR,United States,M,35,Married,Trades,3,0,FALSE,TRUE
+Zell am See,NA,Austria,M,28,Single,Sales,10,3,FALSE,TRUE
+Kirensk,NA,Russia,M,31,Single,Other,2,4,TRUE,FALSE
+Cangzhou,NA,China,M,32,Married,Other,6,1,FALSE,TRUE
+Nimes,NA,France,M,22,Single,Trades,2,0,FALSE,TRUE
+Dübendorf,NA,Switzerland,M,32,Single,Other,6,1,FALSE,TRUE
+Barnaul,NA,Russia,F,31,Married,Other,4,1,FALSE,TRUE
+Milano,MI,Italy,F,27,Single,Other,2,11,TRUE,FALSE
+Jeonju,NA,Korea,F,39,Married,Other,0,6,TRUE,FALSE
+Salmon Arm,BC,Canada,M,25,Single,Sales,3,1,FALSE,TRUE
+Graz,NA,Austria,M,25,Single,Professional,7,3,FALSE,TRUE
+Chemnitz,NA,Germany,M,19,Single,Other,7,2,FALSE,TRUE
+Lambeth,NA,United Kingdom,M,27,Single,Sales,3,3,FALSE,TRUE
+Shanghai,NA,China,M,25,Single,Trades,2,5,TRUE,FALSE
+Ellenton,FL,United States,F,26,Single,Retail,8,2,FALSE,TRUE
+Catania,CT,Italy,F,36,Married,Other,6,1,FALSE,TRUE
+Orléans,NA,France,M,35,Single,Other,9,0,FALSE,TRUE
+Madrid,M,Spain,M,32,Married,Trades,0,2,TRUE,TRUE
+Singapore,Singapore,Singapore,F,42,Unspecified,Hospitality,13,0,FALSE,TRUE
+Barcelona,B,Spain,M,26,Single,Other,7,1,FALSE,TRUE
+Villach,NA,Austria,F,47,Married,Hospitality,8,2,FALSE,TRUE
+Tokyo,NA,Japan,F,46,Married,Executive,1,9,TRUE,FALSE
+Medicine Hat,AB,Canada,F,25,Married,Other,3,10,TRUE,FALSE
+Basildon,NA,United Kingdom,F,32,Married,Retail,1,6,TRUE,FALSE
+Leoben,NA,Austria,M,31,Married,Executive,5,1,FALSE,TRUE
+Silkeborg,NA,Denmark,F,42,Unspecified,Hospitality,0,7,TRUE,FALSE
+Niterói,BR-RJ,Brazil,F,34,Single,Retail,4,8,TRUE,FALSE
+Hillingdon,NA,United Kingdom,M,28,Single,Professional,9,0,FALSE,TRUE
+Perth,WA,Australia,F,41,Married,Other,8,1,FALSE,TRUE
+Sapporo-shi,???,Japan,F,34,Single,Retail,2,4,TRUE,FALSE
+Le Havre,NA,France,F,37,Unspecified,Hospitality,7,1,FALSE,TRUE
+Saratov,NA,Russia,M,22,Single,Professional,9,1,FALSE,TRUE
+Essen,NA,Germany,M,27,Single,Trades,7,2,FALSE,TRUE
+Wadsworth,OH,United States,M,34,Married,Other,2,1,FALSE,TRUE
+Bari,NA,Italy,M,25,Single,Other,7,1,FALSE,TRUE
+Cheongju,NA,Korea,M,23,Single,Trades,3,2,FALSE,TRUE
+Petrópolis,BR-RJ,Brazil,F,20,Single,Other,1,5,TRUE,FALSE
+Volchansk,NA,Russia,F,41,Married,Other,3,1,TRUE,TRUE
+Saint Petersburg,NA,Russia,M,44,Married,Sales,6,2,FALSE,TRUE
+Canberra,ACT,Australia,M,19,Single,Other,4,1,FALSE,TRUE
+Manaus,BR-AM,Brazil,F,33,Married,Other,7,1,FALSE,TRUE
+Arnhem,NA,Netherlands,M,21,Single,Professional,3,2,FALSE,TRUE
+Le Mans,NA,France,M,27,Single,Trades,4,2,FALSE,TRUE
+Hadano,NA,Japan,F,27,Married,Other,2,8,TRUE,FALSE
+Torreón,NA,Mexico,M,32,Single,Other,4,1,FALSE,TRUE
+Hiroshima,NA,Japan,F,37,Married,Other,1,4,TRUE,TRUE
+Campinas,BR-SP,Brazil,M,30,Single,Student,5,0,FALSE,TRUE
+Renton,WA,United States,M,23,Single,Trades,3,3,FALSE,TRUE
+Porto Alegre,BR-RS,Brazil,M,25,Single,Sales,7,1,FALSE,TRUE
+Anchorage,AK,United States,F,22,Married,Other,2,7,TRUE,FALSE
+Saugus,MA,United States,M,22,Single,Professional,3,1,FALSE,TRUE
+Zapopan,NA,Mexico,M,38,Single,Sales,4,0,FALSE,TRUE
+Graz,NA,Austria,F,34,Married,Executive,2,5,TRUE,FALSE
+Westport,ON,Canada,F,42,Unspecified,Hospitality,8,1,FALSE,TRUE
+Stuttgart,NA,Germany,M,22,Single,Other,6,2,FALSE,TRUE
+Leipzig,NA,Germany,M,43,Married,Sales,8,2,FALSE,TRUE
+Melbourne,FL,United States,M,19,Single,Professional,6,1,FALSE,TRUE
+São João de Meriti,BR-RJ,Brazil,M,23,Single,Other,7,1,FALSE,TRUE
+Rio de Janeiro,BR-RJ,Brazil,F,38,Married,Other,3,7,TRUE,FALSE
+Dresden,NA,Germany,M,19,Single,Student,7,1,FALSE,TRUE
+Beijing,NA,China,F,46,Married,Hospitality,3,5,TRUE,FALSE
+Charleroi,NA,Belgium,M,24,Single,Professional,3,2,FALSE,TRUE
+Chennai,NA,India,M,23,Single,Student,7,1,FALSE,TRUE
+Virginia Beach,VA,United States,F,26,Single,Professional,10,2,FALSE,TRUE
+Brisbane,Qld,Australia,M,27,Single,Professional,9,2,FALSE,TRUE
+Chiba,NA,Japan,M,24,Single,Other,6,1,FALSE,TRUE
+Overland Park,KS,United States,M,38,Married,Sales,2,1,FALSE,TRUE
+Kalispell,MT,United States,M,36,Married,Sales,0,7,TRUE,FALSE
+Braunschweig,NA,Germany,M,24,Single,Other,6,2,FALSE,TRUE
+Banglore,KA,India,F,20,Married,Other,2,6,TRUE,FALSE
+Ufa,NA,Russia,M,22,Single,Sales,8,2,FALSE,TRUE
+Bonn,NA,Germany,M,25,Single,Professional,8,2,FALSE,TRUE
+Dordrecht,NA,Netherlands,F,30,Married,Retail,0,9,TRUE,FALSE
+Singapore,Singapore,Singapore,M,21,Single,Trades,8,0,FALSE,TRUE
+Springfield,VA,United States,M,31,Married,Sales,8,3,FALSE,TRUE
+Cangzhou,NA,China,F,28,Single,Other,5,1,FALSE,TRUE
+Salt Lake City,UT,United States,M,25,Single,Other,9,0,FALSE,TRUE
+Bordeaux,NA,France,M,20,Single,Sales,8,1,FALSE,TRUE
+Newham,NA,United Kingdom,M,34,Married,Trades,6,2,FALSE,TRUE
+Shanghai,NA,China,M,42,Married,Other,3,8,TRUE,FALSE
+Timóteo,BR-MG,Brazil,F,39,Married,Other,2,6,TRUE,FALSE
+Trois-Rivières,QC,Canada,M,24,Single,Professional,2,0,FALSE,TRUE
+Århus,NA,Denmark,F,33,Married,Retail,3,8,TRUE,FALSE
+Skive,NA,Denmark,M,28,Single,Sales,7,1,FALSE,TRUE
+Essen,NA,Germany,M,22,Single,Other,5,1,FALSE,TRUE
+São Paulo,BR-SP,Brazil,F,26,Single,Other,10,1,FALSE,TRUE
+Taos,NM,United States,M,25,Single,Trades,6,1,FALSE,TRUE
+Chongqing,NA,China,M,32,Married,Trades,9,1,FALSE,TRUE
+Fukuoka,NA,Japan,M,29,Single,Executive,5,1,FALSE,TRUE
+Chicago,IL,United States,M,24,Single,Professional,7,3,FALSE,TRUE
+Burbank,CA,United States,M,33,Single,Other,6,2,FALSE,TRUE
+Fredericia,NA,Denmark,M,29,Single,Sales,9,0,FALSE,TRUE
+Sydney,NSW,Australia,M,25,Single,Professional,6,2,FALSE,TRUE
+Zaragoza,NA,Spain,M,25,Single,Other,3,2,FALSE,TRUE
+Brussel,NA,Belgium,M,24,Single,Other,5,1,FALSE,TRUE
+Sydney,NSW,Australia,F,44,Married,Other,6,3,FALSE,TRUE
+Denver,CO,United States,M,32,Single,Trades,11,3,FALSE,TRUE
+São Paulo,BR-SP,Brazil,F,36,Married,Retail,1,1,TRUE,TRUE
+Salerno,SA,Italy,F,39,Married,Other,5,2,FALSE,TRUE
+Schladming,NA,Austria,M,40,Married,Sales,6,0,FALSE,TRUE
+Cangzhou,NA,China,M,24,Single,Trades,4,1,FALSE,TRUE
+Perth,WA,Australia,M,23,Single,Trades,6,3,FALSE,TRUE
+Suwon,NA,Korea,F,32,Married,Executive,8,2,FALSE,TRUE
+Hong Kong,NA,China,F,40,Unspecified,Hospitality,6,0,FALSE,TRUE
+Victoria,NA,Mexico,M,39,Married,Professional,7,2,FALSE,TRUE
+Sendai,NA,Japan,M,30,Single,Sales,11,0,FALSE,TRUE
+Bogalusa,LA,United States,F,37,Unspecified,Hospitality,8,1,FALSE,TRUE
+Sikar,RJ,India,M,29,Single,Executive,8,1,FALSE,TRUE
+Schoten,NA,Belgium,M,27,Single,Other,4,1,FALSE,TRUE
+Nanaimo,BC,Canada,M,22,Single,Trades,11,2,FALSE,TRUE
+Trois-Rivières,QC,Canada,M,39,Single,Sales,9,1,FALSE,TRUE
+Lausanne,NA,Switzerland,M,33,Married,Sales,6,0,FALSE,TRUE
+Brooklyn,NY,United States,M,29,Single,Other,9,0,FALSE,TRUE
+Nago,NA,Japan,F,33,Married,Other,5,1,FALSE,TRUE
+Lowestoft,NA,United Kingdom,F,38,Married,Other,4,1,FALSE,TRUE
+Liverpool,NA,United Kingdom,M,31,Single,Professional,8,3,FALSE,TRUE
+Dresden,NA,Germany,M,27,Single,Trades,7,2,FALSE,TRUE
+Tours,NA,France,F,33,Married,Executive,6,0,FALSE,TRUE
+Shijiazhuang,NA,China,M,35,Married,Other,5,2,FALSE,TRUE
+Edmonton,AB,Canada,F,34,Single,Retail,2,8,TRUE,FALSE
+Limoges,NA,France,F,45,Married,Other,0,2,TRUE,TRUE
+Regensburg,NA,Germany,M,23,Single,Professional,8,1,FALSE,TRUE
+Oviedo,O,Spain,M,44,Married,Sales,3,1,FALSE,TRUE
+Colorado Springs,CO,United States,F,25,Married,Retail,3,9,TRUE,FALSE
+Boston,MA,United States,M,21,Single,Trades,6,3,FALSE,TRUE
+Beijing,NA,China,M,22,Single,Trades,6,2,FALSE,TRUE
+Franklin Park,IL,United States,F,32,Unspecified,Other,0,5,TRUE,FALSE
+Fuxin,NA,China,M,43,Married,Sales,6,1,FALSE,TRUE
+Linz,NA,Austria,M,28,Married,Professional,5,2,FALSE,TRUE
+Sydney,NSW,Australia,M,39,Married,Executive,3,4,FALSE,TRUE
+Frederikshavn,NA,Denmark,M,26,Single,Executive,5,2,FALSE,TRUE
+Montpellier,NA,France,F,33,Married,Hospitality,6,2,FALSE,TRUE
+Shijiazhuang,NA,China,M,39,Married,Other,3,1,FALSE,TRUE
+Jacksonville,FL,United States,F,44,Unspecified,Hospitality,8,2,FALSE,TRUE
+Brussel,NA,Belgium,M,29,Single,Professional,6,3,FALSE,TRUE
+Moncton,NB,Canada,F,31,Married,Executive,1,3,TRUE,FALSE
+Manzanilo,NA,Mexico,M,33,Married,Sales,7,1,FALSE,TRUE
+Sydney,NSW,Australia,F,22,Single,Other,3,2,TRUE,FALSE
+Maanshan,NA,China,F,22,Married,Retail,1,1,TRUE,TRUE
+Canberra,ACT,Australia,M,41,Married,Sales,6,2,FALSE,TRUE
+New Delhi,DL,India,M,21,Single,Professional,7,1,FALSE,TRUE
+Chengdu,NA,China,M,41,Married,Executive,6,1,FALSE,TRUE
+Angers,NA,France,M,19,Single,Other,6,2,FALSE,TRUE
+Groningen,NA,Netherlands,F,20,Married,Other,2,4,TRUE,FALSE
+Exeter,NA,United Kingdom,M,34,Single,Other,8,1,FALSE,TRUE
+Västerås,NA,Sweden,M,37,Married,Trades,5,1,FALSE,TRUE
+Niquelândia,BR-GO,Brazil,M,33,Married,Trades,8,0,FALSE,TRUE
+Shimonoseki,NA,Japan,F,34,Married,Other,6,3,FALSE,TRUE
+São João de Meriti,BR-RJ,Brazil,M,20,Single,Sales,8,0,FALSE,TRUE
+Singapore,Singapore,Singapore,F,46,Unspecified,Hospitality,1,4,TRUE,FALSE
+Wenatchee,WA,United States,M,19,Single,Trades,4,1,FALSE,TRUE
+Genève,NA,Switzerland,F,49,Married,Other,0,9,TRUE,FALSE
+Piteå,NA,Sweden,F,47,Unspecified,Hospitality,1,4,TRUE,FALSE
+Portland,OR,United States,F,37,Married,Other,3,8,TRUE,FALSE
+Bromley,NA,United Kingdom,M,20,Single,Professional,1,10,TRUE,FALSE
+Lawrenceville,GA,United States,M,19,Single,Other,6,2,FALSE,TRUE
+Melbourne,Vic,Australia,M,21,Single,Trades,5,1,FALSE,TRUE
+Flin Flon,MB,Canada,M,38,Married,Other,2,5,TRUE,FALSE
+Frederikshavn,NA,Denmark,M,26,Single,Other,5,1,FALSE,TRUE
+León,NA,Mexico,M,40,Married,Other,6,3,FALSE,TRUE
+Utrecht,NA,Netherlands,M,34,Single,Trades,8,2,FALSE,TRUE
+Millstatt,NA,Austria,M,31,Married,Sales,4,2,FALSE,TRUE
+Sakai,NA,Japan,F,42,Married,Other,2,6,TRUE,FALSE
+Lexington,KY,United States,M,19,Single,Professional,4,2,FALSE,TRUE
+Frogmore,NA,United Kingdom,F,20,Single,Other,1,5,TRUE,FALSE
+Banglore,KA,India,F,39,Married,Other,6,0,FALSE,TRUE
+Singapore,Singapore,Singapore,F,27,Single,Other,9,1,FALSE,TRUE
+Vösendorf,NA,Austria,F,24,Married,Other,3,7,TRUE,FALSE
+Camborne,NA,United Kingdom,F,40,Unspecified,Hospitality,2,1,TRUE,TRUE
+Greensboro,NC,United States,M,23,Single,Trades,4,2,FALSE,TRUE
+Amsterdam,NA,Netherlands,M,20,Single,Sales,6,1,FALSE,TRUE
+Grenoble,NA,France,M,20,Single,Other,4,2,FALSE,TRUE
+Fernie,BC,Canada,F,45,Married,Other,2,1,TRUE,TRUE
+Fredericia,NA,Denmark,F,35,Unspecified,Other,0,7,TRUE,FALSE
+Toledo,NA,Spain,F,30,Married,Retail,2,6,TRUE,FALSE
+Fort Hood,TX,United States,M,34,Married,Executive,7,2,FALSE,TRUE
+Guarulhos,BR-SP,Brazil,M,23,Single,Sales,5,2,FALSE,TRUE
+Renton,WA,United States,M,28,Single,Sales,7,2,FALSE,TRUE
+Greenwhich,NA,United Kingdom,F,32,Married,Other,0,7,TRUE,FALSE
+Helsinki,NA,Finland,F,34,Married,Executive,10,2,FALSE,TRUE
+Nässjö,NA,Sweden,M,29,Single,Trades,8,3,FALSE,TRUE
+Viborg,NA,Denmark,F,38,Unspecified,Other,5,2,FALSE,TRUE
+Eastbourne,NA,United Kingdom,M,31,Single,Other,3,1,FALSE,TRUE
+Sion,NA,Switzerland,F,30,Married,Hospitality,5,3,FALSE,TRUE
+Chicago,IL,United States,F,31,Married,Other,5,1,FALSE,TRUE
+Leipzig,NA,Germany,M,26,Single,Executive,5,1,FALSE,TRUE
+Oakland,CA,United States,M,26,Single,Other,5,3,FALSE,TRUE
+Woodcote,NA,United Kingdom,M,33,Single,Professional,9,3,FALSE,TRUE
+Salerno,SA,Italy,M,28,Single,Trades,7,2,FALSE,TRUE
+Charlottetown,PE,Canada,M,59,Married,Trades,1,4,TRUE,FALSE
+Genève,NA,Switzerland,M,23,Single,Executive,4,2,FALSE,TRUE
+Würzburg,NA,Germany,M,27,Single,Trades,5,0,FALSE,TRUE
+Kyoto,NA,Japan,M,20,Single,Other,9,1,FALSE,TRUE
+Fuquay Varina,NC,United States,M,28,Single,Trades,5,2,FALSE,TRUE
+Amiens,NA,France,F,47,Married,Executive,7,2,FALSE,TRUE
+Madison,TN,United States,M,36,Married,Sales,2,1,TRUE,TRUE
+Petrópolis,BR-RJ,Brazil,M,27,Single,Professional,9,2,FALSE,TRUE
+Atlanta,GA,United States,F,47,Married,Other,2,4,TRUE,FALSE
+Rio de Janeiro,BR-RJ,Brazil,M,22,Single,Other,9,2,FALSE,TRUE
+Shanghai,NA,China,M,20,Single,Other,9,1,FALSE,TRUE
+Zapopan,NA,Mexico,M,21,Single,Other,8,1,FALSE,TRUE
+Düsseldorf,NA,Germany,F,39,Married,Executive,1,2,TRUE,TRUE
+Rio de Janeiro,BR-RJ,Brazil,M,23,Single,Other,5,0,FALSE,TRUE
+Perugia,PG,Italy,M,42,Married,Other,4,2,FALSE,TRUE
+Toledo,NA,Spain,F,43,Unspecified,Hospitality,2,9,TRUE,FALSE
+Brussel,NA,Belgium,M,35,Married,Other,7,2,FALSE,TRUE
+São Gonçalo,BR-RJ,Brazil,M,29,Single,Sales,7,1,FALSE,TRUE
+Pamplona,NA,Spain,M,35,Married,Trades,7,0,FALSE,TRUE
+Magnitogorsk,NA,Russia,F,35,Married,Other,7,2,FALSE,TRUE
+Jersey City,NJ,United States,M,27,Single,Other,7,3,FALSE,TRUE
+Lahti,NA,Finland,M,28,Single,Professional,5,1,FALSE,TRUE
+Tampico,NA,Mexico,F,49,Married,Other,4,0,FALSE,TRUE
+Monterey,NA,Mexico,M,20,Single,Executive,6,2,FALSE,TRUE
+Puerto Vallarta,NA,Mexico,M,26,Single,Sales,7,0,FALSE,TRUE
+Guangzhou,NA,China,M,27,Single,Sales,6,0,FALSE,TRUE
+Beijing,NA,China,M,20,Single,Sales,9,2,FALSE,TRUE
+Albany,NY,United States,M,21,Single,Sales,8,0,FALSE,TRUE
+Esbjerg,NA,Denmark,F,46,Married,Executive,8,2,FALSE,TRUE
+Changchun,NA,China,M,20,Single,Professional,4,2,FALSE,TRUE
+St. John's,NL,Canada,F,46,Married,Hospitality,9,1,FALSE,TRUE
+Basel,NA,Switzerland,M,27,Single,Professional,8,1,FALSE,TRUE
+Flin Flon,MB,Canada,M,19,Single,Professional,6,1,FALSE,TRUE
+Chongqing,NA,China,M,26,Single,Professional,6,3,FALSE,TRUE
+Medina,MN,United States,M,23,Single,Sales,8,2,FALSE,TRUE
+Dallas,PA,United States,M,24,Single,Sales,5,2,FALSE,TRUE
+Eskilstuna,NA,Sweden,F,26,Single,Other,7,2,FALSE,TRUE
+Crestwood,KY,United States,M,19,Single,Sales,5,4,FALSE,TRUE
+Frederikshavn,NA,Denmark,F,25,Married,Other,0,7,TRUE,FALSE
+Tampa,FL,United States,M,33,Married,Executive,3,1,FALSE,TRUE
+Porto Alegre,BR-RS,Brazil,F,23,Married,Other,1,8,TRUE,FALSE
+Lyon,NA,France,F,37,Married,Other,9,2,FALSE,TRUE
+Perth,WA,Australia,M,33,Married,Sales,6,0,FALSE,TRUE
+Lambeth,NA,United Kingdom,M,33,Married,Trades,2,1,TRUE,TRUE
+Singapore,Singapore,Singapore,M,38,Married,Professional,5,1,FALSE,TRUE
+Logroño,NA,Spain,F,35,Married,Other,1,6,TRUE,FALSE
+Lausanne,NA,Switzerland,M,34,Single,Other,6,2,FALSE,TRUE
+Warsaw,IA,United States,M,26,Single,Other,11,2,FALSE,TRUE
+Niterói,BR-RJ,Brazil,F,29,Single,Other,3,5,TRUE,FALSE
+Brussel,NA,Belgium,M,26,Married,Other,2,0,FALSE,TRUE
+Dijon,NA,France,F,24,Single,Other,7,1,FALSE,TRUE
+Chongqing,NA,China,F,47,Married,Other,1,3,TRUE,TRUE
+Bern,NA,Switzerland,M,34,Single,Other,3,1,FALSE,TRUE
+Rennes,NA,France,F,33,Single,Retail,2,9,TRUE,FALSE
+Fussa,NA,Japan,F,36,Married,Retail,2,3,TRUE,FALSE
+Delhi,DL,India,M,22,Single,Trades,6,1,FALSE,TRUE
+Burlington,NC,United States,F,21,Married,Retail,1,2,TRUE,TRUE
+Hempstead,NY,United States,M,36,Married,Sales,9,2,FALSE,TRUE
+São João de Meriti,BR-RJ,Brazil,F,45,Married,Hospitality,0,9,TRUE,FALSE
+Aachen,NA,Germany,F,38,Unspecified,Hospitality,2,3,TRUE,FALSE
+Urbandale,IA,United States,F,22,Married,Other,3,8,TRUE,FALSE
+Padova,NA,Italy,M,38,Married,Executive,7,2,FALSE,TRUE
+Clarence Center,NY,United States,F,34,Married,Retail,0,5,TRUE,FALSE
+Singapore,Singapore,Singapore,F,45,Married,Other,1,7,TRUE,FALSE
+Blackpool,NA,United Kingdom,F,39,Married,Other,3,2,TRUE,TRUE
+Fukuoka,NA,Japan,M,28,Single,Student,7,2,FALSE,TRUE
+Whitehorse,YT,Canada,M,26,Single,Executive,9,1,FALSE,TRUE
+Lausanne,NA,Switzerland,F,43,Unspecified,Hospitality,3,4,TRUE,FALSE
+Melk,NA,Austria,F,45,Married,Executive,6,2,FALSE,TRUE
+Patuxent River,MD,United States,F,36,Married,Other,2,7,TRUE,FALSE
+Hong Kong,NA,China,M,27,Single,Other,5,0,FALSE,TRUE
+San Jose,CA,United States,F,34,Married,Executive,1,0,TRUE,TRUE
+Perugia,NA,Italy,F,28,Married,Retail,10,2,FALSE,TRUE
+Vladivostok,NA,Russia,M,39,Married,Professional,8,1,FALSE,TRUE
+Chatham,ON,Canada,M,33,Unspecified,Sales,4,0,FALSE,TRUE
+Suwon,NA,Korea,M,29,Married,Executive,8,3,FALSE,TRUE
+São Bernardo do Campo,BR-SP,Brazil,F,28,Married,Retail,2,4,TRUE,FALSE
+Nottingham,NA,United Kingdom,M,30,Single,Other,5,1,FALSE,TRUE
+Lübeck,NA,Germany,M,20,Single,Trades,6,0,FALSE,TRUE
+Niquelândia,BR-GO,Brazil,F,36,Married,Other,2,2,TRUE,TRUE
+Logroño,NA,Spain,F,31,Married,Other,3,1,FALSE,TRUE
+Singapore,Singapore,Singapore,F,36,Married,Other,2,6,TRUE,FALSE
+Parma,NA,Italy,M,38,Married,Sales,11,1,FALSE,TRUE
+Dzerzhinsk,NA,Russia,M,28,Single,Other,6,1,FALSE,TRUE
+Barcelona,B,Spain,M,20,Single,Trades,9,3,FALSE,TRUE
+Cancún,NA,Mexico,F,44,Married,Executive,2,2,TRUE,TRUE
+Salisbury,NA,United Kingdom,M,29,Married,Executive,5,0,FALSE,TRUE
+Sedaví,NA,Spain,M,27,Single,Other,8,0,FALSE,TRUE
+Breda,NA,Netherlands,F,21,Married,Retail,0,8,TRUE,FALSE
+Melbourne,Vic,Australia,M,27,Single,Professional,7,1,FALSE,TRUE
+Chiba,NA,Japan,M,24,Single,Executive,6,2,FALSE,TRUE
+Napoli,NA,Italy,M,20,Single,Sales,4,3,FALSE,TRUE
+Bonn,NA,Germany,M,44,Married,Trades,7,2,FALSE,TRUE
+Donalds,SC,United States,M,22,Single,Professional,5,3,FALSE,TRUE
+Oakland,CA,United States,M,29,Single,Student,1,2,FALSE,TRUE
+Singapore,Singapore,Singapore,M,23,Single,Other,4,2,FALSE,TRUE
+Eskilstuna,NA,Sweden,M,28,Single,Professional,9,1,FALSE,TRUE
+Krems,NA,Austria,F,45,Married,Executive,8,3,FALSE,TRUE
+Kawasaki,NA,Japan,M,38,Single,Executive,9,0,FALSE,TRUE
+Burnaby,BC,Canada,F,44,Married,Retired,4,1,FALSE,TRUE
+Iqaluit,NU,Canada,M,38,Married,Other,6,1,FALSE,TRUE
+Bonn,NA,Germany,F,44,Married,Other,6,1,FALSE,TRUE
+Köln,NA,Germany,M,45,Married,Other,8,2,FALSE,TRUE
+Utrecht,NA,Netherlands,M,41,Married,Other,6,2,FALSE,TRUE
+Bielefeld,NA,Germany,F,35,Unspecified,Hospitality,2,5,TRUE,FALSE
+Wiarton,ON,Canada,M,31,Single,Other,11,0,FALSE,TRUE
+Niquelândia,BR-GO,Brazil,M,44,Married,Other,6,1,FALSE,TRUE
+Machida,NA,Japan,M,39,Married,Executive,2,1,FALSE,TRUE
+Fuxin,NA,China,M,22,Single,Student,3,2,FALSE,TRUE
+São Gonçalo,BR-RJ,Brazil,F,49,Married,Executive,6,2,FALSE,TRUE
+Leoben,NA,Austria,M,28,Single,Trades,5,1,FALSE,TRUE
+Mäntsälä,NA,Finland,M,25,Single,Professional,5,1,FALSE,TRUE
+San Pedro Garza García,NA,Mexico,M,37,Married,Sales,6,2,FALSE,TRUE
+Bern,NA,Switzerland,M,36,Married,Professional,6,2,FALSE,TRUE
+Changsha,NA,China,F,26,Single,Other,4,3,FALSE,TRUE
+Utrecht,NA,Netherlands,M,25,Single,Executive,6,3,FALSE,TRUE
+Tokyo,NA,Japan,F,34,Married,Executive,2,2,TRUE,TRUE
+Singapore,Singapore,Singapore,F,39,Married,Other,1,6,TRUE,FALSE
+Brisbane,Qld,Australia,F,20,Married,Other,3,5,TRUE,FALSE
+Medina,MN,United States,F,32,Married,Other,2,6,TRUE,FALSE
+Wuhan,NA,China,M,30,Married,Executive,10,1,FALSE,TRUE
+Yellowknife,NT,Canada,M,24,Single,Other,7,2,FALSE,TRUE
+Nashville,TN,United States,M,19,Single,Sales,7,2,FALSE,TRUE
+São Paulo,BR-SP,Brazil,F,36,Married,Other,0,2,TRUE,TRUE
+Nancy,NA,France,F,42,Married,Other,1,0,TRUE,TRUE
+Berlin,NA,Germany,M,26,Single,Other,8,2,FALSE,TRUE
+Clermont-Ferrand,NA,France,F,33,Married,Hospitality,1,3,TRUE,TRUE
+Catania,CT,Italy,M,20,Single,Trades,5,0,FALSE,TRUE
+Bellinzona,NA,Switzerland,F,41,Unspecified,Hospitality,1,3,TRUE,FALSE
+Oak Harbor,WA,United States,M,33,Single,Other,8,2,FALSE,TRUE
+Bielefeld,NA,Germany,F,35,Single,Retail,5,2,FALSE,TRUE
+Los Angeles,CA,United States,M,23,Single,Sales,5,1,FALSE,TRUE
+Lafayette,IN,United States,F,47,Married,Other,5,1,FALSE,TRUE
+New Delhi,NCT,India,M,26,Single,Trades,2,4,TRUE,FALSE
+Kasugai,NA,Japan,F,47,Married,Hospitality,7,1,FALSE,TRUE
+Innsbruck,NA,Austria,M,29,Single,Professional,5,1,FALSE,TRUE
+Dijon,NA,France,M,21,Single,Trades,2,2,FALSE,TRUE
+Kyoto,NA,Japan,F,25,Married,Retail,1,6,TRUE,FALSE
+Redbridge,NA,United Kingdom,M,30,Married,Executive,7,3,FALSE,TRUE
+Sendai,NA,Japan,M,25,Single,Professional,5,1,FALSE,TRUE
+Hadano,NA,Japan,M,21,Single,Trades,5,2,FALSE,TRUE
+San Luis,NA,Mexico,F,41,Married,Other,4,1,FALSE,TRUE
+Brisbane,Qld,Australia,M,28,Single,Professional,5,0,FALSE,TRUE
+Mulhouse,NA,France,F,33,Unspecified,Professional,1,6,TRUE,FALSE
+Perpignan,NA,France,M,25,Single,Trades,6,0,FALSE,TRUE
+Inta,NA,Russia,F,36,Married,Executive,5,2,FALSE,TRUE
+Perth,WA,Australia,M,34,Married,Executive,5,1,FALSE,TRUE
+Adelaide,SA,Australia,M,27,Single,Trades,4,3,FALSE,TRUE
+Mäntsälä,NA,Finland,M,32,Single,Professional,11,1,FALSE,TRUE
+San Bernardino,CA,United States,M,21,Single,Professional,7,1,FALSE,TRUE
+Skive,NA,Denmark,M,25,Single,Other,10,1,FALSE,TRUE
+Bellinzona,NA,Switzerland,F,29,Married,Retail,1,7,TRUE,FALSE
+Sydney,NSW,Australia,F,33,Married,Retail,0,6,TRUE,FALSE
+Dresden,NA,Germany,M,43,Married,Executive,6,2,FALSE,TRUE
+Heihe,NA,China,F,33,Married,Hospitality,7,1,FALSE,TRUE
+Croydon,NA,United Kingdom,M,23,Single,Professional,7,2,FALSE,TRUE
+Changsha,NA,China,F,25,Married,Other,2,7,TRUE,FALSE
+Dijon,NA,France,F,46,Married,Other,5,2,FALSE,TRUE
+Brisbane,Qld,Australia,M,25,Single,Trades,8,1,FALSE,TRUE
+Ajmer,NA,India,F,37,Unspecified,Other,1,3,TRUE,FALSE
+Roma,ROMA,Italy,F,39,Unspecified,Other,0,8,TRUE,FALSE
+Naperville,IL,United States,M,38,Married,Trades,0,7,TRUE,FALSE
+Petrópolis,BR-RJ,Brazil,F,35,Unspecified,Hospitality,9,1,FALSE,TRUE
+Wels,NA,Austria,M,26,Single,Professional,7,1,FALSE,TRUE
+Marietta,GA,United States,M,24,Single,Trades,7,2,FALSE,TRUE
+Manaus,BR-AM,Brazil,M,21,Single,Student,7,3,FALSE,TRUE
+St. Louis,MO,United States,M,20,Single,Other,5,1,FALSE,TRUE
+Cuernavaca,NA,Mexico,M,33,Married,Executive,8,3,FALSE,TRUE
+Hiroshima,NA,Japan,M,42,Married,Sales,4,2,FALSE,TRUE
+Melbourne,Vic,Australia,F,38,Married,Executive,6,0,FALSE,TRUE
+Bielefeld,NA,Germany,M,44,Married,Other,5,0,FALSE,TRUE
+Wadsworth,OH,United States,F,42,Married,Other,2,7,TRUE,FALSE
+Adelaide,SA,Australia,F,24,Married,Other,6,2,FALSE,TRUE
+Shimla,HP,India,F,31,Married,Executive,0,2,TRUE,TRUE
+Manaus,BR-AM,Brazil,F,36,Married,Other,0,7,TRUE,FALSE
+Genève,NA,Switzerland,M,40,Married,Trades,4,1,FALSE,TRUE
+Besancon,NA,France,F,45,Married,Executive,5,0,FALSE,TRUE
+Torreón,NA,Mexico,M,29,Single,Other,9,0,FALSE,TRUE
+Stuttgart,NA,Germany,F,42,Married,Executive,1,3,FALSE,TRUE
+Manaus,BR-AM,Brazil,M,30,Married,Sales,1,4,TRUE,FALSE
+Puerto Vallarta,NA,Mexico,M,23,Single,Executive,7,0,FALSE,TRUE
+Düsseldorf,NA,Germany,F,21,Married,Other,1,7,TRUE,FALSE
+Esbjerg,NA,Denmark,F,40,Married,Other,2,10,TRUE,FALSE
+Cortland,NY,United States,M,42,Married,Sales,0,4,TRUE,FALSE
+Guarulhos,BR-SP,Brazil,M,41,Married,Other,9,1,FALSE,TRUE
+Verona,VR,Italy,M,41,Married,Other,7,1,FALSE,TRUE
+Birmingham,NA,United Kingdom,F,36,Married,Other,2,4,TRUE,FALSE
+Sakai,NA,Japan,F,24,Single,Retail,6,0,FALSE,TRUE
+Nancy,NA,France,M,37,Married,Trades,6,4,FALSE,TRUE
+Singapore,Singapore,Singapore,M,23,Single,Trades,7,3,FALSE,TRUE
+Chelmsford,NA,United Kingdom,F,28,Single,Other,2,1,TRUE,TRUE
+Yarmouth,NS,Canada,M,25,Single,Professional,3,2,FALSE,TRUE
+Nagaur,RJ,India,F,31,Married,Executive,8,0,FALSE,TRUE
+Napoli,NA,Italy,M,32,Married,Other,9,1,FALSE,TRUE
+Chengdu,NA,China,M,30,Single,Sales,5,0,FALSE,TRUE
+Exeter,NA,United Kingdom,M,27,Single,Professional,5,2,FALSE,TRUE
+Chesterfield,NA,United Kingdom,M,19,Single,Other,5,1,FALSE,TRUE
+Evergem,NA,Belgium,M,29,Single,Trades,6,1,FALSE,TRUE
+Navegantes,BR-SC,Brazil,M,21,Single,Executive,3,1,FALSE,TRUE
+Sydney,NSW,Australia,F,24,Single,Student,5,1,FALSE,TRUE
+Itajaí,BR-SC,Brazil,M,23,Single,Other,7,0,FALSE,TRUE
+Saltillo,NA,Mexico,M,29,Single,Professional,5,2,FALSE,TRUE
+Suwa,NA,Japan,M,36,Married,Trades,4,1,FALSE,TRUE
+Sydney,NSW,Australia,F,23,Single,Other,1,8,TRUE,FALSE
+Singapore,Singapore,Singapore,F,23,Single,Hospitality,6,3,FALSE,TRUE
+Chengdu,NA,China,F,46,Married,Professional,4,1,FALSE,TRUE
+Genève,NA,Switzerland,F,28,Married,Retail,2,6,TRUE,FALSE
+Wien,NA,Austria,F,25,Married,Other,3,6,TRUE,FALSE
+Singapore,Singapore,Singapore,F,20,Married,Other,2,5,TRUE,FALSE
+Tokyo,NA,Japan,F,44,Married,Other,7,1,FALSE,TRUE
+New York,NY,United States,F,31,Married,Other,3,8,TRUE,FALSE
+Chatham,ON,Canada,F,46,Married,Hospitality,6,0,FALSE,TRUE
+Loughton,NA,United Kingdom,F,31,Married,Other,1,4,TRUE,FALSE
+Kazan,NA,Russia,M,26,Single,Trades,5,2,FALSE,TRUE
+Würzburg,NA,Germany,M,33,Unspecified,Sales,6,2,FALSE,TRUE
+Crossville,AL,United States,M,24,Single,Other,7,2,FALSE,TRUE
+Kiel,NA,Germany,M,34,Single,Executive,5,1,FALSE,TRUE
+Marseille,NA,France,F,36,Married,Other,2,9,TRUE,FALSE
+Cuernavaca,NA,Mexico,F,47,Married,Hospitality,8,0,FALSE,TRUE
+Jacksonville,FL,United States,F,39,Married,Retail,3,6,TRUE,FALSE
+Torino,TO,Italy,F,37,Married,Retail,2,1,TRUE,TRUE
+Beijing,NA,China,M,39,Married,Sales,3,1,TRUE,TRUE
+Aalst,NA,Belgium,M,29,Single,Professional,3,6,TRUE,FALSE
+San Pedro Garza García,NA,Mexico,F,23,Married,Other,1,7,TRUE,FALSE
+São Paulo,BR-SP,Brazil,F,44,Married,Other,2,2,FALSE,TRUE
+Regensburg,NA,Germany,M,21,Single,Sales,5,1,FALSE,TRUE
+Hasselt,NA,Belgium,F,45,Unspecified,Hospitality,8,1,FALSE,TRUE
+Upper Marlboro,MD,United States,M,20,Single,Professional,5,1,FALSE,TRUE
+Västerås,NA,Sweden,M,27,Married,Sales,5,2,FALSE,TRUE
+Louisville,KY,United States,F,39,Married,Other,3,8,TRUE,FALSE
+Fernie,BC,Canada,F,48,Married,Executive,6,3,FALSE,TRUE
+Leipzig,NA,Germany,F,35,Married,Other,2,5,TRUE,FALSE
+Plymouth,NA,United Kingdom,F,26,Married,Other,3,2,TRUE,TRUE
+Timóteo,BR-MG,Brazil,M,38,Married,Sales,2,10,TRUE,FALSE
+Aix-en-Provence,NA,France,M,32,Single,Professional,7,1,FALSE,TRUE
+Milano,NA,Italy,M,37,Married,Trades,2,6,TRUE,FALSE
+Dijon,NA,France,F,36,Married,Other,0,6,TRUE,FALSE
+Enfield,NA,United Kingdom,M,42,Single,Other,7,3,FALSE,TRUE
+Rennes,NA,France,F,33,Unspecified,Sales,7,0,FALSE,TRUE
+Strasbourg,NA,France,F,23,Married,Other,2,2,TRUE,FALSE
+Akola,NA,India,F,37,Married,Other,0,7,TRUE,FALSE
+Wels,NA,Austria,F,29,Married,Retail,1,6,TRUE,FALSE
+Reims,NA,France,F,19,Single,Other,7,1,FALSE,TRUE
+Reading,NA,United Kingdom,F,24,Single,Other,2,3,TRUE,FALSE
+Playa del Carmen,NA,Mexico,M,27,Single,Professional,7,2,FALSE,TRUE
+Le Mans,NA,France,M,36,Unspecified,Sales,6,0,FALSE,TRUE
+North Liberty,IA,United States,M,29,Single,Trades,1,1,FALSE,TRUE
+Perth,WA,Australia,M,27,Single,Retail,10,2,FALSE,TRUE
+Exeter,NA,United Kingdom,M,30,Married,Other,8,1,FALSE,TRUE
+Salvador,BR-BA,Brazil,M,27,Single,Professional,1,5,TRUE,FALSE
+Changsha,NA,China,M,41,Married,Sales,3,3,FALSE,TRUE
+Blackpool,NA,United Kingdom,F,36,Unspecified,Hospitality,6,0,FALSE,TRUE
+Graz,NA,Austria,F,25,Single,Other,8,2,FALSE,TRUE
+Atlanta,GA,United States,M,20,Single,Trades,6,2,FALSE,TRUE
+Sacramento,CA,United States,F,26,Married,Other,0,2,TRUE,FALSE
+St Paul,MN,United States,F,33,Unspecified,Other,2,9,TRUE,FALSE
+Dübendorf,NA,Switzerland,M,22,Single,Sales,10,0,FALSE,TRUE
+Zaragoza,NA,Spain,M,30,Single,Executive,9,2,FALSE,TRUE
+Wayne,NE,United States,M,22,Single,Professional,4,0,FALSE,TRUE
+Salerno,NA,Italy,F,31,Married,Other,2,1,TRUE,TRUE
+Stuttgart,NA,Germany,F,39,Unspecified,Hospitality,6,1,FALSE,TRUE
+Clermont-Ferrand,NA,France,M,34,Married,Other,6,2,FALSE,TRUE
+Bahadurgarh,HR,India,M,27,Single,Student,7,0,FALSE,TRUE
+Firenze,FI,Italy,F,47,Married,Executive,9,2,FALSE,TRUE
+Beijing,NA,China,M,26,Single,Trades,10,2,FALSE,TRUE
+Bilbao,BI,Spain,F,38,Married,Other,2,8,TRUE,FALSE
+Salmon Arm,BC,Canada,F,27,Unspecified,Professional,1,10,TRUE,FALSE
+Venezia,NA,Italy,M,29,Single,Professional,6,2,FALSE,TRUE
+Innsbruck,NA,Austria,M,32,Married,Sales,6,2,FALSE,TRUE
+San Leandro,CA,United States,M,27,Single,Other,1,9,TRUE,FALSE
+Halifax,NS,Canada,M,30,Single,Trades,7,2,FALSE,TRUE
+Omsk,NA,Russia,M,19,Single,Sales,12,2,FALSE,TRUE
+Denver,CO,United States,F,39,Single,Retail,0,7,TRUE,FALSE
+Schaumburg,IL,United States,M,25,Single,Trades,5,1,FALSE,TRUE
+Novosibirsk,NA,Russia,M,39,Married,Other,3,1,FALSE,TRUE
+Singapore,Singapore,Singapore,M,39,Married,Sales,0,3,TRUE,TRUE
+Antwerpen,NA,Belgium,F,55,Married,Other,10,1,FALSE,TRUE
+Southampton,NA,United Kingdom,M,25,Single,Other,11,0,FALSE,TRUE
+Rostov-on-Don,NA,Russia,M,24,Single,Executive,6,1,FALSE,TRUE
+Overland Park,KS,United States,M,24,Single,Other,6,1,FALSE,TRUE
+Perth,WA,Australia,F,23,Single,Student,1,7,TRUE,FALSE
+Qiqihaer,NA,China,F,58,Married,Other,8,1,FALSE,TRUE
+Grenoble,NA,France,F,22,Single,Other,6,2,FALSE,TRUE
+Ronana,MT,United States,F,38,Married,Other,2,1,TRUE,TRUE
+Århus,NA,Denmark,M,36,Married,Sales,8,2,FALSE,TRUE
+Singapore,Singapore,Singapore,M,39,Single,Executive,8,1,FALSE,TRUE
+Catania,CT,Italy,M,48,Unspecified,Trades,5,3,FALSE,TRUE
+Chandigarh,NA,India,M,34,Married,Trades,9,3,FALSE,TRUE
+Stuttgart,NA,Germany,F,21,Married,Retail,1,2,TRUE,TRUE
+Silkeborg,NA,Denmark,M,22,Single,Other,8,2,FALSE,TRUE
+Lisle,IL,United States,M,40,Married,Trades,1,4,TRUE,FALSE
+Pamplona,NA,Spain,F,31,Married,Hospitality,2,9,TRUE,FALSE
+Changchun,NA,China,F,36,Unspecified,Other,2,8,TRUE,FALSE
+Frogmore,NA,United Kingdom,M,30,Single,Trades,6,0,FALSE,TRUE
+Trois-Rivières,QC,Canada,F,48,Married,Executive,1,0,TRUE,TRUE
+Greenwhich,NA,United Kingdom,F,28,Married,Retail,0,9,TRUE,FALSE
+Houston,TX,United States,F,22,Married,Other,2,7,TRUE,FALSE
+Canberra,ACT,Australia,F,33,Single,Retail,0,7,TRUE,FALSE
+Brisbane,Qld,Australia,F,34,Married,Retail,1,7,TRUE,FALSE
+Renfrew,ON,Canada,F,39,Married,Other,0,9,TRUE,FALSE
+Bielefeld,NA,Germany,M,26,Single,Professional,6,0,FALSE,TRUE
+Sherbrooke,QC,Canada,F,32,Married,Other,9,1,FALSE,TRUE
+Midwest City,OK,United States,M,26,Single,Sales,9,1,FALSE,TRUE
+Sevilla,NA,Spain,M,38,Single,Professional,6,3,FALSE,TRUE
+Singapore,Singapore,Singapore,F,25,Single,Professional,9,2,FALSE,TRUE
+Kiyose,NA,Japan,M,23,Single,Trades,6,3,FALSE,TRUE
+Salzburg,NA,Austria,M,29,Single,Professional,6,1,FALSE,TRUE
+Stanford,CA,United States,F,45,Married,Hospitality,7,1,FALSE,TRUE
+Caen,NA,France,M,28,Single,Trades,7,0,FALSE,TRUE
+Little Chute,WI,United States,M,34,Married,Executive,7,3,FALSE,TRUE
+Viborg,NA,Denmark,M,22,Single,Other,5,3,FALSE,TRUE
+Brisbane,Qld,Australia,M,32,Married,Sales,9,0,FALSE,TRUE
+Stevenage,NA,United Kingdom,F,36,Married,Other,7,2,FALSE,TRUE
+Porto Alegre,BR-RS,Brazil,M,26,Single,Other,11,2,FALSE,TRUE
+Sakai,NA,Japan,M,31,Single,Trades,9,3,FALSE,TRUE
+Springfield,PA,United States,F,37,Married,Executive,2,7,TRUE,FALSE
+Millstatt,NA,Austria,M,28,Single,Sales,6,0,FALSE,TRUE
+Suwa,NA,Japan,M,28,Married,Executive,6,1,FALSE,TRUE
+Nottingham,NA,United Kingdom,M,30,Married,Executive,7,2,FALSE,TRUE
+Logroño,LO,Spain,F,33,Single,Retail,2,2,TRUE,TRUE
+Palm Desert,CA,United States,M,23,Single,Trades,9,1,FALSE,TRUE
+Whitehorse,YT,Canada,F,28,Married,Other,2,7,TRUE,FALSE
+Genève,NA,Switzerland,M,19,Single,Trades,9,1,FALSE,TRUE
+Brugge,NA,Belgium,M,20,Single,Other,7,3,FALSE,TRUE
+Qingdao,NA,China,M,21,Single,Other,7,1,FALSE,TRUE
+Lahti,NA,Finland,M,34,Single,Trades,6,0,FALSE,TRUE
+Helsinki,NA,Finland,F,48,Married,Executive,5,3,FALSE,TRUE
+Cixi,NA,China,M,29,Single,Professional,8,2,FALSE,TRUE
+São João de Meriti,BR-RJ,Brazil,F,27,Married,Executive,7,2,FALSE,TRUE
+Torino,TO,Italy,M,37,Married,Professional,9,3,FALSE,TRUE
+Vernon,BC,Canada,M,23,Single,Professional,6,1,FALSE,TRUE
+Monterey,NA,Mexico,F,47,Married,Executive,6,2,FALSE,TRUE
+Lisle,IL,United States,M,20,Single,Trades,5,2,FALSE,TRUE
+Brussel,NA,Belgium,M,34,Unspecified,Professional,6,3,FALSE,TRUE
+Tolyatti,NA,Russia,F,44,Married,Executive,8,2,FALSE,TRUE
+Regina,SK,Canada,M,30,Single,Other,8,2,FALSE,TRUE
+Barnaul,NA,Russia,M,27,Single,Sales,7,1,FALSE,TRUE
+Tampico,NA,Mexico,F,47,Married,Executive,6,3,FALSE,TRUE
+Cixi,NA,China,F,35,Married,Executive,2,8,TRUE,FALSE
+Palermo,PA,Italy,F,27,Married,Retail,0,5,TRUE,FALSE
+Houston,TX,United States,F,47,Married,Other,10,0,FALSE,TRUE
+Caen,NA,France,M,26,Single,Professional,7,0,FALSE,TRUE
+Bromley,NA,United Kingdom,M,28,Single,Other,7,1,FALSE,TRUE
+Fuquay Varina,NC,United States,M,35,Married,Other,5,2,FALSE,TRUE
+Shimonoseki,NA,Japan,M,28,Single,Trades,9,2,FALSE,TRUE
+Rouen,NA,France,M,30,Single,Professional,7,2,FALSE,TRUE
+Barnet,NA,United Kingdom,M,31,Single,Trades,0,0,FALSE,TRUE
+Nimes,NA,France,M,37,Married,Trades,5,1,FALSE,TRUE
+Chemnitz,NA,Germany,F,41,Married,Executive,2,5,TRUE,FALSE
+Lille,NA,France,F,32,Married,Other,6,2,FALSE,TRUE
+Rancho Santa Margarita,CA,United States,M,42,Married,Trades,8,2,FALSE,TRUE
+Bellinzona,NA,Switzerland,F,30,Married,Other,3,7,TRUE,FALSE
+Sunderland,NA,United Kingdom,M,19,Single,Professional,13,3,FALSE,TRUE
+Eastbourne,NA,United Kingdom,M,34,Single,Other,6,0,FALSE,TRUE
+Nimes,NA,France,F,40,Married,Other,2,7,TRUE,FALSE
+Osasco,BR-SP,Brazil,F,22,Single,Other,6,1,FALSE,TRUE
+Metz,NA,France,M,39,Married,Trades,5,1,FALSE,TRUE
+Singapore,Singapore,Singapore,M,28,Single,Trades,6,0,FALSE,TRUE
+Graz,NA,Austria,M,40,Married,Other,7,1,FALSE,TRUE
+Qiqihaer,NA,China,M,33,Single,Other,8,2,FALSE,TRUE
+Clermont-Ferrand,NA,France,F,31,Married,Hospitality,6,0,FALSE,TRUE
+Stuttgart,NA,Germany,M,36,Married,Executive,10,1,FALSE,TRUE
+Basel,NA,Switzerland,F,30,Married,Other,11,0,FALSE,TRUE
+Shijiazhuang,NA,China,F,24,Single,Student,6,1,FALSE,TRUE
+Milano,NA,Italy,M,20,Single,Other,2,2,FALSE,TRUE
+Firenze,NA,Italy,F,20,Married,Other,0,8,TRUE,FALSE
+Melk,NA,Austria,F,35,Married,Other,2,7,TRUE,FALSE
+Chengdu,NA,China,M,20,Single,Professional,6,0,FALSE,TRUE
+Le Mans,NA,France,M,36,Unspecified,Sales,7,0,FALSE,TRUE
+Niquelândia,BR-GO,Brazil,M,19,Single,Sales,4,1,FALSE,TRUE
+Strasburg,CO,United States,M,29,Single,Trades,7,3,FALSE,TRUE
+Bhopal,NA,India,F,36,Married,Other,1,0,TRUE,TRUE
+Irapuato,NA,Mexico,F,20,Married,Other,4,0,FALSE,TRUE
+Changsha,NA,China,M,29,Single,Professional,2,2,FALSE,TRUE
+Changsha,NA,China,F,31,Married,Other,1,4,TRUE,FALSE
+Karlstad,NA,Sweden,M,24,Single,Sales,5,0,FALSE,TRUE
+Turnhout,NA,Belgium,F,29,Married,Other,2,4,TRUE,FALSE
+Salamanca,NA,Spain,F,20,Married,Other,0,7,TRUE,FALSE
+Gijón,O,Spain,M,23,Single,Professional,5,2,FALSE,TRUE
+São João de Meriti,BR-RJ,Brazil,M,19,Single,Trades,4,1,FALSE,TRUE
+Genève,NA,Switzerland,F,24,Single,Other,2,6,TRUE,FALSE
+Sydney,NSW,Australia,F,35,Unspecified,Hospitality,5,2,FALSE,TRUE
+Kirensk,NA,Russia,M,22,Single,Executive,7,2,FALSE,TRUE
+Newham,NA,United Kingdom,M,20,Single,Retail,6,3,FALSE,TRUE
+Dübendorf,NA,Switzerland,M,19,Single,Professional,5,2,FALSE,TRUE
+Portland,OR,United States,M,20,Single,Trades,9,2,FALSE,TRUE
+Tilburg,NA,Netherlands,F,38,Unspecified,Other,2,6,TRUE,FALSE
+Västerås,NA,Sweden,M,20,Single,Other,9,2,FALSE,TRUE
+Queretaro,NA,Mexico,M,29,Single,Professional,3,2,FALSE,TRUE
+Musashino,NA,Japan,M,43,Married,Trades,3,2,FALSE,TRUE
+Hadano,NA,Japan,F,34,Married,Other,2,6,TRUE,FALSE
+San Pedro Garza García,NA,Mexico,M,25,Single,Trades,3,2,FALSE,TRUE
+Nimes,NA,France,F,30,Single,Retail,1,9,TRUE,FALSE
+São Paulo,BR-SP,Brazil,M,41,Married,Executive,2,1,TRUE,TRUE
+Singapore,Singapore,Singapore,M,27,Single,Other,10,2,FALSE,TRUE
+Beijing,NA,China,M,30,Single,Student,9,1,FALSE,TRUE
+Charlottetown,PE,Canada,M,29,Single,Other,5,1,FALSE,TRUE
+Watertown,NY,United States,F,33,Married,Hospitality,6,3,FALSE,TRUE
+Columbus,OH,United States,M,31,Married,Sales,5,2,FALSE,TRUE
+Caen,NA,France,M,28,Married,Sales,4,1,FALSE,TRUE
+Dübendorf,NA,Switzerland,M,21,Single,Trades,5,1,FALSE,TRUE
+Petrópolis,BR-RJ,Brazil,M,37,Married,Trades,0,7,TRUE,FALSE
+Singapore,Singapore,Singapore,M,30,Single,Other,5,0,FALSE,TRUE
+Paranaguá,BR-PR,Brazil,M,19,Single,Trades,4,2,FALSE,TRUE
+Ajmer,NA,India,M,43,Married,Sales,6,2,FALSE,TRUE
+Gendale,AZ,United States,M,30,Single,Other,6,1,FALSE,TRUE
+Córdoba,NA,Spain,F,44,Married,Other,2,1,TRUE,TRUE
+Cangzhou,NA,China,F,20,Single,Other,1,8,TRUE,FALSE
+Singapore,Singapore,Singapore,M,39,Married,Other,9,1,FALSE,TRUE
+Beijing,NA,China,M,25,Single,Sales,5,1,FALSE,TRUE
+Skive,NA,Denmark,F,31,Married,Executive,2,8,TRUE,FALSE
+Metz,NA,France,F,23,Single,Other,4,2,FALSE,TRUE
+Perth,WA,Australia,M,28,Single,Other,7,0,FALSE,TRUE
+Bari,NA,Italy,F,38,Married,Executive,7,2,FALSE,TRUE
+Viborg,NA,Denmark,F,26,Married,Retail,1,2,TRUE,TRUE
+Sakai,NA,Japan,M,28,Single,Professional,8,0,FALSE,TRUE
+Oviedo,O,Spain,M,43,Married,Other,8,0,FALSE,TRUE
+Itajaí,BR-SC,Brazil,M,25,Single,Sales,6,3,FALSE,TRUE
+Plymouth,NA,United Kingdom,F,40,Married,Other,8,1,FALSE,TRUE
+Raigarh,CG,India,M,36,Married,Trades,7,1,FALSE,TRUE
+Tolyatti,NA,Russia,M,20,Single,Sales,7,2,FALSE,TRUE
+Århus,NA,Denmark,M,31,Single,Other,7,1,FALSE,TRUE
+Bremen,NA,Germany,M,22,Single,Student,3,2,FALSE,TRUE
+Genova,NA,Italy,F,32,Married,Hospitality,9,2,FALSE,TRUE
+Venezia,VE,Italy,F,41,Married,Other,8,0,FALSE,TRUE
+Chicago,IL,United States,F,48,Married,Hospitality,6,0,FALSE,TRUE
+Donalds,SC,United States,F,49,Married,Hospitality,7,2,FALSE,TRUE
+Nässjö,NA,Sweden,M,42,Married,Other,5,2,FALSE,TRUE
+Reading,NA,United Kingdom,M,33,Married,Trades,6,1,FALSE,TRUE
+Hyderabad,NA,India,M,26,Single,Other,10,3,FALSE,TRUE
+Sendai,NA,Japan,F,23,Single,Hospitality,1,2,TRUE,TRUE
+Cangzhou,NA,China,M,35,Married,Executive,6,3,FALSE,TRUE
+Frederikshavn,NA,Denmark,M,23,Single,Other,7,1,FALSE,TRUE
+Canberra,ACT,Australia,F,30,Married,Executive,2,8,TRUE,FALSE
+Chelyabinsk,NA,Russia,M,38,Married,Other,3,0,FALSE,TRUE
+Redbridge,NA,United Kingdom,M,32,Married,Other,3,2,FALSE,TRUE
+Magnitogorsk,NA,Russia,M,27,Single,Sales,9,1,FALSE,TRUE
+Westport,ON,Canada,F,28,Single,Other,1,7,TRUE,FALSE
+Torino,TO,Italy,M,27,Single,Sales,4,3,FALSE,TRUE
+Córdoba,NA,Spain,F,34,Single,Retail,0,4,TRUE,FALSE
+Adelaide,SA,Australia,M,40,Married,Executive,6,2,FALSE,TRUE
+Firenze,NA,Italy,F,33,Married,Other,7,2,FALSE,TRUE
+México,NA,Mexico,M,27,Single,Sales,5,2,FALSE,TRUE
+Ufa,NA,Russia,F,20,Married,Retail,2,7,TRUE,FALSE
+Fredericia,NA,Denmark,M,22,Single,Professional,9,2,FALSE,TRUE
+Shijiazhuang,NA,China,F,45,Married,Executive,5,0,FALSE,TRUE
+Vernon,BC,Canada,M,32,Single,Other,5,0,FALSE,TRUE
+Saint Augustine,FL,United States,F,48,Married,Other,2,5,TRUE,FALSE
+Rio de Janeiro,BR-RJ,Brazil,M,25,Single,Professional,4,4,FALSE,TRUE
+Kelamayi,NA,China,F,31,Married,Executive,7,0,FALSE,TRUE
+Puebla,NA,Mexico,M,39,Married,Other,4,1,FALSE,TRUE
+Manaus,BR-AM,Brazil,M,32,Married,Executive,6,1,FALSE,TRUE
+Besancon,NA,France,M,30,Single,Other,8,3,FALSE,TRUE
+Niterói,BR-RJ,Brazil,M,28,Single,Executive,8,1,FALSE,TRUE
+Plymouth,NA,United Kingdom,M,29,Single,Executive,7,1,FALSE,TRUE
+Köln,NA,Germany,M,36,Married,Trades,6,2,FALSE,TRUE
+Namur,NA,Belgium,F,31,Married,Hospitality,5,1,FALSE,TRUE
+Gorakhpur,MH,India,F,28,Single,Other,7,0,FALSE,TRUE
+Salerno,NA,Italy,M,44,Married,Retired,1,8,TRUE,FALSE
+Reading,NA,United Kingdom,M,27,Single,Trades,6,2,FALSE,TRUE
+Urbandale,IA,United States,M,30,Single,Professional,8,2,FALSE,TRUE
+Southwark,NA,United Kingdom,F,46,Unspecified,Hospitality,5,2,FALSE,TRUE
+Bilbao,BI,Spain,M,41,Married,Other,11,0,FALSE,TRUE
+São Bernardo do Campo,BR-SP,Brazil,F,31,Married,Executive,0,7,TRUE,FALSE
+Musashino,NA,Japan,F,49,Married,Other,2,3,TRUE,FALSE
+Fuxin,NA,China,M,28,Single,Professional,6,2,FALSE,TRUE
+Chyofu,NA,Japan,F,38,Married,Other,7,1,FALSE,TRUE
+Zacatecas,NA,Mexico,M,19,Single,Professional,7,1,FALSE,TRUE
+Tujunga,CA,United States,F,45,Married,Other,2,9,TRUE,FALSE
+Córdoba,NA,Spain,M,41,Single,Sales,6,0,FALSE,TRUE
+Århus,NA,Denmark,M,23,Single,Sales,8,3,FALSE,TRUE
+Kumamoto,NA,Japan,F,20,Married,Retail,1,5,TRUE,FALSE
+Sergeant Bluff,IA,United States,M,29,Single,Other,7,1,FALSE,TRUE
+Nova Iguaçu,BR-RJ,Brazil,F,27,Single,Hospitality,3,3,FALSE,TRUE
+Broken  Arrow,OK,United States,F,36,Married,Other,1,0,TRUE,TRUE
+Mysore,KA,India,M,23,Single,Professional,5,0,FALSE,TRUE
+Stockholm,NA,Sweden,M,25,Single,Trades,6,2,FALSE,TRUE
+Yukhnov,NA,Russia,F,25,Married,Retail,2,7,TRUE,FALSE
+Malmö,NA,Sweden,M,24,Single,Other,6,0,FALSE,TRUE
+Melbourne,Vic,Australia,F,34,Married,Other,8,2,FALSE,TRUE
+Perpignan,NA,France,M,34,Single,Other,9,2,FALSE,TRUE
+São Gonçalo,BR-RJ,Brazil,F,34,Married,Hospitality,3,0,TRUE,TRUE
+Eugene,OR,United States,M,23,Single,Professional,9,3,FALSE,TRUE
+Mäntsälä,NA,Finland,F,49,Married,Executive,8,1,FALSE,TRUE
+Changchun,NA,China,F,24,Single,Other,5,1,FALSE,TRUE
+Kumamoto,NA,Japan,F,27,Single,Other,2,1,TRUE,TRUE
+Jinju,NA,Korea,M,27,Single,Trades,5,2,FALSE,TRUE
+Fuxin,NA,China,F,49,Married,Executive,2,0,TRUE,TRUE
+São Paulo,BR-SP,Brazil,F,42,Married,Other,4,2,FALSE,TRUE
+Hamburg,NA,Germany,M,38,Married,Trades,8,2,FALSE,TRUE
+Mandrem,KA,India,M,33,Single,Trades,4,1,FALSE,TRUE
+Huelva,NA,Spain,F,32,Married,Other,4,1,FALSE,TRUE
+Mysore,ap,India,M,32,Married,Trades,2,2,FALSE,TRUE
+Utrecht,NA,Netherlands,F,47,Married,Executive,0,8,TRUE,FALSE
+León,NA,Mexico,F,42,Married,Other,7,2,FALSE,TRUE
+Augsburg,NA,Germany,F,29,Single,Other,7,1,FALSE,TRUE
+Milwaukee,WI,United States,M,30,Married,Other,10,0,FALSE,TRUE
+Aachen,NA,Germany,F,34,Married,Hospitality,1,1,TRUE,TRUE
+Kitchener,ON,Canada,F,44,Married,Professional,3,7,TRUE,FALSE
+Las Vegas,NV,United States,M,25,Single,Other,4,2,FALSE,TRUE
+Kasugai,NA,Japan,F,38,Unspecified,Hospitality,1,5,TRUE,FALSE
+Izhevsk,NA,Russia,F,48,Unspecified,Hospitality,1,2,TRUE,TRUE
+Bow,WA,United States,F,32,Married,Executive,2,9,TRUE,FALSE
+Zacatecas,NA,Mexico,M,24,Single,Other,8,1,FALSE,TRUE
+Lahti,NA,Finland,F,23,Married,Retail,2,7,TRUE,FALSE
+Navegantes,BR-SC,Brazil,F,44,Unspecified,Hospitality,6,2,FALSE,TRUE
+Valencia,NA,Spain,F,42,Married,Other,7,2,FALSE,TRUE
+Qiqihaer,NA,China,F,26,Single,Other,6,1,FALSE,TRUE
+Campinas,BR-SP,Brazil,F,31,Unspecified,Other,0,1,TRUE,TRUE
+Sapporo-shi,???,Japan,M,39,Married,Executive,2,4,TRUE,FALSE
+Guelph,ON,Canada,M,41,Single,Executive,7,2,FALSE,TRUE
+Adelaide,SA,Australia,M,28,Single,Sales,5,1,FALSE,TRUE
+Heihe,NA,China,M,19,Single,Professional,7,0,FALSE,TRUE
+Sion,NA,Switzerland,M,25,Single,Professional,7,2,FALSE,TRUE
+Lowestoft,NA,United Kingdom,M,23,Single,Student,8,1,FALSE,TRUE
+Bromont,QC,Canada,F,42,Married,Other,3,3,FALSE,TRUE
+Yevatmal,AP,India,M,34,Single,Other,8,2,FALSE,TRUE
+Woodcote,NA,United Kingdom,M,21,Single,Professional,8,3,FALSE,TRUE
+Kumamoto,NA,Japan,F,39,Unspecified,Hospitality,0,3,TRUE,FALSE
+Cuernavaca,NA,Mexico,M,28,Single,Other,6,3,FALSE,TRUE
+Sakai,NA,Japan,F,45,Married,Executive,2,7,TRUE,FALSE
+Köln,NA,Germany,M,34,Single,Other,5,1,FALSE,TRUE
+Los Angeles,CA,United States,M,20,Single,Professional,5,2,FALSE,TRUE
+Puerto Vallarta,NA,Mexico,F,39,Married,Other,4,7,TRUE,FALSE
+Clermont-Ferrand,NA,France,M,23,Single,Sales,9,1,FALSE,TRUE
+Kiel,NA,Germany,M,30,Single,Professional,5,0,FALSE,TRUE
+Köln,NA,Germany,M,20,Single,Other,5,2,FALSE,TRUE
+Melbourne,Vic,Australia,M,34,Single,Other,1,4,TRUE,FALSE
+Köln,NA,Germany,F,34,Married,Retail,3,2,FALSE,TRUE
+Melbourne,Vic,Australia,F,46,Married,Executive,1,2,FALSE,TRUE
+Brisbane,Qld,Australia,M,20,Single,Trades,4,1,FALSE,TRUE
+Brampton,ON,Canada,M,19,Single,Professional,9,1,FALSE,TRUE
+San Luis Obispo,CA,United States,M,23,Single,Other,7,2,FALSE,TRUE
+Decatur,AL,United States,F,41,Married,Executive,0,7,TRUE,FALSE
+Guangzhou,NA,China,M,28,Single,Trades,11,2,FALSE,TRUE
+North Brunswick,NJ,United States,F,30,Married,Other,1,2,TRUE,TRUE
+Campinas,BR-SP,Brazil,F,26,Married,Retail,1,5,TRUE,FALSE
+Melbourne,Vic,Australia,F,47,Married,Hospitality,6,1,FALSE,TRUE
+Rotterdam,NA,Netherlands,M,31,Single,Professional,9,1,FALSE,TRUE
+Vancouver,BC,Canada,F,20,Married,Other,1,2,TRUE,TRUE
+Kawasaki,NA,Japan,M,23,Single,Sales,1,5,TRUE,FALSE
+Randers,NA,Denmark,F,28,Single,Retail,5,2,FALSE,TRUE
+Canberra,ACT,Australia,M,29,Single,Professional,6,1,FALSE,TRUE
+Aix-en-Provence,NA,France,F,40,Married,Other,4,2,FALSE,TRUE
+Vernon,BC,Canada,M,29,Single,Trades,10,1,FALSE,TRUE
+Bari,NA,Italy,M,33,Married,Executive,7,2,FALSE,TRUE
+Columbia,SC,United States,M,20,Single,Sales,11,2,FALSE,TRUE
+Ramsgate,NA,United Kingdom,M,32,Single,Other,5,1,FALSE,TRUE
+Brasília,BR-DF,Brazil,M,28,Single,Executive,10,0,FALSE,TRUE
+Chongqing,NA,China,F,22,Married,Other,0,9,TRUE,FALSE
+Austin,TX,United States,M,39,Married,Executive,5,1,FALSE,TRUE
+Chesterfield,NA,United Kingdom,M,19,Single,Other,8,2,FALSE,TRUE
+Chongqing,NA,China,F,43,Married,Other,8,0,FALSE,TRUE
+Basel,NA,Switzerland,F,34,Married,Retail,9,0,FALSE,TRUE
+Aachen,NA,Germany,M,27,Single,Other,8,1,FALSE,TRUE
+Edina,MN,United States,M,36,Married,Sales,8,2,FALSE,TRUE
+Barnaul,NA,Russia,F,24,Married,Other,2,1,FALSE,TRUE
+Port Orchard,WA,United States,F,45,Married,Other,1,6,TRUE,FALSE
+Nova Iguaçu,BR-RJ,Brazil,M,25,Single,Trades,7,0,FALSE,TRUE
+Gyeongju,NA,Korea,M,38,Married,Other,7,2,FALSE,TRUE
+Lille,NA,France,M,20,Single,Other,6,0,FALSE,TRUE
+Stratford,ON,Canada,F,42,Married,Other,6,1,FALSE,TRUE
+Limoges,NA,France,F,35,Married,Other,1,1,TRUE,TRUE
+Tokyo,NA,Japan,M,29,Single,Other,7,0,FALSE,TRUE
+Lille,NA,France,M,31,Married,Other,1,6,TRUE,FALSE
+Ronse,NA,Belgium,M,32,Married,Executive,6,1,FALSE,TRUE
+Claremont,NC,United States,M,24,Single,Professional,5,2,FALSE,TRUE
+Dresden,NA,Germany,F,28,Married,Retail,3,6,TRUE,FALSE
+Evergem,NA,Belgium,M,29,Single,Sales,5,0,FALSE,TRUE
+St. Petersburg,FL,United States,M,32,Married,Other,6,1,FALSE,TRUE
+Bielefeld,NA,Germany,M,33,Single,Other,6,1,FALSE,TRUE
+Paris,NA,France,M,21,Single,Other,7,4,FALSE,TRUE
+Tokyo,NA,Japan,M,20,Single,Professional,10,1,FALSE,TRUE
+Sion,NA,Switzerland,F,35,Married,Executive,2,3,TRUE,FALSE
+Osnabrück,NA,Germany,F,32,Married,Executive,6,1,FALSE,TRUE
+Frankfurt,NA,Germany,M,27,Single,Trades,5,2,FALSE,TRUE
+Timóteo,BR-MG,Brazil,F,49,Married,Other,7,2,FALSE,TRUE
+Erfurt,NA,Germany,M,21,Single,Executive,7,2,FALSE,TRUE
+Wien,NA,Austria,M,38,Single,Sales,7,3,FALSE,TRUE
+Crestwood,KY,United States,M,31,Single,Trades,7,2,FALSE,TRUE
+Rennes,NA,France,F,42,Unspecified,Hospitality,1,5,TRUE,FALSE
+Beijing,NA,China,F,23,Single,Hospitality,7,1,FALSE,TRUE
+Indore,NA,India,M,36,Married,Executive,1,4,TRUE,FALSE
+Melbourne,Vic,Australia,M,28,Single,Trades,5,1,FALSE,TRUE
+Portage La Prairie,MB,Canada,M,31,Married,Executive,10,3,FALSE,TRUE
+Chesterfield,NA,United Kingdom,F,47,Married,Executive,0,2,TRUE,TRUE
+Hämeenlinna,NA,Finland,F,48,Married,Hospitality,8,2,FALSE,TRUE
+Shijiazhuang,NA,China,M,43,Married,Sales,7,1,FALSE,TRUE
+New Salisbury,IN,United States,F,43,Unspecified,Hospitality,3,4,TRUE,FALSE
+Cocoa,FL,United States,F,43,Unspecified,Hospitality,4,1,FALSE,TRUE
+Shijiazhuang,NA,China,M,29,Single,Professional,7,1,FALSE,TRUE
+Sudbury,ON,Canada,M,31,Married,Trades,7,1,FALSE,TRUE
+Bern,NA,Switzerland,F,44,Married,Other,5,2,FALSE,TRUE
+Palermo,PA,Italy,F,27,Single,Other,1,6,TRUE,FALSE
+Kamloops,BC,Canada,M,21,Single,Student,4,2,FALSE,TRUE
+Halfway,OR,United States,M,29,Single,Sales,8,3,FALSE,TRUE
+Campinas,BR-SP,Brazil,F,30,Married,Executive,11,3,FALSE,TRUE
+North Brunswick,NJ,United States,F,46,Married,Retired,7,2,FALSE,TRUE
+Hiroshima,NA,Japan,M,21,Single,Executive,5,3,FALSE,TRUE
+Guadalajara,NA,Mexico,M,25,Single,Trades,8,3,FALSE,TRUE
+Busan,NA,Korea,F,30,Married,Other,1,3,TRUE,FALSE
+Saint-Etienne,NA,France,M,34,Single,Other,7,2,FALSE,TRUE
+Bremen,NA,Germany,M,23,Single,Trades,7,3,FALSE,TRUE
+Adelaide,SA,Australia,M,25,Married,Other,12,2,FALSE,TRUE
+Adelaide,SA,Australia,M,43,Married,Other,11,2,FALSE,TRUE
+Heidelberg,NA,Germany,M,44,Married,Sales,8,0,FALSE,TRUE
+Nice,NA,France,M,21,Single,Trades,8,1,FALSE,TRUE
+Saarbrücken,NA,Germany,M,26,Single,Other,5,2,FALSE,TRUE
+Chongqing,NA,China,F,31,Unspecified,Other,1,4,TRUE,FALSE
+Viborg,NA,Denmark,M,30,Married,Sales,7,3,FALSE,TRUE
+Fuxin,NA,China,M,41,Married,Trades,6,2,FALSE,TRUE
+Heihe,NA,China,F,48,Married,Executive,6,0,FALSE,TRUE
+Duque de Caxias,BR-RJ,Brazil,M,37,Married,Executive,6,2,FALSE,TRUE
+Kotka,NA,Finland,M,39,Married,Trades,6,4,FALSE,TRUE
+Qingdao,NA,China,F,20,Single,Other,0,7,TRUE,FALSE
+Sakai,NA,Japan,F,25,Unspecified,Other,3,7,TRUE,FALSE
+Guangzhou,NA,China,F,47,Married,Other,3,1,FALSE,TRUE
+Bonn,NA,Germany,F,23,Married,Retail,5,0,FALSE,TRUE
+Fukuoka,NA,Japan,M,21,Single,Other,9,2,FALSE,TRUE
+Zell am See,NA,Austria,F,33,Married,Hospitality,1,1,TRUE,TRUE
+Melbourne,Vic,Australia,M,25,Single,Trades,6,0,FALSE,TRUE
+Puerto Vallarta,NA,Mexico,M,21,Single,Trades,3,2,FALSE,TRUE
+Home,KS,United States,M,19,Single,Trades,3,2,FALSE,TRUE
+Barnet,NA,United Kingdom,F,24,Single,Hospitality,5,0,FALSE,TRUE
+Millstatt,NA,Austria,M,42,Married,Trades,3,1,FALSE,TRUE
+Kunsan,NA,Korea,M,30,Married,Sales,10,1,FALSE,TRUE
+Bonn,NA,Germany,M,35,Married,Sales,7,1,FALSE,TRUE
+Guangzhou,NA,China,M,23,Single,Executive,7,0,FALSE,TRUE
+Tijuana,NA,Mexico,M,34,Married,Sales,8,0,FALSE,TRUE
+Suwon,NA,Korea,F,49,Married,Hospitality,5,3,FALSE,TRUE
+Palermo,NA,Italy,M,20,Single,Professional,9,1,FALSE,TRUE
+Liverpool,NA,United Kingdom,F,37,Married,Executive,6,1,FALSE,TRUE
+Dübendorf,NA,Switzerland,M,32,Single,Professional,1,8,TRUE,FALSE
+Chengdu,NA,China,F,38,Married,Other,2,1,FALSE,TRUE
+Bromont,QC,Canada,F,23,Single,Other,2,8,TRUE,FALSE
+Sion,NA,Switzerland,F,44,Married,Other,2,6,TRUE,FALSE
+Inta,NA,Russia,M,36,Single,Executive,7,2,FALSE,TRUE
+Aix-en-Provence,NA,France,F,44,Married,Other,0,2,TRUE,FALSE
+Shijiazhuang,NA,China,F,38,Single,Retail,2,3,TRUE,FALSE
+Nova Iguaçu,BR-RJ,Brazil,M,23,Single,Trades,6,2,FALSE,TRUE
+Pamplona,NA,Spain,M,34,Married,Sales,5,2,FALSE,TRUE
+Bedford,NA,United Kingdom,M,28,Single,Other,1,0,FALSE,TRUE
+Towson,MD,United States,F,49,Married,Other,2,4,FALSE,TRUE
+Southwark,NA,United Kingdom,F,30,Unspecified,Other,1,6,TRUE,FALSE
+Orangeburg,SC,United States,M,23,Single,Other,6,2,FALSE,TRUE
+Nice,NA,France,M,29,Single,Other,6,1,FALSE,TRUE
+Playa del Carmen,NA,Mexico,F,45,Married,Executive,2,5,TRUE,FALSE
+Nässjö,NA,Sweden,F,42,Married,Other,5,0,FALSE,TRUE
+Santa Barbara,CA,United States,F,48,Married,Retired,6,0,FALSE,TRUE
+Tachikawa,NA,Japan,M,36,Unspecified,Sales,8,1,FALSE,TRUE
+Frederikshavn,NA,Denmark,M,26,Single,Professional,7,3,FALSE,TRUE
+Saskatoon,SK,Canada,M,33,Married,Executive,5,3,FALSE,TRUE
+Canberra,ACT,Australia,M,26,Single,Sales,6,0,FALSE,TRUE
+København,NA,Denmark,F,34,Married,Other,2,8,TRUE,FALSE
+Cupertino,CA,United States,M,27,Married,Other,7,1,FALSE,TRUE
+Saskatoon,SK,Canada,F,21,Married,Retail,1,1,TRUE,TRUE
+Wilkes Barre,PA,United States,M,41,Married,Executive,9,1,FALSE,TRUE
+Caen,NA,France,M,20,Single,Other,1,3,FALSE,TRUE
+Gmunden,NA,Austria,M,22,Single,Trades,4,1,FALSE,TRUE
+Puerto Vallarta,NA,Mexico,M,42,Married,Other,6,0,FALSE,TRUE
+Qiqihaer,NA,China,F,26,Single,Student,3,6,TRUE,FALSE
+Bromley,NA,United Kingdom,F,45,Married,Executive,4,1,FALSE,TRUE
+Salerno,SA,Italy,M,27,Single,Student,4,2,FALSE,TRUE
+Erfurt,NA,Germany,M,33,Married,Sales,6,2,FALSE,TRUE
+Fredericia,NA,Denmark,M,31,Married,Trades,6,3,FALSE,TRUE
+Fuquay Varina,NC,United States,M,41,Married,Sales,7,3,FALSE,TRUE
+Canberra,ACT,Australia,F,49,Unspecified,Hospitality,7,0,FALSE,TRUE
+Rennes,NA,France,M,21,Single,Sales,2,7,TRUE,FALSE
+Suwa,NA,Japan,M,38,Married,Other,2,6,TRUE,FALSE
+Kunsan,NA,Korea,M,24,Single,Professional,5,2,FALSE,TRUE
+Puerto Vallarta,NA,Mexico,M,25,Single,Other,7,1,FALSE,TRUE
+Zaragoza,NA,Spain,M,19,Single,Professional,8,3,FALSE,TRUE
+Dübendorf,NA,Switzerland,M,26,Single,Executive,7,3,FALSE,TRUE
+Enschede,NA,Netherlands,M,32,Single,Other,4,0,FALSE,TRUE
+Cornerbrook,NL,Canada,M,20,Single,Trades,10,0,FALSE,TRUE
+Perpignan,NA,France,F,36,Married,Other,6,3,FALSE,TRUE
+Yevatmal,AP,India,M,34,Single,Other,5,2,FALSE,TRUE
+Nancy,NA,France,M,22,Single,Sales,8,3,FALSE,TRUE
+Köln,NA,Germany,M,25,Single,Other,6,3,FALSE,TRUE
+Potsdam,NA,Germany,M,25,Single,Other,7,1,FALSE,TRUE
+Adelaide,SA,Australia,M,21,Single,Professional,8,1,FALSE,TRUE
+Beijing,NA,China,M,21,Single,Other,6,2,FALSE,TRUE
+Shijiazhuang,NA,China,F,37,Married,Professional,9,0,FALSE,TRUE
+Astrakhan,NA,Russia,M,27,Single,Other,4,2,FALSE,TRUE
+Portage La Prairie,MB,Canada,F,28,Single,Other,1,9,TRUE,FALSE
+Montrose,CO,United States,M,27,Single,Other,6,2,FALSE,TRUE
+Beijing,NA,China,M,28,Single,Executive,6,2,FALSE,TRUE
+Sion,NA,Switzerland,M,38,Married,Other,6,1,FALSE,TRUE
+Jeonju,NA,Korea,F,49,Married,Executive,5,2,FALSE,TRUE
+Quepem,GJ,India,M,44,Married,Sales,1,4,TRUE,FALSE
+Genève,NA,Switzerland,M,22,Single,Trades,6,2,FALSE,TRUE
+Genova,NA,Italy,M,29,Single,Other,7,2,FALSE,TRUE
+Palermo,NA,Italy,M,34,Married,Professional,7,3,FALSE,TRUE
+Wenatchee,WA,United States,M,41,Married,Other,5,2,FALSE,TRUE
+Vejle,NA,Denmark,F,39,Unspecified,Hospitality,3,7,TRUE,FALSE
+Chyofu,NA,Japan,M,41,Single,Other,9,2,FALSE,TRUE
+Eskilstuna,NA,Sweden,M,20,Single,Trades,7,2,FALSE,TRUE
+Chelmsford,NA,United Kingdom,M,23,Single,Other,7,2,FALSE,TRUE
+Brasília,BR-DF,Brazil,M,39,Married,Sales,7,2,FALSE,TRUE
+Qingdao,NA,China,F,41,Married,Other,8,2,FALSE,TRUE
+Perth,WA,Australia,F,20,Married,Retail,0,5,TRUE,FALSE
+Centennial,CO,United States,M,27,Single,Other,6,4,FALSE,TRUE
+Bern,NA,Switzerland,M,27,Single,Other,3,8,TRUE,FALSE
+Lexington,KY,United States,M,27,Single,Professional,5,2,FALSE,TRUE
+Fuxin,NA,China,F,31,Married,Other,0,6,TRUE,FALSE
+Parma,PR,Italy,F,43,Married,Other,7,0,FALSE,TRUE
+Erfurt,NA,Germany,M,30,Single,Trades,7,1,FALSE,TRUE
+Amsterdam,NA,Netherlands,F,47,Married,Retail,6,2,FALSE,TRUE
+Brest,NA,France,M,26,Single,Other,7,1,FALSE,TRUE
+Caen,NA,France,F,48,Unspecified,Hospitality,2,4,TRUE,FALSE
+New York City,NY,United States,M,28,Single,Trades,4,0,FALSE,TRUE
+Vladivostok,NA,Russia,M,26,Single,Other,9,2,FALSE,TRUE
+Perugia,PG,Italy,F,30,Unspecified,Other,6,1,FALSE,TRUE
+Chicago,IL,United States,M,37,Married,Other,2,1,FALSE,TRUE
+Salvador,BR-BA,Brazil,F,35,Unspecified,Hospitality,7,0,FALSE,TRUE
+Ridgeland,MS,United States,M,28,Single,Executive,7,2,FALSE,TRUE
+Marseille,NA,France,F,38,Married,Other,9,2,FALSE,TRUE
+Dresden,NA,Germany,F,39,Single,Retail,3,1,TRUE,TRUE
+Brampton,ON,Canada,M,40,Married,Sales,6,1,FALSE,TRUE
+Singapore,Singapore,Singapore,M,32,Married,Other,7,0,FALSE,TRUE
+Århus,NA,Denmark,F,30,Married,Other,1,5,TRUE,FALSE
+Spokane,WA,United States,M,36,Unspecified,Sales,10,1,FALSE,TRUE
+Aachen,NA,Germany,M,28,Single,Trades,7,3,FALSE,TRUE
+Bielefeld,NA,Germany,F,35,Married,Executive,1,6,TRUE,FALSE
+Las Vegas,NV,United States,F,39,Single,Professional,7,2,FALSE,TRUE
+Napoli,NA,Italy,M,26,Single,Trades,8,1,FALSE,TRUE
+Exeter,NA,United Kingdom,M,30,Single,Trades,6,2,FALSE,TRUE
+Vernon,BC,Canada,M,29,Married,Sales,7,0,FALSE,TRUE
+Pamplona,NA,Spain,F,24,Married,Other,8,3,FALSE,TRUE
+Hong Kong,NA,China,F,46,Married,Executive,4,3,TRUE,FALSE
+Aix-en-Provence,NA,France,M,32,Single,Professional,5,2,FALSE,TRUE
+Chihuahua,NA,Mexico,F,31,Married,Other,6,0,FALSE,TRUE
+Guangzhou,NA,China,M,40,Married,Executive,4,2,FALSE,TRUE
+Ramsgate,NA,United Kingdom,M,26,Single,Professional,4,1,FALSE,TRUE
+Cincinnati,OH,United States,F,21,Married,Retail,2,6,TRUE,FALSE
+Chengdu,NA,China,M,26,Single,Professional,9,3,FALSE,TRUE
+Poulsbo,WA,United States,M,20,Single,Professional,8,1,FALSE,TRUE
+Stevenage,NA,United Kingdom,F,22,Married,Other,2,8,TRUE,FALSE
+Basildon,NA,United Kingdom,M,25,Single,Other,4,2,FALSE,TRUE
+Bregenz,NA,Austria,M,24,Single,Executive,7,1,FALSE,TRUE
+Liverpool,NA,United Kingdom,M,23,Single,Other,6,3,FALSE,TRUE
+Pachuca de Soto,NA,Mexico,M,25,Single,Trades,5,1,FALSE,TRUE
+Canberra,ACT,Australia,M,23,Single,Trades,6,2,FALSE,TRUE
+Suwa,NA,Japan,M,26,Single,Sales,7,3,FALSE,TRUE
+Krems,NA,Austria,M,26,Single,Professional,5,2,FALSE,TRUE
+Everett,WA,United States,F,49,Married,Other,1,7,TRUE,FALSE
+Madrid,M,Spain,F,46,Married,Executive,0,7,TRUE,FALSE
+Sydney,NSW,Australia,M,31,Married,Trades,11,2,FALSE,TRUE
+Chemnitz,NA,Germany,F,41,Unspecified,Hospitality,0,1,TRUE,TRUE
+Palm Bay,FL,United States,M,19,Single,Trades,6,1,FALSE,TRUE
+Mendota Heights,MN,United States,F,25,Single,Other,7,1,FALSE,TRUE
+Beijing,NA,China,F,24,Married,Retail,1,1,TRUE,TRUE
+Guangzhou,NA,China,F,44,Married,Other,0,0,TRUE,TRUE
+Regina,SK,Canada,M,21,Single,Other,9,2,FALSE,TRUE
+Chengdu,NA,China,M,32,Married,Sales,5,3,FALSE,TRUE
+Chantilly,VA,United States,F,45,Married,Other,5,6,TRUE,FALSE
+Salerno,SA,Italy,M,33,Married,Other,6,0,FALSE,TRUE
+Hamburg,NA,Germany,M,26,Single,Professional,7,1,FALSE,TRUE
+St. Pölten,NA,Austria,F,34,Single,Other,0,9,TRUE,FALSE
+Eastbourne,NA,United Kingdom,M,19,Single,Student,6,2,FALSE,TRUE
+Groningen,NA,Netherlands,M,19,Single,Other,7,1,FALSE,TRUE
+Singapore,Singapore,Singapore,M,25,Single,Other,5,2,FALSE,TRUE
+Tolyatti,NA,Russia,M,27,Married,Sales,3,3,FALSE,TRUE
+Niquelândia,BR-GO,Brazil,M,28,Single,Professional,6,1,FALSE,TRUE
+Greenwhich,NA,United Kingdom,M,29,Single,Other,7,1,FALSE,TRUE
+Clearwater,FL,United States,F,49,Married,Executive,2,5,TRUE,FALSE
+Caen,NA,France,M,23,Single,Professional,4,3,FALSE,TRUE
+Strasbourg,NA,France,M,19,Single,Executive,6,2,FALSE,TRUE
+Frankfurt,NA,Germany,M,26,Single,Trades,7,0,FALSE,TRUE
+Rio de Janeiro,BR-RJ,Brazil,F,34,Unspecified,Other,3,5,TRUE,FALSE
+Liverpool,NA,United Kingdom,M,19,Single,Other,7,2,FALSE,TRUE
+Bellinzona,NA,Switzerland,F,29,Married,Other,0,9,TRUE,FALSE
+Bordeaux,NA,France,M,19,Single,Other,7,2,FALSE,TRUE
+Stuttgart,NA,Germany,M,26,Married,Sales,1,9,TRUE,FALSE
+Lennoxville,QC,Canada,F,38,Married,Retail,2,10,TRUE,FALSE
+Cerritos,CA,United States,F,45,Married,Executive,7,0,FALSE,TRUE
+Playa del Carmen,NA,Mexico,M,26,Married,Executive,8,2,FALSE,TRUE
+Brest,NA,France,M,33,Married,Other,2,3,TRUE,TRUE
+Fuxin,NA,China,M,41,Married,Sales,9,2,FALSE,TRUE
+Valencia,NA,Spain,M,39,Single,Executive,4,2,FALSE,TRUE
+Singapore,Singapore,Singapore,F,36,Married,Retail,2,2,TRUE,TRUE
+San Pedro Garza García,NA,Mexico,M,31,Married,Sales,1,2,TRUE,TRUE
+Angers,NA,France,M,24,Single,Other,4,2,FALSE,TRUE
+Arlington,VA,United States,F,45,Married,Executive,2,1,FALSE,TRUE
+Duque de Caxias,BR-RJ,Brazil,M,39,Single,Sales,4,2,FALSE,TRUE
+Fukushima,NA,Japan,M,38,Married,Trades,7,3,FALSE,TRUE
+Parma,PR,Italy,F,30,Married,Other,0,5,TRUE,FALSE
+Anchorage,AK,United States,M,33,Single,Professional,8,1,FALSE,TRUE
+Catania,CT,Italy,M,22,Single,Sales,4,1,FALSE,TRUE
+Akishima,NA,Japan,F,37,Unspecified,Other,2,9,TRUE,FALSE
+Strasbourg,NA,France,M,30,Married,Executive,5,2,FALSE,TRUE
+Mukilteo,WA,United States,F,26,Single,Other,5,0,FALSE,TRUE
+Fairbanks,AK,United States,M,35,Married,Sales,2,1,TRUE,TRUE
+New Richmond,WI,United States,M,21,Single,Other,12,2,FALSE,TRUE
+Aalst,NA,Belgium,F,49,Married,Other,4,3,FALSE,TRUE
+Bari,NA,Italy,F,34,Married,Professional,2,7,TRUE,FALSE
+Puerto Vallarta,NA,Mexico,F,30,Unspecified,Other,2,4,TRUE,FALSE
+Higashimurayama,NA,Japan,F,25,Single,Other,2,8,TRUE,FALSE
+Singapore,Singapore,Singapore,M,34,Married,Sales,8,2,FALSE,TRUE
+Basildon,NA,United Kingdom,F,41,Married,Other,3,7,TRUE,FALSE
+Leicester,NA,United Kingdom,F,30,Married,Other,1,6,TRUE,FALSE
+Manaus,BR-AM,Brazil,M,22,Single,Trades,8,2,FALSE,TRUE
+Petrópolis,BR-RJ,Brazil,M,24,Single,Professional,6,0,FALSE,TRUE
+Singapore,Singapore,Singapore,F,69,Married,Other,1,9,TRUE,FALSE
+Alexandria,VA,United States,F,33,Unspecified,Other,2,4,TRUE,FALSE
+Nässjö,NA,Sweden,F,36,Married,Other,2,7,TRUE,FALSE
+Rotterdam,NA,Netherlands,M,35,Married,Sales,8,2,FALSE,TRUE
+Navegantes,BR-SC,Brazil,F,34,Married,Other,8,2,FALSE,TRUE
+Toledo,NA,Spain,M,26,Single,Trades,6,3,FALSE,TRUE
+Perpignan,NA,France,M,21,Single,Trades,8,0,FALSE,TRUE
+Edmonton,AB,Canada,M,29,Single,Other,8,2,FALSE,TRUE
+Sydney,NSW,Australia,F,30,Married,Other,2,6,TRUE,FALSE
+Northampton,NA,United Kingdom,F,29,Single,Other,2,6,TRUE,FALSE
+Westport,ON,Canada,M,26,Single,Other,6,2,FALSE,TRUE
+Anchorage,AK,United States,F,20,Single,Hospitality,6,2,FALSE,TRUE
+Banglore,KA,India,M,23,Single,Executive,6,0,FALSE,TRUE
+Erfurt,NA,Germany,M,21,Single,Retail,7,2,FALSE,TRUE
+Saltillo,NA,Mexico,F,27,Single,Other,8,3,FALSE,TRUE
+Chandigarh,HR,India,M,40,Married,Trades,7,0,FALSE,TRUE
+Düsseldorf,NA,Germany,F,24,Married,Retail,6,0,FALSE,TRUE
+Uppsala,NA,Sweden,F,20,Single,Other,7,2,FALSE,TRUE
+Altadena,CA,United States,M,21,Single,Trades,4,2,FALSE,TRUE
+Málaga,NA,Spain,F,35,Married,Other,4,2,FALSE,TRUE
+Schladming,NA,Austria,M,41,Married,Executive,9,1,FALSE,TRUE
+Palermo,NA,Italy,F,35,Married,Other,1,6,TRUE,FALSE
+Cixi,NA,China,F,34,Married,Retail,6,4,FALSE,TRUE
+Leicester,NA,United Kingdom,M,30,Married,Student,5,1,FALSE,TRUE
+Portland,OR,United States,M,32,Married,Sales,4,0,FALSE,TRUE
+Hiroshima,NA,Japan,F,31,Married,Other,3,5,TRUE,FALSE
+Niquelândia,BR-GO,Brazil,M,34,Single,Student,8,0,FALSE,TRUE
+Brunn am Gebirge,NA,Austria,F,27,Single,Student,0,1,TRUE,FALSE
+Manzanilo,NA,Mexico,F,37,Unspecified,Hospitality,1,6,TRUE,FALSE
+Krems,NA,Austria,M,20,Single,Sales,5,1,FALSE,TRUE
+Gmunden,NA,Austria,M,25,Single,Executive,6,1,FALSE,TRUE
+Göteborg,NA,Sweden,F,41,Married,Other,3,5,TRUE,FALSE
+Suitland,MD,United States,F,49,Married,Other,8,1,FALSE,TRUE
+Århus,NA,Denmark,F,48,Married,Executive,6,3,FALSE,TRUE
+Tilburg,NA,Netherlands,F,21,Single,Other,1,7,TRUE,FALSE
+Estacada,OR,United States,F,24,Single,Other,5,1,FALSE,TRUE
+Genève,NA,Switzerland,F,40,Married,Executive,0,3,TRUE,FALSE
+Tours,NA,France,F,24,Married,Retail,3,7,TRUE,FALSE
+Kiyose,NA,Japan,F,40,Married,Other,6,3,FALSE,TRUE
+Houston,TX,United States,F,48,Unspecified,Hospitality,0,7,TRUE,FALSE
+Firenze,FI,Italy,M,27,Single,Professional,8,1,FALSE,TRUE
+Syracuse,NY,United States,M,24,Single,Other,8,2,FALSE,TRUE
+Changchun,NA,China,M,29,Single,Executive,5,2,FALSE,TRUE
+Auburn University,AL,United States,F,20,Single,Other,7,1,FALSE,TRUE
+Croydon,NA,United Kingdom,F,30,Unspecified,Other,1,12,TRUE,FALSE
+Torino,NA,Italy,M,20,Single,Professional,7,2,FALSE,TRUE
+Salem,OR,United States,M,22,Single,Professional,7,1,FALSE,TRUE
+Matoaca,VA,United States,F,19,Single,Student,2,6,TRUE,FALSE
+Salmon Arm,BC,Canada,F,37,Married,Other,1,3,TRUE,FALSE
+Marseille,NA,France,M,26,Single,Student,5,0,FALSE,TRUE
+Pamplona,NA,Spain,F,35,Unspecified,Hospitality,1,4,TRUE,FALSE
+Lethbridge,AB,Canada,M,22,Single,Other,9,0,FALSE,TRUE
+Kyoto,NA,Japan,F,48,Unspecified,Hospitality,8,1,FALSE,TRUE
+Uppsala,NA,Sweden,F,22,Single,Hospitality,8,2,FALSE,TRUE
+Singapore,Singapore,Singapore,M,30,Married,Trades,5,1,FALSE,TRUE
+Rennes,NA,France,M,21,Single,Executive,4,1,FALSE,TRUE
+Lappeenranta,NA,Finland,F,31,Married,Other,2,7,TRUE,FALSE
+Dübendorf,NA,Switzerland,M,28,Single,Trades,4,1,FALSE,TRUE
+Vejle,NA,Denmark,M,32,Married,Other,1,6,TRUE,FALSE
+Stans,NA,Austria,F,37,Married,Retail,1,8,TRUE,FALSE
+Paranaguá,BR-PR,Brazil,M,23,Single,Student,7,1,FALSE,TRUE
+Havana,FL,United States,F,37,Married,Executive,1,8,TRUE,FALSE
+Columbus,OH,United States,M,25,Single,Sales,8,1,FALSE,TRUE
+Perth,WA,Australia,M,28,Married,Other,7,1,FALSE,TRUE
+Düsseldorf,NA,Germany,M,33,Married,Executive,5,1,FALSE,TRUE
+Suwa,NA,Japan,F,28,Married,Other,0,8,TRUE,FALSE
+Tachikawa,NA,Japan,M,25,Unspecified,Sales,8,1,FALSE,TRUE
+Heihe,NA,China,F,26,Married,Other,8,2,FALSE,TRUE
+Sendai,NA,Japan,F,33,Married,Executive,3,8,TRUE,FALSE
+Portsmouth,NA,United Kingdom,M,40,Unspecified,Trades,5,2,FALSE,TRUE
+Yarmouth,NS,Canada,M,22,Single,Other,10,1,FALSE,TRUE
+San Francisco,CA,United States,F,45,Married,Other,3,4,TRUE,FALSE
+Puebla,NA,Mexico,M,57,Married,Professional,6,1,FALSE,TRUE
+Helen,GA,United States,M,33,Married,Trades,6,3,FALSE,TRUE
+Berlin,NA,Germany,F,34,Married,Other,0,1,TRUE,TRUE
+Fuxin,NA,China,M,24,Single,Trades,6,2,FALSE,TRUE
+Brunn am Gebirge,NA,Austria,M,19,Single,Trades,5,2,FALSE,TRUE
+Nässjö,NA,Sweden,F,20,Married,Other,2,6,TRUE,FALSE
+Lappeenranta,NA,Finland,M,30,Married,Other,6,1,FALSE,TRUE
+Canberra,ACT,Australia,F,32,Married,Other,3,0,TRUE,TRUE
+Arlington,VA,United States,M,26,Single,Trades,7,1,FALSE,TRUE
+Calgary,AB,Canada,F,32,Married,Executive,9,1,FALSE,TRUE
+Regensburg,NA,Germany,M,31,Married,Other,6,1,FALSE,TRUE
+Lennoxville,QC,Canada,F,44,Married,Other,8,2,FALSE,TRUE
+Lübeck,NA,Germany,M,21,Single,Sales,9,1,FALSE,TRUE
+Niterói,BR-RJ,Brazil,M,21,Single,Other,0,7,TRUE,FALSE
+Singapore,Singapore,Singapore,M,35,Single,Sales,8,2,FALSE,TRUE
+Sion,NA,Switzerland,M,26,Single,Executive,7,2,FALSE,TRUE
+Great Yarmouth,NA,United Kingdom,F,34,Married,Hospitality,6,1,FALSE,TRUE
+Chelmsford,NA,United Kingdom,F,31,Married,Executive,2,7,TRUE,FALSE
+Kobe,NA,Japan,F,33,Married,Hospitality,6,1,FALSE,TRUE
+Boden,NA,Sweden,F,46,Married,Executive,10,3,FALSE,TRUE
+Gorakhpur,MH,India,M,21,Single,Other,7,2,FALSE,TRUE
+Bridgeview,IL,United States,M,40,Married,Other,5,0,FALSE,TRUE
+Bellinzona,NA,Switzerland,F,41,Unspecified,Hospitality,6,2,FALSE,TRUE
+Chongqing,NA,China,F,38,Married,Other,0,5,TRUE,FALSE
+Caen,NA,France,M,28,Single,Professional,9,2,FALSE,TRUE
+São Bernardo do Campo,BR-SP,Brazil,F,23,Single,Other,10,3,FALSE,TRUE
+Stuttgart,NA,Germany,M,24,Single,Professional,6,2,FALSE,TRUE
+Amsterdam,NA,Netherlands,M,44,Married,Trades,8,2,FALSE,TRUE
+Chandigarh,NA,India,F,26,Single,Other,4,1,FALSE,TRUE
+Zapopan,NA,Mexico,M,30,Married,Trades,9,3,FALSE,TRUE
+Higashimurayama,NA,Japan,M,22,Single,Professional,6,4,FALSE,TRUE
+Redbridge,NA,United Kingdom,M,22,Single,Trades,10,0,FALSE,TRUE
+Sion,NA,Switzerland,M,21,Single,Trades,5,1,FALSE,TRUE
+Yellowknife,NT,Canada,M,56,Married,Professional,0,1,TRUE,FALSE
+Eastbourne,NA,United Kingdom,F,41,Married,Executive,5,2,FALSE,TRUE
+San Diego,CA,United States,M,30,Married,Trades,7,1,FALSE,TRUE
+Brasília,BR-DF,Brazil,F,38,Married,Retail,2,3,TRUE,TRUE
+Angers,NA,France,F,25,Married,Other,2,1,TRUE,TRUE
+Jeonju,NA,Korea,M,31,Married,Sales,0,5,TRUE,FALSE
+Hagerstown,MD,United States,F,48,Married,Other,4,1,FALSE,TRUE
+Kunsan,NA,Korea,F,33,Married,Other,1,9,TRUE,FALSE
+Musashino,NA,Japan,M,23,Single,Sales,3,3,TRUE,FALSE
+Madison,WI,United States,F,48,Married,Executive,7,2,FALSE,TRUE
+Tijuana,NA,Mexico,F,47,Married,Other,10,2,FALSE,TRUE
+Saugus,MA,United States,F,26,Single,Other,6,0,FALSE,TRUE
+Chengdu,NA,China,M,30,Married,Other,6,2,FALSE,TRUE
+Smolensk,NA,Russia,F,23,Married,Retail,2,3,TRUE,FALSE
+Stuttgart,NA,Germany,M,33,Married,Sales,3,1,FALSE,TRUE
+Samara,NA,Russia,F,36,Unspecified,Other,0,3,TRUE,FALSE
+Salmon Arm,BC,Canada,F,40,Married,Other,2,9,TRUE,FALSE
+Beijing,NA,China,F,22,Single,Hospitality,11,1,FALSE,TRUE
+Canberra,ACT,Australia,F,21,Single,Hospitality,7,3,FALSE,TRUE
+Firenze,NA,Italy,F,35,Married,Other,6,1,FALSE,TRUE
+Queretaro,NA,Mexico,F,41,Married,Other,6,1,FALSE,TRUE
+Hyderabad,NA,India,M,37,Married,Executive,3,1,FALSE,TRUE
+Pohang,NA,Korea,M,26,Single,Professional,8,2,FALSE,TRUE
+Acapulco,NA,Mexico,M,37,Married,Sales,6,2,FALSE,TRUE
+Beijing,NA,China,M,25,Single,Professional,9,1,FALSE,TRUE
+Angers,NA,France,M,22,Single,Executive,10,2,FALSE,TRUE
+Sendai,NA,Japan,M,34,Single,Professional,6,1,FALSE,TRUE
+Stavropol,NA,Russia,M,34,Single,Other,1,2,FALSE,TRUE
+Manaus,BR-AM,Brazil,F,39,Married,Executive,5,2,FALSE,TRUE
+Charleroi,NA,Belgium,M,32,Single,Executive,3,1,FALSE,TRUE
+Heihe,NA,China,M,25,Single,Trades,3,2,FALSE,TRUE
+Campinas,BR-SP,Brazil,M,33,Single,Sales,8,2,FALSE,TRUE
+Volta Redonda,BR-RJ,Brazil,F,37,Married,Other,7,2,FALSE,TRUE
+Hiroshima,NA,Japan,M,22,Single,Other,7,1,FALSE,TRUE
+Fukui,NA,Japan,M,32,Single,Trades,6,2,FALSE,TRUE
+Basildon,NA,United Kingdom,M,25,Single,Professional,6,3,FALSE,TRUE
+San Francisco,CA,United States,F,31,Married,Hospitality,6,3,FALSE,TRUE
+Singapore,Singapore,Singapore,F,21,Married,Other,2,5,TRUE,FALSE
+Chengdu,NA,China,M,33,Married,Other,6,2,FALSE,TRUE
+Saratov,NA,Russia,F,41,Married,Other,10,1,FALSE,TRUE
+Liverpool,NA,United Kingdom,F,33,Married,Executive,9,1,FALSE,TRUE
+Brest,NA,France,M,29,Single,Sales,8,2,FALSE,TRUE
+Dresden,NA,Germany,F,41,Married,Other,2,4,TRUE,FALSE
+Sedaví,NA,Spain,M,23,Single,Trades,7,1,FALSE,TRUE
+Venezia,VE,Italy,M,32,Single,Other,5,1,FALSE,TRUE
+Lambeth,NA,United Kingdom,F,45,Married,Executive,7,1,FALSE,TRUE
+Flin Flon,MB,Canada,M,26,Single,Other,9,0,FALSE,TRUE
+Nimes,NA,France,F,25,Married,Other,3,2,FALSE,TRUE
+Hämeenlinna,NA,Finland,F,33,Married,Other,5,11,TRUE,FALSE
+Perpignan,NA,France,F,46,Married,Executive,9,1,FALSE,TRUE
+Basildon,NA,United Kingdom,F,33,Unspecified,Other,1,7,TRUE,FALSE
+Lübeck,NA,Germany,M,19,Single,Other,9,2,FALSE,TRUE
+Logroño,LO,Spain,M,20,Single,Other,8,3,FALSE,TRUE
+Köln,NA,Germany,F,32,Married,Retail,1,8,TRUE,FALSE
+Hamburg,NA,Germany,F,38,Married,Other,3,5,TRUE,FALSE
+St. Louis,MO,United States,M,22,Single,Trades,4,0,FALSE,TRUE
+Wuhan,NA,China,M,23,Single,Other,6,2,FALSE,TRUE
+San Jose,CA,United States,M,24,Single,Other,9,2,FALSE,TRUE
+Chyofu,NA,Japan,M,26,Single,Professional,8,2,FALSE,TRUE
+Guangzhou,NA,China,F,33,Married,Other,5,2,FALSE,TRUE
+Hadano,NA,Japan,F,45,Married,Executive,4,1,TRUE,TRUE
+Torreón,NA,Mexico,F,41,Married,Other,5,2,FALSE,TRUE
+Aachen,NA,Germany,F,44,Married,Other,0,8,TRUE,FALSE
+Ciudad de Madero,NA,Mexico,F,31,Married,Hospitality,8,0,FALSE,TRUE
+Hamburg,NA,Germany,F,21,Married,Other,8,2,FALSE,TRUE
+Shanghai,NA,China,M,23,Single,Executive,7,1,FALSE,TRUE
+Greensburg,KY,United States,M,22,Single,Executive,5,2,FALSE,TRUE
+Le Mans,NA,France,M,42,Single,Other,7,3,FALSE,TRUE
+Sudbury,ON,Canada,M,26,Single,Professional,5,2,FALSE,TRUE
+Vejle,NA,Denmark,F,33,Married,Executive,1,2,TRUE,TRUE
+Guelph,ON,Canada,M,40,Single,Executive,8,1,FALSE,TRUE
+Elm Grove,WI,United States,F,36,Married,Other,7,2,FALSE,TRUE
+Bellinzona,NA,Switzerland,M,29,Single,Other,3,1,FALSE,TRUE
+Melbourne,Vic,Australia,F,41,Married,Other,0,2,TRUE,FALSE
+Lennoxville,QC,Canada,M,38,Married,Other,6,3,FALSE,TRUE
+Leipzig,NA,Germany,M,44,Married,Trades,8,2,FALSE,TRUE
+San Pedro Garza García,NA,Mexico,M,28,Single,Executive,5,3,FALSE,TRUE
+Utrecht,NA,Netherlands,F,44,Married,Executive,5,1,FALSE,TRUE
+Bellinzona,NA,Switzerland,M,19,Single,Trades,6,3,FALSE,TRUE
+Shijiazhuang,NA,China,F,42,Married,Other,0,0,TRUE,TRUE
+Roseville,CA,United States,M,19,Single,Student,1,8,TRUE,FALSE
+Regensburg,NA,Germany,M,32,Married,Sales,6,2,FALSE,TRUE
+Aguascalientes,NA,Mexico,M,25,Single,Other,9,2,FALSE,TRUE
+Melbourne,Vic,Australia,F,28,Single,Other,8,1,FALSE,TRUE
+Basel,NA,Switzerland,F,23,Married,Retail,0,4,TRUE,FALSE
+Edmonton,AB,Canada,M,52,Unspecified,Other,7,1,FALSE,TRUE
+Shanghai,NA,China,F,32,Married,Other,2,9,TRUE,FALSE
+Rostov-on-Don,NA,Russia,F,48,Married,Executive,6,2,FALSE,TRUE
+Prince George,BC,Canada,F,39,Unspecified,Hospitality,2,5,TRUE,FALSE
+Los Angeles,CA,United States,M,21,Single,Other,7,2,FALSE,TRUE
+Aachen,NA,Germany,M,23,Single,Student,7,2,FALSE,TRUE
+Limoges,NA,France,M,41,Married,Other,8,0,FALSE,TRUE
+Orlando,FL,United States,M,41,Married,Executive,8,0,FALSE,TRUE
+Overland Park,KS,United States,M,35,Married,Sales,2,2,FALSE,TRUE
+Walden,NY,United States,M,33,Married,Trades,6,2,FALSE,TRUE
+Canberra,ACT,Australia,M,21,Single,Sales,5,3,FALSE,TRUE
+Guangzhou,NA,China,F,32,Married,Other,1,10,TRUE,FALSE
+Kansas City,MO,United States,M,22,Single,Professional,8,1,FALSE,TRUE
+Catawba,NC,United States,M,30,Married,Executive,6,2,FALSE,TRUE
+Changsha,NA,China,F,38,Married,Other,7,3,FALSE,TRUE
+Chemnitz,NA,Germany,F,34,Married,Other,3,6,TRUE,FALSE
+Nagaur,RJ,India,M,39,Unspecified,Sales,6,0,FALSE,TRUE
+Strasbourg,NA,France,M,31,Married,Other,5,2,FALSE,TRUE
+Cixi,NA,China,M,21,Single,Other,6,2,FALSE,TRUE
+Genève,NA,Switzerland,F,24,Married,Retail,0,1,TRUE,TRUE
+Shijiazhuang,NA,China,M,26,Single,Professional,4,7,TRUE,FALSE
+Fukuoka,NA,Japan,F,49,Married,Hospitality,4,1,FALSE,TRUE
+Brussel,NA,Belgium,F,33,Married,Hospitality,6,1,FALSE,TRUE
+Tours,NA,France,M,37,Married,Other,6,2,FALSE,TRUE
+Pontiac,MI,United States,F,48,Married,Hospitality,7,2,FALSE,TRUE
+Elmhurst,IL,United States,F,31,Married,Other,4,6,TRUE,FALSE
+Tukwila,WA,United States,M,29,Single,Executive,2,2,FALSE,TRUE
+Hyderabad,NA,India,F,36,Married,Retail,2,6,TRUE,FALSE
+Eastbourne,NA,United Kingdom,M,33,Married,Executive,10,1,FALSE,TRUE
+Saskatoon,SK,Canada,M,33,Married,Trades,6,3,FALSE,TRUE
+Würzburg,NA,Germany,F,33,Married,Other,3,6,TRUE,FALSE
+Albany,NY,United States,M,40,Married,Sales,3,1,TRUE,TRUE
+Beijing,NA,China,F,26,Married,Retail,2,9,TRUE,FALSE
+Ulsan,NA,Korea,F,47,Married,Hospitality,0,8,TRUE,FALSE
+Fukui,NA,Japan,F,47,Married,Other,2,2,TRUE,TRUE
+St. Pölten,NA,Austria,F,41,Married,Other,1,0,TRUE,TRUE
+Chemnitz,NA,Germany,M,29,Single,Sales,8,3,FALSE,TRUE
+Nancy,NA,France,M,37,Married,Trades,7,0,FALSE,TRUE
+Reims,NA,France,M,27,Single,Other,6,0,FALSE,TRUE
+Yekaterinburg,NA,Russia,F,40,Unspecified,Hospitality,2,0,TRUE,TRUE
+Laurel,DE,United States,F,22,Married,Retail,2,7,TRUE,FALSE
+Guangzhou,NA,China,F,21,Married,Other,2,2,TRUE,FALSE
+Casper,WY,United States,M,43,Married,Trades,1,8,TRUE,FALSE
+Sendai,NA,Japan,M,22,Single,Sales,6,2,FALSE,TRUE
+Balneário Camboriú,BR-SC,Brazil,F,48,Married,Executive,3,2,FALSE,TRUE
+Jaipur,NA,India,M,25,Single,Other,8,2,FALSE,TRUE
+Dresden,NA,Germany,F,29,Single,Other,4,1,FALSE,TRUE
+Saarbrücken,NA,Germany,F,37,Unspecified,Other,8,2,FALSE,TRUE
+Düsseldorf,NA,Germany,F,27,Single,Hospitality,7,1,FALSE,TRUE
+Beijing,NA,China,M,19,Single,Executive,8,1,FALSE,TRUE
+Chandigarh,CH,India,M,29,Single,Trades,8,2,FALSE,TRUE
+Chandigarh,NA,India,M,50,Unspecified,Other,6,3,FALSE,TRUE
+Essen,NA,Germany,M,40,Married,Sales,6,1,FALSE,TRUE
+Heihe,NA,China,M,30,Single,Professional,7,1,FALSE,TRUE
+Bologna,NA,Italy,F,21,Married,Other,2,4,TRUE,FALSE
+Coventry,NA,United Kingdom,F,42,Unspecified,Hospitality,6,0,FALSE,TRUE
+Barcelona,B,Spain,M,28,Single,Professional,9,2,FALSE,TRUE
+Berlin,NA,Germany,M,41,Married,Other,7,3,FALSE,TRUE
+Tours,NA,France,M,23,Single,Other,4,0,FALSE,TRUE
+Bellinzona,NA,Switzerland,F,34,Unspecified,Professional,1,11,TRUE,FALSE
+Bremen,NA,Germany,F,20,Single,Other,7,1,FALSE,TRUE
+Cheney,WA,United States,F,43,Married,Other,7,1,FALSE,TRUE
+Kyoto,NA,Japan,M,32,Single,Professional,8,3,FALSE,TRUE
+Houston,TX,United States,M,23,Single,Sales,10,1,FALSE,TRUE
+Adelaide,SA,Australia,M,29,Single,Other,9,2,FALSE,TRUE
+Dübendorf,NA,Switzerland,M,32,Married,Trades,5,2,FALSE,TRUE
+Timóteo,BR-MG,Brazil,M,26,Single,Other,9,1,FALSE,TRUE
+Mulhouse,NA,France,M,23,Single,Other,7,4,FALSE,TRUE
+Guarulhos,BR-SP,Brazil,F,41,Unspecified,Hospitality,2,6,TRUE,FALSE
+Heidelberg,NA,Germany,M,39,Married,Other,3,4,TRUE,FALSE
+Lambeth,NA,United Kingdom,F,22,Single,Other,9,2,FALSE,TRUE
+Perth,WA,Australia,M,34,Married,Other,4,1,FALSE,TRUE
+Singapore,Singapore,Singapore,F,45,Unspecified,Hospitality,1,3,TRUE,TRUE
+Playa del Carmen,NA,Mexico,F,22,Married,Other,3,2,TRUE,TRUE
+São Bernardo do Campo,BR-SP,Brazil,F,34,Married,Other,1,1,TRUE,TRUE
+Fuxin,NA,China,F,36,Married,Other,8,2,FALSE,TRUE
+Sydney,NSW,Australia,M,27,Single,Other,8,1,FALSE,TRUE
+São Paulo,BR-SP,Brazil,F,26,Married,Other,3,8,TRUE,FALSE
+Fukuoka,NA,Japan,F,41,Married,Other,6,1,FALSE,TRUE
+Salvador,BR-BA,Brazil,M,27,Single,Other,8,3,FALSE,TRUE
+Chiba,NA,Japan,F,30,Married,Other,5,1,FALSE,TRUE
+Manhattan,KS,United States,M,43,Married,Sales,5,0,FALSE,TRUE
+Lethbridge,AB,Canada,F,47,Married,Other,7,0,FALSE,TRUE
+Cixi,NA,China,M,26,Single,Sales,10,0,FALSE,TRUE
+Komae,NA,Japan,F,27,Single,Other,3,6,TRUE,FALSE
+Esbjerg,NA,Denmark,F,29,Married,Retail,2,7,TRUE,FALSE
+Grove,OK,United States,F,37,Married,Other,1,7,TRUE,FALSE
+Qingdao,NA,China,F,27,Married,Other,2,6,TRUE,FALSE
+Sergeant Bluff,IA,United States,F,46,Married,Other,2,6,TRUE,FALSE
+Tijuana,NA,Mexico,F,25,Married,Other,2,4,TRUE,FALSE
+Würzburg,NA,Germany,F,47,Married,Hospitality,2,8,TRUE,FALSE
+Madison,SD,United States,F,54,Married,Other,11,1,FALSE,TRUE
+Genève,NA,Switzerland,M,28,Single,Other,4,2,FALSE,TRUE
+Las Vegas,NV,United States,F,37,Married,Other,1,5,TRUE,FALSE
+Manaus,BR-AM,Brazil,F,23,Single,Other,3,11,TRUE,FALSE
+Camborne,NA,United Kingdom,F,31,Single,Retail,0,5,TRUE,FALSE
+Southampton,NA,United Kingdom,M,35,Married,Other,5,1,FALSE,TRUE
+Tacoma,WA,United States,F,46,Married,Hospitality,7,2,FALSE,TRUE
+Eskilstuna,NA,Sweden,F,49,Married,Executive,3,7,TRUE,FALSE
+México,NA,Mexico,M,41,Married,Trades,6,1,FALSE,TRUE
+Tampa,FL,United States,F,44,Unspecified,Hospitality,5,3,FALSE,TRUE
+Denver,CO,United States,M,26,Single,Other,6,2,FALSE,TRUE
+Cuernavaca,NA,Mexico,F,40,Married,Other,3,4,TRUE,FALSE
+Volta Redonda,BR-RJ,Brazil,M,39,Single,Professional,6,1,FALSE,TRUE
+San Nicolás de los Garza,NA,Mexico,M,20,Single,Other,2,1,FALSE,TRUE
+Kaufman,TX,United States,F,30,Married,Retail,1,9,TRUE,FALSE
+Salt Lake City,UT,United States,F,45,Married,Other,2,5,TRUE,FALSE
+Henderson,NV,United States,F,34,Married,Hospitality,1,6,TRUE,FALSE
+Qingdao,NA,China,M,27,Single,Other,5,2,FALSE,TRUE
+Bromley,NA,United Kingdom,M,26,Single,Trades,6,1,FALSE,TRUE
+Singapore,Singapore,Singapore,F,32,Married,Executive,7,0,FALSE,TRUE
+Patna,NA,India,F,32,Married,Executive,6,1,FALSE,TRUE
+Bonn,NA,Germany,F,30,Married,Other,10,2,FALSE,TRUE
+Chelyabinsk,NA,Russia,M,34,Single,Professional,5,1,FALSE,TRUE
+Ecatepec,NA,Mexico,F,49,Married,Executive,1,2,TRUE,TRUE
+Rouen,NA,France,F,30,Married,Hospitality,0,1,TRUE,TRUE
+Augusta,GA,United States,F,41,Married,Other,8,3,FALSE,TRUE
+Porto Alegre,BR-RS,Brazil,F,40,Married,Other,1,7,TRUE,FALSE
+Novosibirsk,NA,Russia,F,43,Married,Sales,1,7,TRUE,FALSE
+Piteå,NA,Sweden,F,27,Married,Other,3,9,TRUE,FALSE
+Seattle,WA,United States,M,25,Single,Sales,7,1,FALSE,TRUE
+Birmingham,NA,United Kingdom,F,38,Married,Other,1,7,TRUE,FALSE
+Lausanne,NA,Switzerland,F,40,Unspecified,Hospitality,8,1,FALSE,TRUE
+Citrus Heights,CA,United States,F,22,Single,Hospitality,6,3,FALSE,TRUE
+Salvador,BR-BA,Brazil,F,45,Unspecified,Hospitality,3,2,FALSE,TRUE
+Perpignan,NA,France,F,49,Married,Hospitality,5,3,FALSE,TRUE
+Lausanne,NA,Switzerland,F,45,Unspecified,Hospitality,8,2,FALSE,TRUE
+Suwa,NA,Japan,F,34,Single,Retail,2,4,TRUE,FALSE
+Brasília,BR-DF,Brazil,F,36,Unspecified,Hospitality,2,8,TRUE,FALSE
+Bern,NA,Switzerland,F,31,Married,Hospitality,2,9,TRUE,FALSE
+Key Largo,FL,United States,F,36,Married,Other,2,7,TRUE,FALSE
+Higashimurayama,NA,Japan,M,29,Single,Professional,7,2,FALSE,TRUE
+Hämeenlinna,NA,Finland,M,27,Single,Student,3,1,FALSE,TRUE
+Bellinzona,NA,Switzerland,M,29,Single,Trades,6,1,FALSE,TRUE
+Salvador,BR-BA,Brazil,M,29,Single,Other,8,2,FALSE,TRUE
+Chyofu,NA,Japan,F,39,Unspecified,Other,1,7,TRUE,FALSE
+Erfurt,NA,Germany,M,24,Single,Retail,2,3,TRUE,TRUE
+Rio de Janeiro,BR-RJ,Brazil,F,40,Married,Other,5,1,FALSE,TRUE
+Gmunden,NA,Austria,F,26,Single,Other,10,2,FALSE,TRUE
+Frogmore,NA,United Kingdom,F,39,Married,Other,6,1,FALSE,TRUE
+Guarulhos,BR-SP,Brazil,M,23,Single,Executive,3,3,TRUE,FALSE
+Canberra,ACT,Australia,M,31,Single,Trades,8,2,FALSE,TRUE
+Douglasville,GA,United States,M,43,Married,Other,6,0,FALSE,TRUE
+Sherbrooke,QC,Canada,M,36,Married,Sales,9,1,FALSE,TRUE
+Lyon,NA,France,F,37,Unspecified,Hospitality,10,1,FALSE,TRUE
+Banglore,KA,India,M,42,Married,Executive,8,3,FALSE,TRUE
+Melk,NA,Austria,F,24,Single,Hospitality,7,2,FALSE,TRUE
+Samara,NA,Russia,F,39,Married,Retail,2,9,TRUE,FALSE
+Waipahu,HI,United States,F,37,Unspecified,Other,1,1,TRUE,TRUE
+Bremen,NA,Germany,M,27,Single,Other,4,2,FALSE,TRUE
+Schladming,NA,Austria,M,29,Single,Sales,6,1,FALSE,TRUE
+Statesboro,GA,United States,F,39,Married,Executive,1,6,TRUE,FALSE
+Bedford,NA,United Kingdom,M,37,Married,Other,4,0,FALSE,TRUE
+El Centro,CA,United States,F,32,Married,Other,5,1,FALSE,TRUE
+Statesboro,GA,United States,F,41,Married,Executive,3,7,TRUE,FALSE
+Oshawa,ON,Canada,M,32,Married,Trades,2,5,TRUE,FALSE
+Kotka,NA,Finland,F,23,Single,Other,5,3,FALSE,TRUE
+St Paul,MN,United States,M,37,Married,Executive,5,0,FALSE,TRUE
+Exeter,NA,United Kingdom,M,25,Single,Student,5,2,FALSE,TRUE
+Kelamayi,NA,China,F,27,Single,Retail,10,2,FALSE,TRUE
+Halifax,NS,Canada,M,24,Single,Trades,1,2,TRUE,TRUE
+Sapporo-shi,???,Japan,M,26,Single,Professional,3,5,TRUE,FALSE
+Dijon,NA,France,M,25,Married,Other,10,0,FALSE,TRUE
+Coventry,NA,United Kingdom,F,27,Single,Other,5,2,FALSE,TRUE
+Canberra,ACT,Australia,M,20,Single,Other,9,1,FALSE,TRUE
+Yevatmal,AP,India,F,41,Married,Executive,9,2,FALSE,TRUE
+Randers,NA,Denmark,F,45,Married,Executive,2,7,TRUE,FALSE
+Toledo,NA,Spain,M,42,Unspecified,Other,7,0,FALSE,TRUE
+Brisbane,Qld,Australia,M,31,Single,Trades,7,1,FALSE,TRUE
+Sullivan,IL,United States,M,32,Single,Trades,4,0,FALSE,TRUE
+Montpellier,NA,France,F,34,Unspecified,Other,10,1,FALSE,TRUE
+Boise,ID,United States,F,38,Married,Executive,2,8,TRUE,FALSE
+Chicago,IL,United States,F,26,Married,Retail,2,1,TRUE,TRUE
+Auburn,WA,United States,F,31,Single,Retail,2,10,TRUE,FALSE
+Salisbury,NA,United Kingdom,M,31,Single,Other,5,2,FALSE,TRUE
+Esbjerg,NA,Denmark,F,42,Married,Other,5,2,FALSE,TRUE
+Ciudad de Madero,NA,Mexico,M,23,Single,Sales,9,2,FALSE,TRUE
+Los Angeles,CA,United States,M,22,Single,Other,9,1,FALSE,TRUE
+Frogmore,NA,United Kingdom,M,20,Single,Professional,5,0,FALSE,TRUE
+Nova Iguaçu,BR-RJ,Brazil,F,39,Married,Other,2,8,TRUE,FALSE
+Trail,BC,Canada,F,39,Unspecified,Other,1,0,TRUE,TRUE
+Bari,NA,Italy,M,30,Single,Professional,8,0,FALSE,TRUE
+Shimla,HP,India,M,20,Single,Other,7,0,FALSE,TRUE
+Mumbai,NA,India,M,21,Single,Other,6,2,FALSE,TRUE
+Aguascalientes,NA,Mexico,F,31,Married,Other,1,8,TRUE,FALSE
+Málaga,NA,Spain,F,37,Married,Other,1,7,TRUE,FALSE
+Beijing,NA,China,M,27,Single,Professional,6,1,FALSE,TRUE
+Lennoxville,QC,Canada,F,45,Married,Executive,12,2,FALSE,TRUE
+Omsk,NA,Russia,F,37,Married,Executive,5,2,FALSE,TRUE
+Heidelberg,NA,Germany,M,28,Single,Other,2,2,FALSE,TRUE
+Sendai,NA,Japan,M,35,Married,Sales,11,0,FALSE,TRUE
+Toronto,ON,Canada,F,31,Married,Retail,0,2,TRUE,FALSE
+Amarillo,TX,United States,M,41,Married,Trades,10,2,FALSE,TRUE
+Brisbane,Qld,Australia,M,27,Single,Professional,6,0,FALSE,TRUE
+Edmonton,AB,Canada,M,26,Single,Professional,7,2,FALSE,TRUE
+Ufa,NA,Russia,M,21,Single,Other,7,2,FALSE,TRUE
+Arvika,NA,Sweden,F,30,Married,Other,4,2,FALSE,TRUE
+Cancún,NA,Mexico,F,49,Married,Executive,6,1,FALSE,TRUE
+Honolulu,HI,United States,M,25,Single,Executive,8,1,FALSE,TRUE
+Grenoble,NA,France,F,45,Married,Executive,7,3,FALSE,TRUE
+Long Beach,CA,United States,F,32,Married,Other,2,3,FALSE,TRUE
+Cuernavaca,NA,Mexico,M,34,Single,Executive,5,2,FALSE,TRUE
+Elmhurst,IL,United States,F,37,Married,Other,7,0,FALSE,TRUE
+Birmingham,NA,United Kingdom,M,27,Single,Sales,4,2,FALSE,TRUE
+Chengdu,NA,China,M,24,Single,Professional,5,2,FALSE,TRUE
+Genève,NA,Switzerland,F,31,Married,Other,1,5,TRUE,FALSE
+Kelamayi,NA,China,M,29,Single,Professional,4,2,FALSE,TRUE
+Essen,NA,Germany,M,29,Single,Other,8,2,FALSE,TRUE
+Aachen,NA,Germany,M,46,Married,Professional,1,9,TRUE,FALSE
+Zacatecas,NA,Mexico,M,38,Married,Executive,1,8,TRUE,FALSE
+New Delhi,NA,India,F,38,Married,Other,2,6,TRUE,FALSE
+Malmö,NA,Sweden,M,35,Single,Executive,6,1,FALSE,TRUE
+Chesterfield,NA,United Kingdom,F,38,Single,Retail,1,8,TRUE,FALSE
+Genève,NA,Switzerland,M,28,Single,Executive,9,4,FALSE,TRUE
+Cixi,NA,China,M,37,Married,Sales,8,0,FALSE,TRUE
+Estacada,OR,United States,F,35,Married,Other,1,7,TRUE,FALSE
+Salvador,BR-BA,Brazil,F,34,Married,Other,2,6,TRUE,FALSE
+São Gonçalo,BR-RJ,Brazil,F,31,Married,Other,2,7,TRUE,FALSE
+Shanghai,NA,China,M,24,Single,Professional,8,2,FALSE,TRUE
+Porto Alegre,BR-RS,Brazil,F,41,Married,Other,2,5,TRUE,FALSE
+Rennes,NA,France,F,49,Married,Other,3,1,FALSE,TRUE
+Patna,NA,India,M,25,Single,Sales,9,2,FALSE,TRUE
+Magnitogorsk,NA,Russia,M,20,Single,Trades,5,2,FALSE,TRUE
+Basel,NA,Switzerland,F,36,Married,Other,1,4,TRUE,FALSE
+Sendai,NA,Japan,M,29,Single,Other,6,3,FALSE,TRUE
+Saint Paul,MN,United States,M,43,Married,Executive,8,2,FALSE,TRUE
+San Diego,CA,United States,M,26,Single,Other,8,2,FALSE,TRUE
+Kitchener,ON,Canada,M,21,Single,Sales,6,1,FALSE,TRUE
+Catania,CT,Italy,M,40,Married,Other,3,3,TRUE,TRUE
+Portage La Prairie,MB,Canada,M,25,Single,Other,5,1,FALSE,TRUE
+Kawasaki,NA,Japan,F,27,Married,Executive,1,6,TRUE,FALSE
+Lahti,NA,Finland,F,25,Single,Other,8,1,FALSE,TRUE
+Hyderabad,NA,India,M,33,Married,Executive,6,3,FALSE,TRUE
+San Jose,CA,United States,F,38,Married,Other,0,1,TRUE,TRUE
+Gorakhpur,MH,India,M,28,Single,Executive,7,3,FALSE,TRUE
+Changchun,NA,China,M,29,Single,Professional,8,3,FALSE,TRUE
+Victoria,BC,Canada,M,23,Single,Other,5,1,FALSE,TRUE
+Ciudad de Madero,NA,Mexico,M,23,Single,Sales,7,1,FALSE,TRUE
+Grenoble,NA,France,M,21,Single,Other,4,0,FALSE,TRUE
+Eindhoven,NA,Netherlands,F,30,Married,Other,1,0,TRUE,TRUE
+Yevatmal,AP,India,M,26,Single,Professional,6,2,FALSE,TRUE
+Bristol,CT,United States,M,21,Single,Trades,5,1,FALSE,TRUE
+Bromley,NA,United Kingdom,M,37,Married,Other,5,2,FALSE,TRUE
+Montréal,QC,Canada,F,33,Married,Executive,7,5,FALSE,TRUE
+Maanshan,NA,China,F,33,Married,Other,2,0,TRUE,TRUE
+Osnabrück,NA,Germany,M,27,Single,Trades,8,1,FALSE,TRUE
+Tijuana,NA,Mexico,M,34,Married,Executive,8,0,FALSE,TRUE
+Stuttgart,NA,Germany,F,28,Single,Professional,9,0,FALSE,TRUE
+Ravenna,RV,Italy,F,33,Married,Other,0,0,TRUE,TRUE
+Valencia,NA,Spain,F,33,Married,Other,8,1,FALSE,TRUE
+Campos dos Goytacazes,BR-RJ,Brazil,M,24,Single,Trades,9,3,FALSE,TRUE
+Papineauville,QC,Canada,F,39,Married,Retail,2,4,TRUE,FALSE
+Toulouse,NA,France,F,43,Married,Other,6,3,FALSE,TRUE
+Dresden,NA,Germany,M,32,Married,Other,6,2,FALSE,TRUE
+Québec,QC,Canada,F,33,Married,Other,1,6,TRUE,FALSE
+Auburn,WA,United States,F,39,Married,Other,1,8,TRUE,FALSE
+Canberra,ACT,Australia,M,30,Single,Trades,10,1,FALSE,TRUE
+Bellinzona,NA,Switzerland,F,39,Married,Other,3,7,TRUE,FALSE
+Shimonoseki,NA,Japan,M,26,Single,Other,7,1,FALSE,TRUE
+Fuxin,NA,China,M,37,Married,Professional,5,3,FALSE,TRUE
+Hanford,CA,United States,F,36,Married,Executive,8,1,FALSE,TRUE
+Schoten,NA,Belgium,M,31,Married,Executive,5,2,FALSE,TRUE
+Cangzhou,NA,China,F,34,Married,Other,0,1,TRUE,TRUE
+Amiens,NA,France,F,33,Married,Retail,3,2,FALSE,TRUE
+Lennoxville,QC,Canada,F,32,Single,Other,2,8,TRUE,FALSE
+Brisbane,Qld,Australia,M,23,Single,Sales,7,2,FALSE,TRUE
+Singapore,Singapore,Singapore,M,36,Married,Sales,8,2,FALSE,TRUE
+Fukui,NA,Japan,F,34,Married,Other,0,2,TRUE,TRUE
+Sendai,NA,Japan,M,20,Single,Professional,7,0,FALSE,TRUE
+Cancún,NA,Mexico,F,24,Single,Other,7,3,FALSE,TRUE
+Mclean,VA,United States,M,26,Single,Other,8,2,FALSE,TRUE
+Gatineau,QC,Canada,M,26,Single,Trades,8,2,FALSE,TRUE
+Kursk,NA,Russia,M,29,Single,Professional,8,3,FALSE,TRUE
+Duque de Caxias,BR-RJ,Brazil,M,33,Single,Other,10,2,FALSE,TRUE
+Kiel,NA,Germany,F,49,Married,Hospitality,5,0,FALSE,TRUE
+Puebla,NA,Mexico,F,32,Married,Executive,9,1,FALSE,TRUE
+Liège,NA,Belgium,F,31,Married,Other,2,10,TRUE,FALSE
+Shijiazhuang,NA,China,F,33,Married,Executive,4,3,FALSE,TRUE
+Kiel,NA,Germany,M,19,Single,Other,4,1,FALSE,TRUE
+Salzburg,NA,Austria,M,33,Married,Sales,6,2,FALSE,TRUE
+Irapuato,NA,Mexico,M,19,Single,Sales,4,1,FALSE,TRUE
+Komae,NA,Japan,F,38,Married,Other,8,1,FALSE,TRUE
+Summerville,SC,United States,M,22,Single,Sales,7,0,FALSE,TRUE
+Aguascalientes,NA,Mexico,M,28,Single,Other,4,0,FALSE,TRUE
+Perugia,PG,Italy,F,26,Single,Other,8,2,FALSE,TRUE
+Genève,NA,Switzerland,M,21,Single,Professional,8,2,FALSE,TRUE
+Paris,NA,France,M,39,Married,Other,6,3,FALSE,TRUE
+New Delhi,DL,India,F,26,Married,Other,2,10,TRUE,FALSE
+Bromley,NA,United Kingdom,M,43,Married,Sales,0,7,TRUE,FALSE
+Dresden,NA,Germany,F,28,Married,Other,1,8,TRUE,FALSE
+Conyers,GA,United States,F,33,Married,Executive,2,1,TRUE,TRUE
+Singapore,Singapore,Singapore,F,31,Married,Executive,7,1,FALSE,TRUE
+Århus,NA,Denmark,M,41,Single,Sales,7,3,FALSE,TRUE
+Rio de Janeiro,BR-RJ,Brazil,F,31,Married,Other,4,8,TRUE,FALSE
+Croydon,NA,United Kingdom,F,45,Married,Other,4,1,FALSE,TRUE
+Nagaur,RJ,India,M,22,Single,Trades,9,2,FALSE,TRUE
+Cangzhou,NA,China,M,34,Unspecified,Sales,8,2,FALSE,TRUE
+Erfurt,NA,Germany,M,32,Single,Other,5,2,FALSE,TRUE
+Portsmouth,NA,United Kingdom,F,38,Unspecified,Other,1,6,TRUE,FALSE
+Navegantes,BR-SC,Brazil,M,38,Married,Sales,7,1,FALSE,TRUE
+Sturbridge,MA,United States,M,21,Single,Professional,6,2,FALSE,TRUE
+Valencia,NA,Spain,M,36,Married,Executive,5,2,FALSE,TRUE
+Marseille,NA,France,M,22,Single,Professional,11,0,FALSE,TRUE
+Ronse,NA,Belgium,M,25,Single,Professional,5,1,FALSE,TRUE
+Rio de Janeiro,BR-RJ,Brazil,F,26,Single,Professional,9,3,FALSE,TRUE
+Firenze,FI,Italy,F,47,Married,Executive,3,2,FALSE,TRUE
+Córdoba,NA,Spain,M,20,Single,Student,6,2,FALSE,TRUE
+Chyofu,NA,Japan,M,22,Single,Sales,9,0,FALSE,TRUE
+Dresden,NA,Germany,M,25,Single,Executive,10,1,FALSE,TRUE
+Balneário Camboriú,BR-SC,Brazil,F,36,Married,Other,1,10,TRUE,FALSE
+Sydney,NSW,Australia,F,46,Married,Hospitality,1,0,TRUE,TRUE
+Sydney,NSW,Australia,F,41,Married,Other,1,7,TRUE,FALSE
+Guarulhos,BR-SP,Brazil,M,41,Married,Trades,7,3,FALSE,TRUE
+Lübeck,NA,Germany,F,38,Married,Other,9,2,FALSE,TRUE
+Valencia,NA,Spain,F,23,Married,Other,4,4,TRUE,FALSE
+Loughton,NA,United Kingdom,F,19,Single,Hospitality,6,1,FALSE,TRUE
+Vallejo,CA,United States,M,43,Married,Other,7,1,FALSE,TRUE
+Melbourne,FL,United States,F,42,Married,Other,6,1,FALSE,TRUE
+Saint Petersburg,NA,Russia,M,23,Single,Sales,6,1,FALSE,TRUE
+Hampton Bays,NY,United States,M,22,Single,Executive,10,0,FALSE,TRUE
+Timóteo,BR-MG,Brazil,M,23,Single,Trades,6,3,FALSE,TRUE
+Silkeborg,NA,Denmark,F,19,Single,Other,1,2,TRUE,FALSE
+Tampico,NA,Mexico,F,39,Married,Other,1,0,TRUE,TRUE
+Milano,MI,Italy,M,27,Single,Other,9,0,FALSE,TRUE
+Woodland,WA,United States,F,25,Single,Other,7,1,FALSE,TRUE
+Colorado Springs,CO,United States,M,27,Single,Other,7,2,FALSE,TRUE
+Komae,NA,Japan,M,19,Single,Student,6,4,FALSE,TRUE
+Bossier City,LA,United States,M,50,Married,Other,7,1,FALSE,TRUE
+Kawasaki,NA,Japan,F,32,Married,Retail,7,0,FALSE,TRUE
+Ulsan,NA,Korea,F,39,Single,Retail,1,5,TRUE,FALSE
+Angers,NA,France,M,27,Single,Other,5,0,FALSE,TRUE
+Renfrew,ON,Canada,F,29,Married,Retail,2,8,TRUE,FALSE
+Shijiazhuang,NA,China,F,37,Married,Other,6,1,FALSE,TRUE
+Elgin,IL,United States,M,43,Married,Sales,7,2,FALSE,TRUE
+Regina,SK,Canada,F,44,Married,Other,6,1,FALSE,TRUE
+Ecatepec,NA,Mexico,F,37,Married,Other,0,7,TRUE,FALSE
+Rockville,MD,United States,F,35,Unspecified,Other,0,8,TRUE,FALSE
+Guangzhou,NA,China,F,43,Unspecified,Hospitality,2,2,TRUE,TRUE
+Alexandria,LA,United States,F,23,Married,Other,2,6,TRUE,FALSE
+Toulouse,NA,France,F,37,Unspecified,Hospitality,9,1,FALSE,TRUE
+Hamburg,NA,Germany,M,28,Single,Professional,7,0,FALSE,TRUE
+São Paulo,BR-SP,Brazil,F,48,Married,Other,2,1,TRUE,TRUE
+Niquelândia,BR-GO,Brazil,F,34,Single,Retail,3,3,TRUE,TRUE
+Escondido,CA,United States,M,19,Single,Sales,8,3,FALSE,TRUE
+Indore,NA,India,M,23,Single,Professional,6,3,FALSE,TRUE
+Oldham,NA,United Kingdom,M,27,Single,Trades,7,2,FALSE,TRUE
+Würzburg,NA,Germany,F,20,Married,Other,2,5,TRUE,FALSE
+Atlanta,GA,United States,M,21,Single,Sales,6,0,FALSE,TRUE
+Heihe,NA,China,M,35,Married,Sales,8,1,FALSE,TRUE
+Köln,NA,Germany,M,36,Single,Professional,5,3,FALSE,TRUE
+Southampton,NA,United Kingdom,F,34,Married,Executive,2,7,TRUE,FALSE
+San Luis,NA,Mexico,M,29,Single,Other,7,0,FALSE,TRUE
+Düsseldorf,NA,Germany,F,45,Married,Executive,3,1,FALSE,TRUE
+Maggie Valley,NC,United States,M,20,Single,Professional,10,1,FALSE,TRUE
+Winnipeg,MB,Canada,F,49,Married,Other,0,1,TRUE,TRUE
+Aachen,NA,Germany,M,28,Single,Sales,8,2,FALSE,TRUE
+Dresden,NA,Germany,M,33,Married,Executive,3,0,FALSE,TRUE
+Frogmore,NA,United Kingdom,M,34,Single,Trades,7,2,FALSE,TRUE
+Akishima,NA,Japan,F,38,Unspecified,Other,1,8,TRUE,FALSE
+Kawasaki,NA,Japan,M,35,Married,Trades,5,2,FALSE,TRUE
+Moorestown,NJ,United States,M,25,Single,Sales,6,0,FALSE,TRUE
+Graz,NA,Austria,F,25,Married,Other,9,0,FALSE,TRUE
+Fussa,NA,Japan,M,21,Single,Student,9,1,FALSE,TRUE
+Napoli,NA,Italy,M,37,Married,Sales,5,1,FALSE,TRUE
+Warrenton,VA,United States,F,30,Married,Executive,2,1,TRUE,TRUE
+Monterey,NA,Mexico,M,31,Married,Other,5,2,FALSE,TRUE
+Lowestoft,NA,United Kingdom,M,34,Married,Executive,5,3,FALSE,TRUE
+Helsinki,NA,Finland,M,28,Single,Sales,8,2,FALSE,TRUE
+Renfrew,ON,Canada,F,36,Single,Retail,1,6,TRUE,FALSE
+Rouen,NA,France,F,27,Single,Student,1,6,TRUE,FALSE
+Guangzhou,NA,China,F,47,Unspecified,Hospitality,7,3,FALSE,TRUE
+Norman,OK,United States,M,25,Single,Other,8,2,FALSE,TRUE
+Shanghai,NA,China,F,20,Married,Retail,2,3,TRUE,FALSE
+Changchun,NA,China,F,34,Married,Executive,9,1,FALSE,TRUE
+Higashimurayama,NA,Japan,F,48,Married,Executive,4,1,FALSE,TRUE
+Adelaide,SA,Australia,F,36,Married,Other,1,9,TRUE,FALSE
+Ahmedabad,GJ,India,F,51,Married,Other,1,8,TRUE,FALSE
+Raleigh,NC,United States,M,31,Married,Other,5,1,FALSE,TRUE
+Canberra,ACT,Australia,M,36,Unspecified,Sales,2,3,TRUE,TRUE
+Tijuana,NA,Mexico,M,20,Single,Professional,5,3,FALSE,TRUE
+Salvador,BR-BA,Brazil,M,24,Single,Sales,4,0,FALSE,TRUE
+Kawasaki,NA,Japan,M,36,Married,Executive,7,2,FALSE,TRUE
+Sion,NA,Switzerland,F,32,Unspecified,Other,0,4,TRUE,FALSE
+Wien,NA,Austria,M,37,Married,Other,5,1,FALSE,TRUE
+Chennai,NA,India,M,25,Single,Student,9,2,FALSE,TRUE
+Amsterdam,NA,Netherlands,M,39,Married,Executive,3,2,FALSE,TRUE
+Baraga,MI,United States,M,19,Single,Other,7,0,FALSE,TRUE
+Lowestoft,NA,United Kingdom,M,24,Single,Professional,6,3,FALSE,TRUE
+Guadalajara,NA,Mexico,F,38,Married,Executive,0,7,TRUE,FALSE
+Yevatmal,AP,India,F,26,Single,Other,9,0,FALSE,TRUE
+Sendai,NA,Japan,F,22,Married,Retail,3,7,TRUE,FALSE
+Torreón,NA,Mexico,M,33,Single,Sales,5,4,FALSE,TRUE
+Brisbane,Qld,Australia,F,24,Single,Other,1,6,TRUE,FALSE
+Coventry,NA,United Kingdom,M,52,Married,Other,2,6,TRUE,FALSE
+St Petersburg,FL,United States,M,31,Married,Other,3,7,TRUE,FALSE
+Blue Ridge,GA,United States,M,43,Married,Retired,1,8,TRUE,FALSE
+Köln,NA,Germany,M,26,Single,Other,6,0,FALSE,TRUE
+Lappeenranta,NA,Finland,F,21,Single,Other,6,1,FALSE,TRUE
+Wandsworth,NA,United Kingdom,M,21,Single,Other,5,1,FALSE,TRUE
+Novosibirsk,NA,Russia,F,36,Married,Other,0,4,TRUE,FALSE
+Middlesbrough,NA,United Kingdom,M,31,Single,Professional,4,3,FALSE,TRUE
+Catania,CT,Italy,F,25,Married,Other,3,8,TRUE,FALSE
+Exeter,NA,United Kingdom,F,40,Unspecified,Hospitality,2,9,TRUE,FALSE
+Logroño,NA,Spain,F,24,Single,Other,6,1,FALSE,TRUE
+Wuhan,NA,China,M,21,Single,Other,7,2,FALSE,TRUE
+Brampton,ON,Canada,M,31,Single,Executive,9,2,FALSE,TRUE
+Ludhiana,UP,India,M,29,Single,Other,8,3,FALSE,TRUE
+Beijing,NA,China,F,20,Single,Professional,1,7,TRUE,FALSE
+Essen,NA,Germany,M,28,Single,Other,7,2,FALSE,TRUE
+Stavropol,NA,Russia,M,36,Married,Other,10,3,FALSE,TRUE
+Grenoble,NA,France,F,23,Single,Other,6,2,FALSE,TRUE
+Aachen,NA,Germany,F,23,Married,Retail,3,6,TRUE,FALSE
+Saint Petersburg,NA,Russia,M,37,Single,Other,6,2,FALSE,TRUE
+Chongqing,NA,China,M,44,Married,Sales,2,5,TRUE,FALSE
+Reims,NA,France,M,24,Single,Student,7,2,FALSE,TRUE
+Canberra,ACT,Australia,M,39,Married,Other,6,3,FALSE,TRUE
+Århus,NA,Denmark,F,35,Married,Other,8,3,FALSE,TRUE
+Brisbane,Qld,Australia,F,20,Married,Other,0,7,TRUE,FALSE
+Orangeburg,SC,United States,M,23,Single,Other,4,2,FALSE,TRUE
+Incheon,NA,Korea,M,30,Married,Other,8,1,FALSE,TRUE
+Osasco,BR-SP,Brazil,F,23,Married,Other,1,9,TRUE,FALSE
+Whitehall,PA,United States,F,33,Married,Other,0,1,TRUE,TRUE
+Qiqihaer,NA,China,F,48,Married,Executive,2,6,TRUE,FALSE
+Novosibirsk,NA,Russia,M,24,Single,Student,0,5,TRUE,FALSE
+Pontiac,MI,United States,F,40,Married,Other,5,1,FALSE,TRUE
+Perugia,PG,Italy,F,33,Married,Other,0,3,TRUE,TRUE
+Bristow,VA,United States,F,45,Married,Hospitality,2,7,TRUE,FALSE
+Alicante,NA,Spain,F,29,Married,Executive,8,2,FALSE,TRUE
+San Nicolás de los Garza,NA,Mexico,F,28,Married,Other,1,5,TRUE,FALSE
+Dordrecht,NA,Netherlands,M,38,Single,Other,7,2,FALSE,TRUE
+Chennai,NA,India,M,34,Unspecified,Professional,7,2,FALSE,TRUE
+Edgewood,MD,United States,M,32,Single,Other,7,2,FALSE,TRUE
+Bromley,NA,United Kingdom,M,19,Single,Other,8,1,FALSE,TRUE
+Dresden,NA,Germany,F,30,Unspecified,Other,9,1,FALSE,TRUE
+Martinez,CA,United States,F,32,Married,Other,1,5,TRUE,FALSE
+Shimonoseki,NA,Japan,F,36,Single,Retail,1,4,TRUE,FALSE
+Chandigarh,CH,India,F,23,Single,Other,7,2,FALSE,TRUE
+Wels,NA,Austria,M,27,Single,Professional,7,0,FALSE,TRUE
+Suffern,NY,United States,M,28,Single,Executive,7,2,FALSE,TRUE
+Singapore,Singapore,Singapore,M,29,Single,Other,4,2,FALSE,TRUE
+Roslindale,MA,United States,M,24,Single,Other,6,2,FALSE,TRUE
+Bonn,NA,Germany,M,37,Married,Other,0,2,FALSE,TRUE
+Groningen,NA,Netherlands,F,30,Married,Executive,5,2,FALSE,TRUE
+Bari,BA,Italy,M,34,Single,Trades,8,2,FALSE,TRUE
+San Jose,CA,United States,F,38,Married,Other,3,0,TRUE,TRUE
+Bogalusa,LA,United States,F,43,Married,Other,0,7,TRUE,FALSE
+Changchun,NA,China,M,26,Single,Sales,7,2,FALSE,TRUE
+North Reading,MA,United States,F,24,Married,Retail,2,4,TRUE,FALSE
+Guarulhos,BR-SP,Brazil,F,27,Married,Other,7,3,FALSE,TRUE
+New Salisbury,IN,United States,F,44,Married,Other,8,2,FALSE,TRUE
+Phoenix,AZ,United States,F,33,Married,Other,0,5,TRUE,FALSE
+Balneário Camboriú,BR-SC,Brazil,F,33,Married,Other,2,7,TRUE,FALSE
+Heidelberg,NA,Germany,M,27,Single,Trades,5,3,FALSE,TRUE
+Manaus,BR-AM,Brazil,F,31,Single,Professional,7,2,FALSE,TRUE
+San Luis Obispo,CA,United States,M,23,Single,Trades,8,4,FALSE,TRUE
+Sydney,NSW,Australia,F,41,Married,Other,6,2,FALSE,TRUE
+Vernon,BC,Canada,F,32,Married,Other,1,7,TRUE,FALSE
+São Paulo,BR-SP,Brazil,M,30,Single,Other,8,2,FALSE,TRUE
+Kingsland,GA,United States,M,20,Single,Executive,9,2,FALSE,TRUE
+Ramsgate,NA,United Kingdom,F,33,Married,Retail,6,1,FALSE,TRUE
+Sakai,NA,Japan,M,21,Single,Professional,7,3,FALSE,TRUE
+São Gonçalo,BR-RJ,Brazil,M,32,Married,Executive,7,1,FALSE,TRUE
+Bellinzona,NA,Switzerland,F,26,Single,Professional,1,7,TRUE,FALSE
+Düsseldorf,NA,Germany,M,28,Married,Professional,8,1,FALSE,TRUE
+Chengdu,NA,China,F,49,Married,Executive,2,4,TRUE,FALSE
+Kent,WA,United States,F,39,Unspecified,Other,1,7,TRUE,FALSE
+Singapore,Singapore,Singapore,M,20,Single,Other,8,0,FALSE,TRUE
+Osnabrück,NA,Germany,F,30,Married,Executive,8,2,FALSE,TRUE
+San Luis,NA,Mexico,M,32,Single,Professional,4,4,FALSE,TRUE
+Kushiro,NA,Japan,M,25,Single,Sales,6,2,FALSE,TRUE
+Cangzhou,NA,China,F,36,Unspecified,Hospitality,6,2,FALSE,TRUE
+Villach,NA,Austria,M,19,Single,Executive,5,1,FALSE,TRUE
+Fishkill,NY,United States,M,23,Single,Executive,8,2,FALSE,TRUE
+Pune,NA,India,M,29,Single,Sales,5,3,FALSE,TRUE
+Madison,WI,United States,M,21,Single,Professional,5,1,FALSE,TRUE
+Singapore,Singapore,Singapore,F,38,Married,Retail,1,1,TRUE,TRUE
+Natchitoches,LA,United States,M,49,Married,Retired,1,2,TRUE,TRUE
+Raleigh,NC,United States,F,34,Married,Executive,0,3,TRUE,TRUE
+Petrópolis,BR-RJ,Brazil,F,37,Married,Retail,3,7,TRUE,FALSE
+Canberra,ACT,Australia,M,25,Single,Professional,9,1,FALSE,TRUE
+Paris,NA,France,F,24,Married,Other,2,3,TRUE,TRUE
+Playa del Carmen,NA,Mexico,F,21,Married,Other,1,6,TRUE,FALSE
+Pachuca de Soto,NA,Mexico,F,24,Single,Other,8,3,FALSE,TRUE
+Bern,NA,Switzerland,F,33,Married,Other,1,6,TRUE,FALSE
+Chongqing,NA,China,F,33,Married,Hospitality,7,1,FALSE,TRUE
+Peoria,IL,United States,M,28,Single,Professional,3,1,FALSE,TRUE
+Kawasaki,NA,Japan,M,32,Married,Sales,6,2,FALSE,TRUE
+Bromont,QC,Canada,F,40,Married,Other,2,9,TRUE,FALSE
+Vallejo,CA,United States,F,37,Unspecified,Other,1,5,TRUE,FALSE
+Toledo,NA,Spain,F,32,Married,Other,1,2,TRUE,TRUE
+Basel,NA,Switzerland,F,39,Married,Other,5,2,FALSE,TRUE
+Barcelona,B,Spain,M,27,Single,Other,8,0,FALSE,TRUE
+Manzanilo,NA,Mexico,M,42,Married,Sales,6,3,FALSE,TRUE
+Logroño,LO,Spain,M,22,Single,Student,2,3,FALSE,TRUE
+Asan,NA,Korea,M,21,Single,Executive,5,2,FALSE,TRUE
+Fuquay Varina,NC,United States,M,43,Married,Sales,7,2,FALSE,TRUE
+Mysore,MP,India,M,26,Single,Sales,8,2,FALSE,TRUE
+Campinas,BR-SP,Brazil,M,26,Single,Professional,7,0,FALSE,TRUE
+Clermont-Ferrand,NA,France,M,40,Married,Other,7,1,FALSE,TRUE
+Kobe,NA,Japan,M,33,Married,Other,6,2,FALSE,TRUE
+Acapulco,NA,Mexico,F,38,Married,Other,1,8,TRUE,FALSE
+Melbourne,Vic,Australia,F,24,Single,Retail,4,3,FALSE,TRUE
+Nice,NA,France,F,24,Single,Other,0,5,TRUE,FALSE
+New Port Richey,FL,United States,M,27,Single,Executive,5,2,FALSE,TRUE
+Campos dos Goytacazes,BR-RJ,Brazil,F,35,Unspecified,Other,3,0,TRUE,TRUE
+Timóteo,BR-MG,Brazil,M,37,Married,Other,4,6,TRUE,FALSE
+Yellowknife,NT,Canada,F,49,Married,Executive,8,3,FALSE,TRUE
+Miami,FL,United States,M,26,Single,Professional,4,4,FALSE,TRUE
+Braunschweig,NA,Germany,M,26,Single,Professional,3,2,FALSE,TRUE
+Chengdu,NA,China,M,27,Single,Sales,6,3,FALSE,TRUE
+Heidelberg,NA,Germany,M,21,Single,Trades,6,1,FALSE,TRUE
+Delhi,NCT,India,M,31,Married,Executive,1,9,TRUE,FALSE
+Navegantes,BR-SC,Brazil,M,21,Single,Other,6,0,FALSE,TRUE
+North Liberty,IA,United States,M,24,Single,Sales,8,2,FALSE,TRUE
+Ravenna,RV,Italy,M,35,Married,Other,5,1,FALSE,TRUE
+Pamplona,NA,Spain,M,28,Single,Professional,6,1,FALSE,TRUE
+Gatineau,QC,Canada,M,22,Single,Trades,5,1,FALSE,TRUE
+Coventry,NA,United Kingdom,M,25,Single,Sales,10,1,FALSE,TRUE
+Rio de Janeiro,BR-RJ,Brazil,M,33,Married,Executive,6,2,FALSE,TRUE
+Cuernavaca,NA,Mexico,M,22,Single,Trades,7,2,FALSE,TRUE
+Qingdao,NA,China,M,34,Single,Professional,2,1,FALSE,TRUE
+Singapore,Singapore,Singapore,F,23,Single,Other,1,3,TRUE,TRUE
+Roma,ROMA,Italy,F,44,Married,Other,6,1,FALSE,TRUE
+Preston,NA,United Kingdom,M,41,Married,Professional,10,1,FALSE,TRUE
+Mukilteo,WA,United States,F,38,Single,Retail,3,10,TRUE,FALSE
+Southampton,NA,United Kingdom,M,21,Single,Professional,8,1,FALSE,TRUE
+Osasco,BR-SP,Brazil,M,40,Married,Trades,5,0,FALSE,TRUE
+Charleroi,NA,Belgium,M,27,Single,Professional,5,1,FALSE,TRUE
+Amiens,NA,France,F,32,Single,Retail,9,0,FALSE,TRUE
+Kasugai,NA,Japan,M,29,Single,Other,9,3,FALSE,TRUE
+Kiyose,NA,Japan,M,23,Single,Other,11,1,FALSE,TRUE
+Nancy,NA,France,F,43,Married,Other,3,9,TRUE,FALSE
+Potsdam,NA,Germany,F,32,Married,Other,2,3,TRUE,FALSE
+Enschede,NA,Netherlands,F,31,Married,Executive,5,1,FALSE,TRUE
+Québec,QC,Canada,M,25,Single,Other,4,1,FALSE,TRUE
+Nago,NA,Japan,F,39,Married,Other,6,2,FALSE,TRUE
+Rio de Janeiro,BR-RJ,Brazil,M,38,Married,Other,1,2,TRUE,TRUE
+Aurora,CO,United States,F,32,Married,Executive,6,2,FALSE,TRUE
+Haarlem,NA,Netherlands,F,34,Married,Other,1,2,TRUE,TRUE
+Chengdu,NA,China,F,37,Single,Retail,1,7,TRUE,FALSE
+Brest,NA,France,M,43,Married,Other,2,0,FALSE,TRUE
+Wuhan,NA,China,M,23,Single,Other,5,1,FALSE,TRUE
+Salvador,BR-BA,Brazil,F,26,Married,Other,1,4,TRUE,FALSE
+Perth,WA,Australia,F,39,Single,Retail,1,3,TRUE,TRUE
+Calgary,AB,Canada,M,22,Single,Sales,8,0,FALSE,TRUE
+Bern,NA,Switzerland,F,37,Married,Retail,2,2,TRUE,TRUE
+Nantes,NA,France,M,24,Single,Trades,11,2,FALSE,TRUE
+Adelaide,SA,Australia,M,31,Single,Professional,1,0,FALSE,TRUE
+Paris,NA,France,F,44,Married,Other,1,6,TRUE,FALSE
+Helsinki,NA,Finland,M,38,Married,Professional,7,3,FALSE,TRUE
+Perth,WA,Australia,M,23,Single,Sales,5,1,FALSE,TRUE
+Beijing,NA,China,M,19,Single,Other,9,0,FALSE,TRUE
+Turnhout,NA,Belgium,F,36,Married,Other,1,7,TRUE,FALSE
+Cranston,RI,United States,M,32,Married,Other,8,1,FALSE,TRUE
+Göteborg,NA,Sweden,F,31,Married,Other,2,13,TRUE,FALSE
+Kelamayi,NA,China,F,46,Married,Executive,8,1,FALSE,TRUE
+Portsmouth,NA,United Kingdom,F,38,Married,Retail,0,8,TRUE,FALSE
+Bern,NA,Switzerland,F,24,Married,Retail,1,6,TRUE,FALSE
+Dordrecht,NA,Netherlands,F,45,Married,Hospitality,8,2,FALSE,TRUE
+Rio de Janeiro,BR-RJ,Brazil,M,25,Single,Other,7,3,FALSE,TRUE
+Chandigarh,HR,India,F,24,Married,Retail,8,2,FALSE,TRUE
+Timóteo,BR-MG,Brazil,M,32,Single,Professional,7,2,FALSE,TRUE
+Fukushima,NA,Japan,F,49,Married,Executive,12,2,FALSE,TRUE
+Shijiazhuang,NA,China,F,34,Married,Retail,1,7,TRUE,FALSE
+Amersfoort,NA,Netherlands,M,21,Single,Executive,7,2,FALSE,TRUE
+Dübendorf,NA,Switzerland,F,41,Married,Other,1,7,TRUE,FALSE
+Cheney,WA,United States,F,28,Single,Other,1,3,TRUE,FALSE
+Arvika,NA,Sweden,M,34,Single,Other,7,2,FALSE,TRUE
+Porto Alegre,BR-RS,Brazil,M,31,Married,Other,6,3,FALSE,TRUE
+Hermosillo,NA,Mexico,F,28,Single,Other,7,1,FALSE,TRUE
+Singapore,Singapore,Singapore,F,40,Unspecified,Hospitality,6,2,FALSE,TRUE
+Chengdu,NA,China,M,42,Single,Sales,0,2,FALSE,TRUE
+Anchorage,AK,United States,F,37,Married,Other,7,3,FALSE,TRUE
+Rennes,NA,France,M,28,Single,Professional,4,0,FALSE,TRUE
+Canberra,ACT,Australia,M,24,Single,Trades,6,1,FALSE,TRUE
+Fargo,ND,United States,M,31,Married,Sales,8,2,FALSE,TRUE
+Arnhem,NA,Netherlands,M,24,Single,Trades,9,1,FALSE,TRUE
+Chiba,NA,Japan,F,22,Single,Student,1,9,TRUE,FALSE
+Bellinzona,NA,Switzerland,M,26,Single,Professional,5,2,FALSE,TRUE
+Fukushima,NA,Japan,M,26,Single,Other,7,1,FALSE,TRUE
+Perugia,NA,Italy,M,32,Married,Other,6,1,FALSE,TRUE
+Viborg,NA,Denmark,F,21,Single,Other,2,8,TRUE,FALSE
+Perth,WA,Australia,F,38,Married,Other,3,3,TRUE,FALSE
+Mysore,KA,India,M,28,Married,Other,5,2,FALSE,TRUE
+Angers,NA,France,M,29,Single,Other,8,1,FALSE,TRUE
+Duque de Caxias,BR-RJ,Brazil,F,39,Married,Other,3,8,TRUE,FALSE
+Musashino,NA,Japan,M,22,Single,Sales,7,1,FALSE,TRUE
+Pamplona,NA,Spain,M,19,Single,Other,5,3,FALSE,TRUE
+Niterói,BR-RJ,Brazil,F,35,Married,Executive,5,1,FALSE,TRUE
+San Francisco,CA,United States,M,26,Single,Other,4,1,FALSE,TRUE
+Gmunden,NA,Austria,F,47,Married,Executive,1,4,TRUE,FALSE
+Wels,NA,Austria,M,23,Single,Sales,5,3,FALSE,TRUE
+Smolensk,NA,Russia,F,37,Unspecified,Other,7,2,FALSE,TRUE
+Inta,NA,Russia,F,34,Married,Executive,0,7,TRUE,FALSE
+Anchorage,AK,United States,M,34,Unspecified,Sales,5,3,FALSE,TRUE
+Bellinzona,NA,Switzerland,M,28,Single,Other,9,0,FALSE,TRUE
+Pohang,NA,Korea,M,20,Single,Sales,7,2,FALSE,TRUE
+Tokyo,NA,Japan,M,28,Single,Sales,3,3,FALSE,TRUE
+Tolyatti,NA,Russia,M,19,Single,Executive,7,3,FALSE,TRUE
+Mäntsälä,NA,Finland,M,28,Single,Student,5,2,FALSE,TRUE
+Nanaimo,BC,Canada,M,22,Single,Other,5,4,FALSE,TRUE
+Blackpool,NA,United Kingdom,M,29,Single,Trades,11,2,FALSE,TRUE
+Shijiazhuang,NA,China,M,29,Single,Student,6,2,FALSE,TRUE
+Canberra,ACT,Australia,M,20,Single,Professional,8,1,FALSE,TRUE
+Tilburg,NA,Netherlands,F,36,Married,Executive,3,6,TRUE,FALSE
+Erfurt,NA,Germany,M,26,Single,Trades,4,2,FALSE,TRUE
+Riverton,UT,United States,F,46,Married,Other,9,1,FALSE,TRUE
+Melbourne,Vic,Australia,F,49,Married,Professional,7,1,FALSE,TRUE
+Canberra,ACT,Australia,M,23,Single,Other,7,1,FALSE,TRUE
+Boulogne-Billancourt,NA,France,M,26,Single,Professional,5,1,FALSE,TRUE
+Musashino,NA,Japan,M,29,Single,Professional,5,2,FALSE,TRUE
+Yarmouth,NS,Canada,F,32,Married,Hospitality,3,3,TRUE,TRUE
+Indian Harbour Beach,FL,United States,F,23,Single,Other,7,1,FALSE,TRUE
+New York,NY,United States,F,26,Married,Retail,0,6,TRUE,FALSE
+Marquette,KS,United States,F,41,Married,Other,0,8,TRUE,FALSE
+Kelamayi,NA,China,F,37,Married,Other,4,1,FALSE,TRUE
+Fort Myers,FL,United States,M,33,Married,Sales,11,3,FALSE,TRUE
+Torino,NA,Italy,F,39,Married,Other,6,1,FALSE,TRUE
+Hong Kong,NA,China,M,34,Single,Other,7,1,FALSE,TRUE
+Sudbury,ON,Canada,M,20,Single,Executive,4,1,FALSE,TRUE
+Sydney,NSW,Australia,F,29,Unspecified,Other,1,8,TRUE,FALSE
+Beijing,NA,China,F,36,Married,Other,2,6,TRUE,FALSE
+Cangzhou,NA,China,F,34,Married,Other,2,4,TRUE,FALSE
+Cangzhou,NA,China,M,38,Married,Sales,1,7,TRUE,FALSE
+Los Angeles,CA,United States,F,35,Married,Executive,4,1,FALSE,TRUE
+Canberra,ACT,Australia,M,32,Single,Other,9,2,FALSE,TRUE
+Lausanne,NA,Switzerland,F,35,Married,Executive,1,0,FALSE,TRUE
+Kiel,NA,Germany,M,27,Single,Other,8,3,FALSE,TRUE
+Brest,NA,France,F,30,Married,Other,7,1,FALSE,TRUE
+Roskilde,NA,Denmark,F,30,Married,Hospitality,1,10,TRUE,FALSE
+Canberra,ACT,Australia,F,47,Unspecified,Hospitality,3,2,FALSE,TRUE
+Saarbrücken,NA,Germany,M,37,Unspecified,Trades,7,2,FALSE,TRUE
+Mpls,MN,United States,M,24,Single,Professional,2,3,FALSE,TRUE
+Chemnitz,NA,Germany,F,35,Married,Retail,4,2,FALSE,TRUE
+Aalborg,NA,Denmark,M,29,Single,Trades,5,1,FALSE,TRUE
+Charleroi,NA,Belgium,F,26,Unspecified,Professional,1,6,TRUE,FALSE
+Saint Petersburg,NA,Russia,F,26,Married,Retail,1,7,TRUE,FALSE
+Sydney,NSW,Australia,M,38,Married,Sales,6,2,FALSE,TRUE
+Sendai,NA,Japan,M,40,Married,Other,7,2,FALSE,TRUE
+Middlesbrough,NA,United Kingdom,M,32,Single,Executive,6,0,FALSE,TRUE
+Pachuca de Soto,NA,Mexico,F,34,Married,Other,1,8,TRUE,FALSE
+Kansas City,MO,United States,F,24,Married,Retail,1,8,TRUE,FALSE
+Adelaide,SA,Australia,M,24,Single,Trades,3,2,FALSE,TRUE
+Toulon,NA,France,M,30,Married,Sales,9,1,FALSE,TRUE
+Hadano,NA,Japan,M,31,Single,Student,6,1,FALSE,TRUE
+Petrópolis,BR-RJ,Brazil,M,20,Single,Other,5,3,FALSE,TRUE
+Samara,NA,Russia,M,31,Married,Trades,7,1,FALSE,TRUE
+Kyoto,NA,Japan,M,22,Single,Trades,6,1,FALSE,TRUE
+Randers,NA,Denmark,F,32,Single,Retail,2,5,TRUE,FALSE
+Cangzhou,NA,China,M,38,Married,Executive,1,5,TRUE,FALSE
+Mobile,AL,United States,M,35,Married,Other,7,3,FALSE,TRUE
+Lausanne,NA,Switzerland,M,31,Single,Professional,6,1,FALSE,TRUE
+Salmon Arm,BC,Canada,F,26,Married,Retail,5,0,FALSE,TRUE
+Potsdam,NA,Germany,F,38,Unspecified,Hospitality,6,1,FALSE,TRUE
+Naperville,IL,United States,F,35,Married,Other,0,2,TRUE,TRUE
+Park City,UT,United States,F,38,Married,Other,1,6,TRUE,FALSE
+Lyon,NA,France,M,19,Single,Sales,8,2,FALSE,TRUE
+Queen Creek,AZ,United States,F,27,Single,Other,8,2,FALSE,TRUE
+Raigarh,MP,India,M,32,Married,Other,8,1,FALSE,TRUE
+Chatsworth,CA,United States,M,27,Single,Trades,10,3,FALSE,TRUE
+Beijing,NA,China,F,31,Married,Other,1,1,TRUE,TRUE
+Akishima,NA,Japan,F,25,Married,Retail,1,7,TRUE,FALSE
+Jamison,PA,United States,F,48,Unspecified,Hospitality,0,2,TRUE,FALSE
+Kotka,NA,Finland,F,26,Married,Retail,1,5,TRUE,FALSE
+Bern,NA,Switzerland,M,21,Single,Sales,6,2,FALSE,TRUE
+Cangzhou,NA,China,F,32,Married,Executive,3,0,TRUE,TRUE
+Singapore,Singapore,Singapore,M,38,Married,Trades,4,4,FALSE,TRUE
+Köln,NA,Germany,M,41,Married,Executive,8,0,FALSE,TRUE
+Nago,NA,Japan,F,25,Single,Hospitality,8,2,FALSE,TRUE
+Norfolk,VA,United States,F,23,Single,Other,5,0,FALSE,TRUE
+Williamsburg,VA,United States,M,37,Married,Sales,10,3,FALSE,TRUE
+Kobe,NA,Japan,F,45,Unspecified,Hospitality,7,0,FALSE,TRUE
+Boulogne-Billancourt,NA,France,F,36,Married,Other,6,2,FALSE,TRUE
+Chiba,NA,Japan,M,23,Single,Trades,6,1,FALSE,TRUE
+Brescia,BS,Italy,F,38,Unspecified,Hospitality,2,5,TRUE,FALSE
+Birmingham,NA,United Kingdom,M,44,Married,Trades,7,0,FALSE,TRUE
+Yarmouth,NS,Canada,F,33,Married,Hospitality,2,1,FALSE,TRUE
+Gmunden,NA,Austria,F,40,Married,Other,7,1,FALSE,TRUE
+Seattle,WA,United States,M,27,Single,Executive,8,2,FALSE,TRUE
+Portage La Prairie,MB,Canada,M,35,Unspecified,Trades,7,2,FALSE,TRUE
+Oak Harbor,WA,United States,M,42,Married,Other,9,2,FALSE,TRUE
+Singapore,Singapore,Singapore,M,22,Single,Trades,4,2,FALSE,TRUE
+Adelaide,SA,Australia,M,20,Single,Professional,3,2,FALSE,TRUE
+Tokyo,NA,Japan,M,19,Single,Professional,7,3,FALSE,TRUE
+Adelaide,SA,Australia,M,28,Single,Other,6,1,FALSE,TRUE
+Cliffwood,NJ,United States,M,25,Single,Other,7,0,FALSE,TRUE
+Balneário Camboriú,BR-SC,Brazil,M,31,Married,Trades,7,1,FALSE,TRUE
+Azusa,CA,United States,M,24,Single,Sales,4,1,FALSE,TRUE
+Chelyabinsk,NA,Russia,F,45,Married,Executive,1,0,TRUE,TRUE
+Yukhnov,NA,Russia,M,35,Married,Sales,8,1,FALSE,TRUE
+Melk,NA,Austria,M,23,Single,Trades,7,3,FALSE,TRUE
+São Paulo,BR-SP,Brazil,F,50,Married,Other,8,0,FALSE,TRUE
+Sendai,NA,Japan,M,23,Single,Trades,2,2,FALSE,TRUE
+Guarulhos,BR-SP,Brazil,F,46,Unspecified,Hospitality,2,3,TRUE,FALSE
+Osnabrück,NA,Germany,M,19,Single,Other,2,2,FALSE,TRUE
+Leicester,NA,United Kingdom,M,36,Married,Executive,5,2,FALSE,TRUE
+Bellinzona,NA,Switzerland,F,26,Married,Retail,1,2,TRUE,TRUE
+Tampico,NA,Mexico,M,44,Married,Other,4,1,FALSE,TRUE
+Southwark,NA,United Kingdom,M,31,Married,Sales,3,1,FALSE,TRUE
+Lethbridge,AB,Canada,F,34,Married,Other,0,11,TRUE,FALSE
+Nanaimo,BC,Canada,M,38,Single,Sales,5,3,FALSE,TRUE
+Ramsgate,NA,United Kingdom,M,27,Single,Professional,6,3,FALSE,TRUE
+Billerica,MA,United States,F,31,Married,Executive,2,10,TRUE,FALSE
+Milano,MI,Italy,M,32,Single,Professional,5,3,FALSE,TRUE
+Delhi,NCT,India,F,23,Married,Other,4,7,TRUE,FALSE
+Winnipeg,MB,Canada,F,45,Unspecified,Hospitality,2,8,TRUE,FALSE
+Tampa,FL,United States,F,43,Married,Other,6,2,FALSE,TRUE
+São Paulo,BR-SP,Brazil,F,20,Single,Other,2,6,TRUE,FALSE
+Sacramento,CA,United States,F,39,Married,Retail,5,0,FALSE,TRUE
+Canberra,ACT,Australia,F,41,Married,Other,9,1,FALSE,TRUE
+Manzanilo,NA,Mexico,M,27,Single,Professional,7,2,FALSE,TRUE
+Kawasaki,NA,Japan,F,47,Unspecified,Hospitality,4,3,FALSE,TRUE
+Lethbridge,AB,Canada,F,33,Married,Retail,1,10,TRUE,FALSE
+Hiroshima,NA,Japan,M,40,Married,Other,2,2,TRUE,TRUE
+Yakima,WA,United States,M,29,Single,Executive,4,2,FALSE,TRUE
+Amherst,NH,United States,M,23,Single,Other,8,1,FALSE,TRUE
+Rio de Janeiro,BR-RJ,Brazil,F,36,Married,Executive,7,0,FALSE,TRUE
+Salzburg,NA,Austria,M,21,Single,Trades,6,2,FALSE,TRUE
+Sunderland,NA,United Kingdom,M,22,Single,Student,3,1,FALSE,TRUE
+Eskilstuna,NA,Sweden,F,39,Married,Other,6,2,FALSE,TRUE
+Sendai,NA,Japan,F,49,Married,Executive,2,6,TRUE,FALSE
+Smolensk,NA,Russia,M,29,Single,Professional,6,0,FALSE,TRUE
+Padova,NA,Italy,F,22,Single,Other,10,2,FALSE,TRUE
+Hong Kong,NA,China,M,32,Married,Other,1,8,TRUE,FALSE
+Higashimurayama,NA,Japan,F,32,Married,Executive,6,0,FALSE,TRUE
+Hämeenlinna,NA,Finland,M,44,Married,Sales,6,3,FALSE,TRUE
+Kasugai,NA,Japan,F,23,Single,Other,1,1,TRUE,TRUE
+Niterói,BR-RJ,Brazil,M,20,Single,Other,1,2,TRUE,TRUE
+Manaus,BR-AM,Brazil,F,48,Married,Executive,1,8,TRUE,FALSE
+Besancon,NA,France,M,22,Single,Student,5,2,FALSE,TRUE
+Barcelona,B,Spain,M,25,Single,Professional,8,0,FALSE,TRUE
+Brtistol,NA,United Kingdom,M,30,Married,Sales,7,1,FALSE,TRUE
+Ryazan,NA,Russia,M,26,Single,Sales,8,2,FALSE,TRUE
+Santa Clara,CA,United States,M,28,Single,Trades,8,1,FALSE,TRUE
+Puebla,NA,Mexico,M,39,Single,Professional,7,1,FALSE,TRUE
+Chelyabinsk,NA,Russia,F,23,Single,Other,6,0,FALSE,TRUE
+Southwark,NA,United Kingdom,M,26,Single,Other,10,0,FALSE,TRUE
+Salvador,BR-BA,Brazil,F,24,Single,Other,2,4,TRUE,FALSE
+Komae,NA,Japan,F,45,Married,Hospitality,0,6,TRUE,FALSE
+Hagerstown,MD,United States,F,46,Married,Executive,9,2,FALSE,TRUE
+Bregenz,NA,Austria,M,21,Single,Professional,5,1,FALSE,TRUE
+Aix-en-Provence,NA,France,M,28,Single,Trades,6,2,FALSE,TRUE
+Acapulco,NA,Mexico,F,39,Married,Other,1,10,TRUE,FALSE
+Washington,DC,United States,M,39,Married,Sales,5,2,FALSE,TRUE
+Overland Park,KS,United States,M,44,Single,Other,7,2,FALSE,TRUE
+Frogmore,NA,United Kingdom,M,29,Single,Other,5,2,FALSE,TRUE
+Salvador,BR-BA,Brazil,F,44,Unspecified,Hospitality,1,10,TRUE,FALSE
+Frederikshavn,NA,Denmark,F,27,Married,Retail,2,2,TRUE,TRUE
+Hämeenlinna,NA,Finland,F,31,Married,Retail,3,7,TRUE,FALSE
+Chemnitz,NA,Germany,M,39,Married,Other,9,0,FALSE,TRUE
+Perth,WA,Australia,F,24,Single,Other,9,3,FALSE,TRUE
+Petaluma,CA,United States,F,32,Married,Executive,4,2,FALSE,TRUE
+Qiqihaer,NA,China,M,35,Married,Executive,6,1,FALSE,TRUE
+Manaus,BR-AM,Brazil,M,27,Single,Professional,5,1,FALSE,TRUE
+Seoul,NA,Korea,F,24,Married,Retail,2,7,TRUE,FALSE
+Århus,NA,Denmark,F,31,Married,Executive,5,1,FALSE,TRUE
+Bremen,NA,Germany,F,38,Married,Retail,1,6,TRUE,FALSE
+Chongqing,NA,China,F,48,Married,Other,1,6,TRUE,FALSE
+Brescia,BS,Italy,M,38,Married,Other,1,6,TRUE,FALSE
+Atlanta,GA,United States,M,20,Single,Sales,10,0,FALSE,TRUE
+Toronto,ON,Canada,F,31,Married,Other,2,8,TRUE,FALSE
+Salvador,BR-BA,Brazil,M,21,Single,Trades,10,1,FALSE,TRUE
+Chengdu,NA,China,F,34,Married,Hospitality,7,0,FALSE,TRUE
+Nijmegen,NA,Netherlands,F,33,Unspecified,Other,0,5,TRUE,FALSE
+Oldham,NA,United Kingdom,F,24,Single,Other,3,5,TRUE,FALSE
+Stratford,ON,Canada,F,26,Married,Retail,0,2,TRUE,TRUE
+Kirensk,NA,Russia,M,34,Married,Executive,6,2,FALSE,TRUE
+Angers,NA,France,M,32,Single,Trades,1,4,TRUE,FALSE
+Esbjerg,NA,Denmark,M,21,Single,Other,3,1,FALSE,TRUE
+Besancon,NA,France,M,19,Single,Sales,7,1,FALSE,TRUE
+Salerno,SA,Italy,F,27,Single,Other,1,7,TRUE,FALSE
+Sudbury,ON,Canada,M,29,Single,Executive,9,2,FALSE,TRUE
+Westport,ON,Canada,M,23,Single,Sales,5,1,FALSE,TRUE
+Blair,NE,United States,M,35,Married,Trades,5,2,FALSE,TRUE
+Westport,ON,Canada,M,23,Single,Trades,8,2,FALSE,TRUE
+Reading,NA,United Kingdom,F,35,Married,Other,2,3,TRUE,TRUE
+Silverdale,WA,United States,F,47,Married,Other,1,7,TRUE,FALSE
+Köln,NA,Germany,F,44,Unspecified,Hospitality,6,0,FALSE,TRUE
+Samara,NA,Russia,F,19,Single,Professional,1,8,TRUE,FALSE
+Murmansk,NA,Russia,F,47,Married,Other,1,7,TRUE,FALSE
+Thunder Bay,ON,Canada,F,33,Married,Executive,2,1,TRUE,TRUE
+Garden Grove,CA,United States,M,28,Single,Professional,3,5,TRUE,FALSE
+Perth,WA,Australia,F,39,Married,Retail,2,8,TRUE,FALSE
+Beijing,NA,China,F,34,Married,Other,2,7,TRUE,FALSE
+Aalborg,NA,Denmark,F,33,Married,Executive,2,2,TRUE,FALSE
+Lahti,NA,Finland,F,44,Unspecified,Hospitality,2,5,TRUE,FALSE
+Aalborg,NA,Denmark,F,30,Married,Other,1,7,TRUE,FALSE
+Portsmouth,NA,United Kingdom,F,23,Married,Retail,4,2,TRUE,TRUE
+Qiqihaer,NA,China,M,31,Single,Other,1,0,TRUE,TRUE
+Brasília,BR-DF,Brazil,M,29,Single,Other,6,2,FALSE,TRUE
+Marseille,NA,France,M,33,Married,Sales,8,2,FALSE,TRUE
+Pittsburgh,PA,United States,M,19,Single,Other,7,3,FALSE,TRUE
+Hasselt,NA,Belgium,F,29,Single,Hospitality,9,2,FALSE,TRUE
+Boden,NA,Sweden,M,34,Married,Other,7,1,FALSE,TRUE
+Timóteo,BR-MG,Brazil,F,45,Married,Executive,8,2,FALSE,TRUE
+Brunn am Gebirge,NA,Austria,M,43,Married,Other,5,1,FALSE,TRUE
+Brtistol,NA,United Kingdom,M,24,Single,Professional,6,1,FALSE,TRUE
+Clifton,NJ,United States,F,46,Married,Executive,1,4,TRUE,TRUE
+Aalborg,NA,Denmark,F,23,Married,Retail,1,7,TRUE,FALSE
+New York,NY,United States,F,20,Single,Other,0,7,TRUE,FALSE
+Salerno,NA,Italy,F,29,Married,Retail,1,3,TRUE,FALSE
+Ufa,NA,Russia,F,46,Married,Hospitality,2,2,TRUE,TRUE
+Tukwila,WA,United States,F,33,Unspecified,Other,1,8,TRUE,FALSE
+Mysore,ap,India,F,29,Single,Student,2,1,FALSE,TRUE
+Timóteo,BR-MG,Brazil,F,35,Married,Executive,1,0,TRUE,TRUE
+Singapore,Singapore,Singapore,M,34,Married,Executive,6,3,FALSE,TRUE
+Köln,NA,Germany,M,28,Single,Sales,5,2,FALSE,TRUE
+Randers,NA,Denmark,M,34,Married,Other,4,3,FALSE,TRUE
+Qiqihaer,NA,China,M,24,Single,Other,5,3,FALSE,TRUE
+Melbourne,Vic,Australia,F,44,Married,Other,3,0,TRUE,TRUE
+Campinas,BR-SP,Brazil,M,31,Single,Trades,0,2,FALSE,TRUE
+Viborg,NA,Denmark,M,27,Single,Sales,5,1,FALSE,TRUE
+Palermo,PA,Italy,F,27,Single,Other,5,2,FALSE,TRUE
+Parma,PR,Italy,M,29,Single,Sales,7,1,FALSE,TRUE
+Anchorage,AK,United States,F,20,Single,Other,9,1,FALSE,TRUE
+Marugame,NA,Japan,M,29,Single,Sales,5,0,FALSE,TRUE
+Singapore,Singapore,Singapore,F,33,Married,Other,2,9,TRUE,FALSE
+Itajaí,BR-SC,Brazil,M,33,Married,Sales,2,10,TRUE,FALSE
+Dallas,TX,United States,M,23,Single,Other,1,7,TRUE,FALSE
+Melbourne,Vic,Australia,F,43,Married,Other,9,3,FALSE,TRUE
+Ecatepec,NA,Mexico,M,42,Married,Executive,5,0,FALSE,TRUE
+Moscow,NA,Russia,F,36,Married,Other,8,1,FALSE,TRUE
+Fayetteville,NC,United States,M,22,Single,Trades,6,3,FALSE,TRUE
+Sydney,NSW,Australia,F,35,Married,Other,8,2,FALSE,TRUE
+Gent,NA,Belgium,M,22,Single,Professional,3,0,FALSE,TRUE
+Shijiazhuang,NA,China,M,32,Single,Trades,5,2,FALSE,TRUE
+Fukuoka,NA,Japan,M,23,Single,Trades,7,2,FALSE,TRUE
+Sapporo-shi,???,Japan,M,34,Single,Other,2,7,TRUE,FALSE
+Mortsel,NA,Belgium,F,33,Married,Executive,3,5,TRUE,FALSE
+Kushiro,NA,Japan,M,28,Single,Other,6,2,FALSE,TRUE
+Charleston,SC,United States,M,38,Married,Other,6,2,FALSE,TRUE
+Saint John,NB,Canada,F,21,Single,Hospitality,7,1,FALSE,TRUE
+Genève,NA,Switzerland,F,20,Single,Professional,4,7,TRUE,FALSE
+Amsterdam,NA,Netherlands,F,31,Married,Other,7,1,FALSE,TRUE
+Islington,NA,United Kingdom,F,35,Married,Professional,1,5,TRUE,FALSE
+Singapore,Singapore,Singapore,M,30,Married,Sales,11,1,FALSE,TRUE
+Hyderabad,NA,India,M,22,Single,Professional,4,1,FALSE,TRUE
+Basel,NA,Switzerland,F,44,Married,Other,2,7,TRUE,FALSE
+Gent,NA,Belgium,M,26,Single,Executive,8,3,FALSE,TRUE
+Osasco,BR-SP,Brazil,M,34,Single,Trades,5,2,FALSE,TRUE
+Orléans,NA,France,M,27,Single,Other,6,1,FALSE,TRUE
+Köln,NA,Germany,F,33,Married,Hospitality,6,2,FALSE,TRUE
+Frederikshavn,NA,Denmark,M,32,Married,Sales,10,2,FALSE,TRUE
+Erfurt,NA,Germany,M,28,Single,Professional,4,1,FALSE,TRUE
+Zell am See,NA,Austria,F,29,Married,Other,2,4,TRUE,FALSE
+Perth,WA,Australia,M,34,Married,Trades,4,1,FALSE,TRUE
+Manaus,BR-AM,Brazil,M,23,Single,Student,3,4,TRUE,FALSE
+Cangzhou,NA,China,F,27,Single,Hospitality,7,1,FALSE,TRUE
+Shanghai,NA,China,F,46,Married,Executive,0,5,TRUE,FALSE
+Trimont,MN,United States,M,44,Married,Executive,7,2,FALSE,TRUE
+Amsterdam,NA,Netherlands,F,24,Married,Retail,0,5,TRUE,FALSE

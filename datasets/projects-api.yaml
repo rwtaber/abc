@@ -1,0 +1,1714 @@
+swagger: '2.0'
+info:
+  version: 0.0.1
+  title: Projects API
+basePath: /
+consumes:
+  - application/json
+produces:
+  - application/json
+paths:
+  /monitor:
+    get:
+      tags:
+        - Monitor
+      summary: Get heartbeat
+      operationId: getMonitor
+      responses:
+        '200':
+          description: Success
+          schema:
+            $ref: '#/definitions/SuccessResponse'
+        default:
+          description: Error.
+          schema:
+            $ref: '#/definitions/ErrorResponse'
+      x-swagger-router-controller: Monitor
+  /v3/project/{name}/users:
+    get:
+      tags:
+        - Users
+      summary: Get all DSX users
+      description: Returns a list of all users registered on DSX
+      operationId: getDSXUsers
+      consumes:
+        - application/json
+      produces:
+        - application/json
+      parameters:
+        - name: jwt-auth-user-payload
+          in: header
+          description: Supplied by proxy.  Do NOT add your own value.
+          type: string
+          required: false
+        - name: name
+          in: path
+          description: Project Name
+          type: string
+          required: true
+      responses:
+        '200':
+          description: Success
+          schema:
+            $ref: '#/definitions/SuccessResponse'
+        default:
+          description: Error.
+          schema:
+            $ref: '#/definitions/ErrorResponse'
+      x-swagger-router-controller: Users
+  /v3/users/currentUserInfo:
+    get:
+      tags:
+        - Users
+      summary: Get information about the current user
+      operationId: getCurrentUserInfo
+      consumes:
+        - application/json
+      produces:
+        - application/json
+      parameters:
+        - name: jwt-auth-user-payload
+          in: header
+          description: Supplied by proxy.  Do NOT add your own value.
+          type: string
+          required: false
+      responses:
+        '200':
+          description: Success
+          schema:
+            $ref: '#/definitions/SuccessResponse'
+        default:
+          description: Error.
+          schema:
+            $ref: '#/definitions/ErrorResponse'
+      x-swagger-router-controller: Users
+  /v3/users/profile/photo:
+    get:
+      tags:
+      - "Users"
+      summary: "Get the user's profile picture"
+      operationId: "getUserProfilePhoto"
+      consumes:
+      - "application/json"
+      produces:
+      - "application/json"
+      parameters:
+      - name: "jwt-auth-user-payload"
+        in: "header"
+        description: "Supplied by proxy.  Do NOT add your own value."
+        required: false
+        type: "string"
+      responses:
+        200:
+          description: "Success"
+          schema:
+            $ref: '#/definitions/SuccessResponse'
+        default:
+          description: "Error."
+          schema:
+            $ref: '#/definitions/ErrorResponse'
+      x-swagger-router-controller: "Users"
+    post:
+      tags:
+      - "Users"
+      summary: "Uploads the user's profile photo"
+      operationId: "uploadProfilePhoto"
+      consumes:
+      - "multipart/form-data"
+      produces:
+      - "application/json"
+      parameters:
+      - name: "jwt-auth-user-payload"
+        in: "header"
+        description: "Supplied by proxy.  Do NOT add your own value."
+        required: false
+        type: "string"
+      - name: "file"
+        in: "formData"
+        description: "The file to upload"
+        required: false
+        type: "file"
+      responses:
+        200:
+          description: "Success"
+          schema:
+            $ref: '#/definitions/SuccessResponse'
+        default:
+          description: "Error."
+          schema:
+            $ref: '#/definitions/ErrorResponse'
+      x-swagger-router-controller: "Users"
+    delete:
+      tags:
+      - "Users"
+      summary: "Deletes the user's profile photo"
+      operationId: "deleteProfilePhoto"
+      consumes:
+      - "application/json"
+      produces:
+      - "application/json"
+      parameters:
+      - name: "jwt-auth-user-payload"
+        in: "header"
+        description: "Supplied by proxy.  Do NOT add your own value."
+        required: false
+        type: "string"
+      responses:
+        200:
+          description: "Success"
+          schema:
+            $ref: '#/definitions/SuccessResponse'
+        default:
+          description: "Error."
+          schema:
+            $ref: '#/definitions/ErrorResponse'
+      x-swagger-router-controller: "Users"
+  /v3/project:
+    put:
+      tags:
+        - Project
+      summary: Creates a new project
+      description: Creates a new project that is associated with a git repository
+      operationId: createProject
+      consumes:
+        - application/json
+      produces:
+        - application/json
+      parameters:
+        - name: jwt-auth-user-payload
+          in: header
+          description: Supplied by proxy.  Do NOT add your own value.
+          type: string
+          required: false
+        - name: body
+          in: body
+          schema:
+            type: object
+            required:
+              - name
+            properties:
+              name:
+                type: string
+                example: Project 1
+              description:
+                type: string
+                example: This is a sample project!
+      responses:
+        '200':
+          description: Success
+          schema:
+            $ref: '#/definitions/SuccessResponse'
+        default:
+          description: Error.
+          schema:
+            $ref: '#/definitions/ErrorResponse'
+      x-swagger-router-controller: Project
+  /v3/project/env/init:
+    put:
+      tags:
+        - Project
+      summary: Initialize User Environment
+      description: Creates a new project that is associated with a git repository
+      operationId: initializeUserEnvironment
+      consumes:
+        - application/json
+      produces:
+        - application/json
+      parameters:
+        - name: jwt-auth-user-payload
+          in: header
+          description: Supplied by proxy.  Do NOT add your own value.
+          type: string
+          required: false
+      responses:
+        '200':
+          description: Success
+          schema:
+            $ref: '#/definitions/SuccessResponse'
+        default:
+          description: Error.
+          schema:
+            $ref: '#/definitions/ErrorResponse'
+      x-swagger-router-controller: Project
+  /v3/project/{name}/import:
+    post:
+      tags:
+        - Project
+      summary: Imports a new project
+      description: Imports an existing project that is associated with a git repository
+      operationId: importProject
+      consumes:
+        - multipart/form-data
+      produces:
+        - application/json
+      parameters:
+        - name: jwt-auth-user-payload
+          in: header
+          description: Supplied by proxy.  Do NOT add your own value.
+          type: string
+          required: false
+        - in: formData
+          name: upfile
+          type: file
+          description: The file to upload
+        - in: formData
+          name: note
+          type: string
+          required: false
+          description: Description of file contents.
+        - in: path
+          name: name
+          type: string
+          required: true
+          description: File Name.
+      responses:
+        '200':
+          description: Success
+          schema:
+            $ref: '#/definitions/SuccessResponse'
+        default:
+          description: Error.
+          schema:
+            $ref: '#/definitions/ErrorResponse'
+      x-swagger-router-controller: Project
+  /v3/project/{name}/export:
+    get:
+      tags:
+        - Project
+      summary: Exports a  project
+      description: Exports an existing Project (note - Swagger UI corrupts the downloaded zip file)
+      operationId: exportProject
+      consumes:
+        - application/json
+      produces:
+        - application/octet-stream
+      parameters:
+        - name: jwt-auth-user-payload
+          in: header
+          description: Supplied by proxy.  Do NOT add your own value.
+          type: string
+          required: false
+        - name: types
+          in: query
+          description: "<div class='ibm-title'>Values: types</div><ul class='ibm-description'><li>targz</li><li>zip</li></ul>"
+          required: true
+          type: string
+          items:
+            type: string
+            enum:
+              - targz
+              - zip
+        - name: name
+          in: path
+          description: This is the name of your project
+          type: string
+          required: true
+
+      responses:
+        '200':
+          description: Success
+          schema:
+            type: file
+        default:
+          description: Error.
+          schema:
+            $ref: '#/definitions/ErrorResponse'
+      x-swagger-router-controller: Project
+  /v3/project/{name}/join:
+    post:
+      tags:
+        - Project
+      summary: Join an existing project
+      description: Joins a project by cloning master repo into user's home dir
+      operationId: joinProject
+      consumes:
+        - application/json
+      produces:
+        - application/json
+      parameters:
+        - name: jwt-auth-user-payload
+          in: header
+          description: Supplied by proxy.  Do NOT add your own value.
+          type: string
+          required: false
+        - name: name
+          in: path
+          description: Project Name
+          type: string
+          required: true
+      responses:
+        '200':
+          description: Success
+          schema:
+            $ref: '#/definitions/SuccessResponse'
+        '400':
+          description: Error.
+          schema:
+            $ref: '#/definitions/ErrorResponse'
+      x-swagger-router-controller: Project
+  /v3/project/{name}/cleanup:
+    delete:
+      tags:
+        - Project
+      summary: Cleanup project
+      description: Removes the working copy of the project from local workspace
+      operationId: cleanupProject
+      consumes:
+        - application/json
+      produces:
+        - application/json
+      parameters:
+        - name: jwt-auth-user-payload
+          in: header
+          description: Supplied by proxy.  Do NOT add your own value.
+          type: string
+          required: false
+        - name: name
+          in: path
+          description: Project Name
+          type: string
+          required: true
+      responses:
+        '200':
+          description: Success
+          schema:
+            $ref: '#/definitions/SuccessResponse'
+        '400':
+          description: Error.
+          schema:
+            $ref: '#/definitions/ErrorResponse'
+      x-swagger-router-controller: Project
+  /v3/project/{name}/reset:
+    patch:
+      tags:
+        - Project
+      summary: Reset project
+      description: Removes the existing copy and clones a new copy of the project in the local workspace
+      operationId: resetProject
+      consumes:
+        - application/json
+      produces:
+        - application/json
+      parameters:
+        - name: jwt-auth-user-payload
+          in: header
+          description: Supplied by proxy.  Do NOT add your own value.
+          type: string
+          required: false
+        - name: name
+          in: path
+          description: Project Name
+          type: string
+          required: true
+      responses:
+        '200':
+          description: Success
+          schema:
+            $ref: '#/definitions/SuccessResponse'
+        '400':
+          description: Error.
+          schema:
+            $ref: '#/definitions/ErrorResponse'
+      x-swagger-router-controller: Project
+  /v3/project/{name}/leave:
+    delete:
+      tags:
+        - Project
+      summary: Leave project
+      description: Removes the project from user's local workspace and the user is no longer a member of the project
+      operationId: leaveProject
+      consumes:
+        - application/json
+      produces:
+        - application/json
+      parameters:
+        - name: jwt-auth-user-payload
+          in: header
+          description: Supplied by proxy.  Do NOT add your own value.
+          type: string
+          required: false
+        - name: name
+          in: path
+          description: Project Name
+          type: string
+          required: true
+      responses:
+        '200':
+          description: Success
+          schema:
+            $ref: '#/definitions/SuccessResponse'
+        '400':
+          description: Error.
+          schema:
+            $ref: '#/definitions/ErrorResponse'
+      x-swagger-router-controller: Project
+  /v3/project/{name}:
+    get:
+      tags:
+        - Project
+      summary: Get project info
+      description: Gets metadata about the project
+      operationId: getProjectDetails
+      consumes:
+        - application/json
+      produces:
+        - application/json
+      parameters:
+        - name: jwt-auth-user-payload
+          in: header
+          description: Supplied by proxy.
+          type: string
+          required: false
+        - name: name
+          in: path
+          description: Project Name
+          type: string
+          required: true
+      responses:
+        '200':
+          description: Success
+          schema:
+            $ref: '#/definitions/ProjectDetails'
+        '400':
+          description: Invalid project name provided!
+        '404':
+          description: Project not found!
+        default:
+          description: Error
+          schema:
+            $ref: '#/definitions/ErrorResponse'
+      x-swagger-router-controller: Project
+    post:
+      tags:
+        - Project
+      summary: Push all local changes
+      description: Tracks all local changes within the project and pushes them to origin/master in remote repository
+      operationId: saveAllChanges
+      consumes:
+        - application/json
+      produces:
+        - application/json
+      parameters:
+        - name: jwt-auth-user-payload
+          in: header
+          description: Supplied by proxy.  Do NOT add your own value.
+          type: string
+          required: false
+        - name: name
+          in: path
+          description: Project Name
+          type: string
+          required: true
+        - name: body
+          in: body
+          schema:
+            type: object
+            required:
+              - commit_message
+            properties:
+              commit_message:
+                type: string
+                example: Some meaningful text
+      responses:
+        '200':
+          description: Success
+          schema:
+            $ref: '#/definitions/SuccessResponse'
+        default:
+          description: Error.
+          schema:
+            $ref: '#/definitions/ErrorResponse'
+      x-swagger-router-controller: Project
+    patch:
+      tags:
+        - Project
+      summary: Pull new changes
+      description: Pulls changes for a project from remote workspace into local workspace
+      operationId: pullChanges
+      consumes:
+        - application/json
+      produces:
+        - application/json
+      parameters:
+        - name: jwt-auth-user-payload
+          in: header
+          description: Supplied by proxy.  Do NOT add your own value.
+          type: string
+          required: false
+        - name: name
+          in: path
+          description: Project Name
+          type: string
+          required: true
+      responses:
+        '200':
+          description: Success
+          schema:
+            $ref: '#/definitions/SuccessResponse'
+        default:
+          description: Error.
+          schema:
+            $ref: '#/definitions/ErrorResponse'
+      x-swagger-router-controller: Project
+    delete:
+      tags:
+        - Project
+      summary: Delete project
+      description: Deletes a project from local and remote space
+      operationId: deleteProject
+      consumes:
+        - application/json
+      produces:
+        - application/json
+      parameters:
+        - name: jwt-auth-user-payload
+          in: header
+          description: Supplied by proxy.  Do NOT add your own value.
+          type: string
+          required: false
+        - name: name
+          in: path
+          description: Project Name
+          type: string
+          required: true
+      responses:
+        '200':
+          description: Success
+          schema:
+            $ref: '#/definitions/SuccessResponse'
+        default:
+          description: Error.
+          schema:
+            $ref: '#/definitions/ErrorResponse'
+      x-swagger-router-controller: Project
+  /v3/project/{name}/status:
+    get:
+      tags:
+        - Project
+      summary: Get the status of the project from git.
+      description: Detects paths that have differences between the index file and the current HEAD commit, paths that have differences between the working tree and the index file, and paths in the working tree that are not tracked by Git.
+      operationId: getProjectStatus
+      consumes:
+        - application/json
+      produces:
+        - application/json
+      parameters:
+        - name: jwt-auth-user-payload
+          in: header
+          description: Supplied by proxy.
+          type: string
+          required: false
+        - name: name
+          in: path
+          description: Project Name
+          type: string
+          required: true
+      responses:
+        '200':
+          description: Success
+          schema:
+            $ref: '#/definitions/ProjectStatus'
+        '304':
+          description: Project not modified.
+        '403':
+          description: User is not a project member.
+        '404':
+          description: Project not found.
+        '500':
+          description: Error obtaining project information.
+      x-swagger-router-controller: Project
+  /v3/projects:
+    get:
+      tags:
+        - Project
+      summary: Get projects
+      description: Directory list of all repos
+      operationId: getProjects
+      consumes:
+        - application/json
+      produces:
+        - application/json
+      parameters:
+        - name: jwt-auth-user-payload
+          in: header
+          description: Supplied by proxy.  Do NOT add your own value.
+          type: string
+          required: false
+        - name: "visibility"
+          in: "query"
+          description: "<div>Values:</div><ul><span class='ibm-default'></span></li><li>public</li><li>private(default)</li></ul>"
+          required: true
+          type: "string"
+        - name: "includeCommitInfo"
+          in: "query"
+          description: Set to true to include can-commit and user-role information in addition to project-name and last-modified attributes.
+          required: false
+          type: "boolean"
+          default: false
+      responses:
+        '200':
+          description: Success
+          schema:
+            $ref: '#/definitions/SuccessResponse'
+        default:
+          description: Error
+          schema:
+            $ref: '#/definitions/ErrorResponse'
+      x-swagger-router-controller: Project
+  /v3/projects/{name}/members/role:
+    get:
+      tags:
+        - Members
+      summary: Get member role
+      description: Get the member's role associated with the project
+      operationId: getMemberRole
+      consumes:
+        - application/json
+      produces:
+        - application/json
+      parameters:
+        - name: jwt-auth-user-payload
+          in: header
+          description: Supplied by proxy.  Do NOT add your own value.
+          type: string
+          required: false
+        - name: name
+          in: path
+          description: Project Name
+          type: string
+          required: true
+      responses:
+        '200':
+          description: Success
+          schema:
+            $ref: '#/definitions/SuccessResponse'
+        default:
+          description: Error.
+          schema:
+            $ref: '#/definitions/ErrorResponse'
+      x-swagger-router-controller: Members
+  /v3/projects/{name}/members:
+    get:
+      tags:
+        - Members
+      summary: Get members
+      description: Get all collaborators for a particular project
+      operationId: getMembers
+      consumes:
+        - application/json
+      produces:
+        - application/json
+      parameters:
+        - name: jwt-auth-user-payload
+          in: header
+          description: Supplied by proxy.  Do NOT add your own value.
+          type: string
+          required: false
+        - name: name
+          in: path
+          description: Project Name
+          type: string
+          required: true
+      responses:
+        '200':
+          description: Success
+          schema:
+            $ref: '#/definitions/SuccessResponse'
+        default:
+          description: Error.
+          schema:
+            $ref: '#/definitions/ErrorResponse'
+      x-swagger-router-controller: Members
+    patch:
+      tags:
+        - Members
+      summary: Update member
+      description: Updates the role of a member
+      operationId: updateMember
+      consumes:
+        - application/json
+      produces:
+        - application/json
+      parameters:
+        - name: jwt-auth-user-payload
+          in: header
+          description: Supplied by proxy.  Do NOT add your own value.
+          type: string
+          required: false
+        - name: name
+          in: path
+          description: Project Name
+          type: string
+          required: true
+        - name: body
+          in: body
+          schema:
+            type: object
+            required:
+              - member_uid
+              - new_role
+            properties:
+              member_uid:
+                type: string
+                example: user
+              new_role:
+                type: string
+                example: viewer or editor or admin
+      responses:
+        '200':
+          description: Success
+          schema:
+            $ref: '#/definitions/SuccessResponse'
+        default:
+          description: Error.
+          schema:
+            $ref: '#/definitions/ErrorResponse'
+      x-swagger-router-controller: Members
+    post:
+      tags:
+        - Members
+      summary: Add members
+      description: Adds set of users to a project
+      operationId: addMembers
+      consumes:
+        - application/json
+      produces:
+        - application/json
+      parameters:
+        - name: jwt-auth-user-payload
+          in: header
+          description: Supplied by proxy.  Do NOT add your own value.
+          type: string
+          required: false
+        - name: name
+          in: path
+          description: Project Name
+          type: string
+          required: true
+        - name: body
+          in: body
+          schema:
+            type: array
+            items:
+              $ref: '#/definitions/MemberDetails'
+      responses:
+        '200':
+          description: Success
+          schema:
+            $ref: '#/definitions/SuccessResponse'
+        default:
+          description: Error.
+          schema:
+            $ref: '#/definitions/ErrorResponse'
+      x-swagger-router-controller: Members
+    delete:
+      tags:
+        - Members
+      summary: Delete members
+      description: Deletes a set of members from a project
+      operationId: deleteSetOfMembers
+      consumes:
+        - application/json
+      produces:
+        - application/json
+      parameters:
+        - name: jwt-auth-user-payload
+          in: header
+          description: Supplied by proxy.  Do NOT add your own value.
+          type: string
+          required: false
+        - name: name
+          in: path
+          description: Project Name
+          type: string
+          required: true
+        - name: body
+          in: body
+          description: '[uid1, uid2, ...]'
+          required: true
+          schema:
+            type: array
+            items:
+              type: integer
+      responses:
+        '200':
+          description: Success
+          schema:
+            $ref: '#/definitions/SuccessResponse'
+        default:
+          description: Error.
+          schema:
+            $ref: '#/definitions/ErrorResponse'
+      x-swagger-router-controller: Members
+  /v3/projects/{name}/members/{member_uid}:
+    delete:
+      tags:
+        - Members
+      summary: Delete member
+      description: Delete a member from a project
+      operationId: deleteMember
+      consumes:
+        - application/json
+      produces:
+        - application/json
+      parameters:
+        - name: jwt-auth-user-payload
+          in: header
+          description: Supplied by proxy.  Do NOT add your own value.
+          type: string
+          required: false
+        - name: name
+          in: path
+          description: Project Name
+          type: string
+          required: true
+        - name: member_uid
+          in: path
+          description: Member UID
+          type: string
+          required: true
+      responses:
+        '200':
+          description: Success
+          schema:
+            $ref: '#/definitions/SuccessResponse'
+        default:
+          description: Error.
+          schema:
+            $ref: '#/definitions/ErrorResponse'
+      x-swagger-router-controller: Members
+  /v3/project/{name}/asset/{dataset_name}/download:
+    get:
+      tags:
+        - Assets
+      summary: Downloads local dataset from the project
+      description: Downloads local dataset from the project. Download of remote datasets currently not supported.
+      operationId: downloadDataset
+      consumes:
+        - application/json
+      produces:
+        - application/octet-stream
+      parameters:
+        - name: jwt-auth-user-payload
+          in: header
+          description: Supplied by proxy.  Do NOT add your own value.
+          type: string
+          required: false
+        - name: name
+          in: path
+          description: Project Name
+          type: string
+          required: true
+        - in: path
+          name: dataset_name
+          type: string
+          description: Dataset Name
+          required: true
+      responses:
+        '200':
+          description: Success
+          schema:
+            $ref: '#/definitions/SuccessResponse'
+        '400':
+          description: Error.
+          schema:
+            $ref: '#/definitions/ErrorResponse'
+      x-swagger-router-controller: Assets
+  /v3/project/{name}/asset:
+    post:
+      tags:
+        - Assets
+      summary: Uploads a file from the file system
+      description: Uploads a file from  the file system
+      operationId: uploadFile
+      consumes:
+        - multipart/form-data
+      produces:
+        - application/json
+      parameters:
+        - name: jwt-auth-user-payload
+          in: header
+          description: Supplied by proxy.  Do NOT add your own value.
+          type: string
+          required: false
+        - name: name
+          in: path
+          description: Project Name
+          type: string
+          required: true
+        - in: formData
+          name: file
+          type: file
+          description: The file to upload
+        - in: formData
+          name: type
+          type: string
+          required: true
+          description: File type.
+      responses:
+        '200':
+          description: Success
+          schema:
+            $ref: '#/definitions/SuccessResponse'
+        '400':
+          description: Error.
+          schema:
+            $ref: '#/definitions/ErrorResponse'
+      x-swagger-router-controller: Assets
+  /v3/project/{name}/model:
+    post:
+      tags:
+        - Assets
+      summary: Adds a model to the project
+      description: Adds a model to the project
+      operationId: addModel
+      consumes:
+        - application/json
+      produces:
+        - application/json
+      parameters:
+        - name: jwt-auth-user-payload
+          in: header
+          description: Supplied by proxy.  Do NOT add your own value.
+          type: string
+          required: false
+        - name: name
+          in: path
+          description: Project Name
+          type: string
+          required: true
+        - name: body
+          in: body
+          schema:
+            type: object
+            required:
+              - type
+              - name
+              - properties
+            properties:
+              type:
+                type: string
+                example: pipeline/machine-learning-v1
+              name:
+                type: string
+                example: My Model
+              properties:
+                $ref: '#/definitions/ModelProperties'
+      responses:
+        '200':
+          description: Created
+          schema:
+            $ref: '#/definitions/SuccessResponse'
+        '400':
+          description: Error.
+          schema:
+            $ref: '#/definitions/ErrorResponse'
+      x-swagger-router-controller: Assets
+  /v3/project/{name}/assets/{datasourceName}/remotedatasets:
+    get:
+      tags:
+        - Assets
+      summary: Gets remote datasets for a particular data source
+      description: Lists remote datasets and their contents associated with a data source
+      operationId: getRemoteDatasets
+      consumes:
+        - application/json
+      produces:
+        - application/json
+      parameters:
+        - name: jwt-auth-user-payload
+          in: header
+          description: Supplied by proxy.  Do NOT add your own value.
+          type: string
+          required: false
+        - name: name
+          in: path
+          description: Project Name
+          type: string
+          required: true
+        - name: datasourceName
+          in: path
+          description: Name of the datasource
+          type: string
+          required: true
+      responses:
+        '200':
+          description: Success
+          schema:
+            $ref: '#/definitions/SuccessResponse'
+        '400':
+          description: Error.
+          schema:
+            $ref: '#/definitions/ErrorResponse'
+      x-swagger-router-controller: Assets
+  /v3/project/{name}/assets:
+    get:
+      tags:
+        - Assets
+      summary: Gets an array of all assets
+      description: Gets an array of all assets. The response returns an array of objects. Each object contains the asset name, asset type, and last modified date, sorted by last modified date.
+      operationId: getAssets
+      consumes:
+        - application/json
+      produces:
+        - application/json
+      parameters:
+        - name: jwt-auth-user-payload
+          in: header
+          description: Supplied by proxy.  Do NOT add your own value.
+          type: string
+          required: false
+        - name: name
+          in: path
+          description: Project Name
+          type: string
+          required: true
+        - name: types
+          in: query
+          description: "<div class='ibm-title'>Values: types</div><ul class='ibm-description'><li>zeppelin</li><li>jupyter</li><li>datasets</li><li>rstudio</li><li>models</li><li>flows</li><li>others (Anything that is not in the directories above.Not to be used in conjunction with the directories above) </li></ul>"
+          required: false
+          type: array
+          items:
+            type: string
+            enum:
+              - zeppelin
+              - jupyter
+              - localdatasets
+              - remotedatasets
+              - rstudio
+              - models
+              - datasources
+              - others
+              - flows
+        - name: filter
+          in: query
+          description: "Provide a value to filter by. Filter is applied only one of the types"
+          required: false
+          type: string
+        - name: limit
+          in: "query"
+          description: "Number of results to be returned"
+          required: false
+          type: "number"
+      responses:
+        '200':
+          description: Success
+          schema:
+            $ref: '#/definitions/SuccessResponse'
+        default:
+          description: Error
+          schema:
+            $ref: '#/definitions/ErrorResponse'
+      x-swagger-router-controller: Assets
+  /v3/project/{name}/flow:
+    post:
+      tags:
+        - Assets
+      summary: Adds a flow to the project
+      description: Adds a flow to the project
+      operationId: addFlow
+      consumes:
+        - application/json
+      produces:
+        - application/json
+      parameters:
+        - name: jwt-auth-user-payload
+          in: header
+          description: Supplied by proxy.  Do NOT add your own value.
+          type: string
+          required: false
+        - name: name
+          in: path
+          description: Project Name
+          type: string
+          required: true
+        - name: body
+          in: body
+          schema:
+            type: object
+            required:
+              - type
+              - name
+              - mime_type
+              - url
+              - properties
+            properties:
+              type:
+                type: string
+              name:
+                type: string
+              mime_type:
+                type: string
+              url:
+                type: string
+              properties:
+                $ref: '#/definitions/FlowProperties'
+      responses:
+        '201':
+          description: Created
+          schema:
+            $ref: '#/definitions/SuccessResponse'
+        '400':
+          description: Error.
+          schema:
+            $ref: '#/definitions/ErrorResponse'
+      x-swagger-router-controller: Assets
+  /v3/project/samples:
+    get:
+      tags:
+        - Assets
+      summary: Gets an array of sample jsons
+      description: Gets an array of all sample JSONS. The response returns an json array of sample jsons.
+      operationId: getSampleJSON
+      consumes:
+        - application/json
+      produces:
+        - application/json
+      parameters:
+        - name: jwt-auth-user-payload
+          in: header
+          description: Supplied by proxy.  Do NOT add your own value.
+          type: string
+          required: false
+
+      responses:
+        '200':
+          description: Success
+          schema:
+            $ref: '#/definitions/SuccessResponse'
+        default:
+          description: Error
+          schema:
+            $ref: '#/definitions/ErrorResponse'
+      x-swagger-router-controller: Assets
+  /v3/project/{name}/models:
+    get:
+      tags:
+      - "Assets"
+      summary: "Get a list of models"
+      description: "Returns models"
+      operationId: "getModels"
+      consumes:
+      - "application/json"
+      produces:
+      - "application/json"
+      parameters:
+      - name: "name"
+        in: "path"
+        description: "Project Name"
+        required: true
+        type: "string"
+      responses:
+        200:
+          description: "Success"
+          schema:
+            $ref: "#/definitions/SuccessResponse"
+        default:
+          description: "Error"
+          schema:
+            $ref: "#/definitions/ErrorResponse"
+      x-swagger-router-controller: "Assets"
+  /v3/project/savedModels:
+    get:
+      tags:
+      - "Assets"
+      summary: "Get a list of saved models"
+      description: "Returns saved models"
+      operationId: "getSavedModels"
+      consumes:
+      - "application/json"
+      produces:
+      - "application/json"
+      responses:
+        200:
+          description: "Success"
+          schema:
+            $ref: "#/definitions/SuccessResponse"
+        default:
+          description: "Error"
+          schema:
+            $ref: "#/definitions/ErrorResponse"
+      x-swagger-router-controller: "Assets"
+  /v3/project/{name}/asset/{file}:
+    get:
+      tags:
+      - "Assets"
+      summary: "Get an asset for preview"
+      description: "Returns the content of the requested asset"
+      operationId: "getAsset"
+      consumes:
+      - "application/json"
+      produces:
+      - "application/json"
+      parameters:
+      - name: jwt-auth-user-payload
+        in: header
+        description: Supplied by proxy.  Do NOT add your own value.
+        type: string
+        required: false
+      - name: "name"
+        in: "path"
+        description: "Project Name"
+        required: true
+        type: "string"
+      - name: "file"
+        in: "path"
+        description: "File Name"
+        required: true
+        type: "string"
+      - name: type
+        in: "query"
+        description: "<div class='ibm-title'>Values: types</div><ul class='ibm-description'><li>datasets</li><li>models</li></ul>"
+        required: false
+        type: "string"
+        items:
+          type: string
+          enum:
+            - datasets
+            - flows
+      responses:
+        200:
+          description: "Success"
+          schema:
+            $ref: "#/definitions/SuccessResponse"
+        default:
+          description: "Error"
+          schema:
+            $ref: "#/definitions/ErrorResponse"
+      x-swagger-router-controller: "Assets"
+  /v3/project/import/{repository}:
+    post:
+      tags:
+        - Project
+      summary: Import a project from GH
+      description: Import a project from GH
+      operationId: importFromGHE
+      consumes:
+        - application/json
+      produces:
+        - application/json
+      parameters:
+        - name: jwt-auth-user-payload
+          in: header
+          description: Supplied by proxy.  Do NOT add your own value.
+          type: string
+          required: false
+        - name: repository
+          in: path
+          type: string
+          required: true
+      responses:
+        '200':
+          description: Success
+          schema:
+            $ref: '#/definitions/SuccessResponse'
+        '400':
+          description: Error.
+          schema:
+            $ref: '#/definitions/ErrorResponse'
+      x-swagger-router-controller: Project
+  /v3/github/tokens:
+    get:
+      tags:
+        - Github
+      summary: Checks if Github tokens exist for this user.
+      description: Returns not found if token does not exist.
+      operationId: getTokens
+      consumes:
+        - application/json
+      produces:
+        - application/json
+      parameters:
+        - name: jwt-auth-user-payload
+          in: header
+          description: Supplied by proxy.  Do NOT add your own value.
+          type: string
+          required: false
+      responses:
+        '200':
+          description: Success
+        '404':
+          description: Tokens not found
+        '500':
+          description: Server error
+      x-swagger-router-controller: Github
+  /v3/github/tokens/{tokenName}/{tokenValue}:
+    post:
+      tags:
+        - Github
+      summary: Adds a Github token to DSX.
+      description: Token is used to access Github from DSX. Bitbucket/Gitlab will be supported in a future release.
+      operationId: addToken
+      consumes:
+        - application/json
+      produces:
+        - application/json
+      parameters:
+        - name: jwt-auth-user-payload
+          in: header
+          description: Supplied by proxy.  Do NOT add your own value.
+          type: string
+          required: false
+        - name: tokenValue
+          in: path
+          description: Token to be used when performing an action on the platform
+          type: string
+          required: true
+        - name: tokenName
+          in: path
+          description: Name of the token
+          type: string
+          required: true
+        - name: body
+          in: body
+          schema:
+            type: object
+            properties:
+              githubCompanyUrl:
+                type: string
+                example: "https://github.com"
+      responses:
+        '200':
+          description: Success
+          schema:
+            $ref: '#/definitions/SuccessResponse'
+        '400':
+          description: Error.
+          schema:
+            $ref: '#/definitions/ErrorResponse'
+      x-swagger-router-controller: Github
+  /v3/github/tokens/{tokenName}:
+    delete:
+      tags:
+        - Github
+      summary: Deletes a Github token from DSX
+      description: Bitbucket/Gitlab will be supported in a future release.
+      operationId: deleteToken
+      consumes:
+        - application/json
+      produces:
+        - application/json
+      parameters:
+        - name: jwt-auth-user-payload
+          in: header
+          description: Supplied by proxy.  Do NOT add your own value.
+          type: string
+          required: false
+        - name: tokenName
+          in: path
+          description: Name of the token
+          type: string
+          required: true
+      responses:
+        '200':
+          description: Success
+          schema:
+            $ref: '#/definitions/SuccessResponse'
+        '400':
+          description: Error.
+          schema:
+            $ref: '#/definitions/ErrorResponse'
+      x-swagger-router-controller: Github
+  /v3/project/{name}/container/{component}/start:
+    post:
+      tags:
+        - Container
+      summary: Start a container
+      description: Start a container given the projectId, uid and component to be started.
+      operationId: startContainer
+      consumes:
+        - application/json
+      produces:
+        - application/json
+      parameters:
+        - name: jwt-auth-user-payload
+          in: header
+          description: Supplied by proxy.  Do NOT add your own value.
+          type: string
+          required: false
+        - name: "name"
+          in: "path"
+          description: "Project Name"
+          required: true
+          type: "string"
+        - name: "component"
+          in: "path"
+          description: "Component Name"
+          required: true
+          type: "string"
+      responses:
+        '200':
+          description: Success
+          schema:
+            $ref: '#/definitions/SuccessResponse'
+        '400':
+          description: Error.
+          schema:
+            $ref: '#/definitions/ErrorResponse'
+      x-swagger-router-controller: Container
+  /v3/project/{name}/container/{component}/delete:
+    post:
+      tags:
+      - "Container"
+      summary: "Delete a container"
+      description: "delete a container given the projectId, uid and component to be\
+        \ started."
+      operationId: "deleteContainer"
+      consumes:
+      - "application/json"
+      produces:
+      - "application/json"
+      parameters:
+      - name: "jwt-auth-user-payload"
+        in: "header"
+        description: "Supplied by proxy.  Do NOT add your own value."
+        required: false
+        type: "string"
+      - name: "name"
+        in: "path"
+        description: "Project Name"
+        required: true
+        type: "string"
+      - name: "component"
+        in: "path"
+        description: "Component Name"
+        required: true
+        type: "string"
+      responses:
+        '200':
+          description: "Success"
+          schema:
+            $ref: "#/definitions/SuccessResponse"
+        '400':
+          description: "Error."
+          schema:
+            $ref: "#/definitions/ErrorResponse"
+      x-swagger-router-controller: "Container"
+  /v3/projects/{name}/containers:
+    get:
+      tags:
+      - "Container"
+      summary: "Get a list containers"
+      description: "Get a list of containers given the projectId and uid"
+      operationId: "getContainers"
+      consumes:
+      - "application/json"
+      produces:
+      - "application/json"
+      parameters:
+      - name: "jwt-auth-user-payload"
+        in: "header"
+        description: "Supplied by proxy.  Do NOT add your own value."
+        required: false
+        type: "string"
+      - name: "name"
+        in: "path"
+        description: "Project Name"
+        required: true
+        type: "string"
+      responses:
+        '200':
+          description: "Success"
+          schema:
+            $ref: "#/definitions/SuccessResponse"
+        '400':
+          description: "Error."
+          schema:
+            $ref: "#/definitions/ErrorResponse"
+      x-swagger-router-controller: "Container"
+  /v3/projects/containers:
+    get:
+      tags:
+      - "Container"
+      summary: "Get a list all containers"
+      description: "Get a list of containers given the projectId and uid"
+      operationId: "getAllContainers"
+      consumes:
+      - "application/json"
+      produces:
+      - "application/json"
+      parameters:
+      - name: "jwt-auth-user-payload"
+        in: "header"
+        description: "Supplied by proxy.  Do NOT add your own value."
+        required: false
+        type: "string"
+      responses:
+        '200':
+          description: "Success"
+          schema:
+            $ref: "#/definitions/SuccessResponse"
+        '400':
+          description: "Error."
+          schema:
+            $ref: "#/definitions/ErrorResponse"
+      x-swagger-router-controller: "Container"
+  /v3/project/{name}/container/{component}/notebooks/{nbPath}:
+    patch:
+      tags:
+        - Notebooks
+      summary: Renames a notebook.
+      description: Only zeppelin notebooks supported currently. Zeppelin loads notebooks metadata in memory as the container is started. Therefore, after modifying notebooks metadata on the filesystem, we need to issue an API call to the zeppelin container to reload the metadata from the filesystem.
+      operationId: renameNotebook
+      consumes:
+        - application/json
+      produces:
+        - application/json
+      parameters:
+        - name: jwt-auth-user-payload
+          in: header
+          description: Supplied by proxy.  Do NOT add your own value.
+          type: string
+          required: false
+        - name: "name"
+          in: "path"
+          description: "Project Name"
+          required: true
+          type: "string"
+        - name: "component"
+          in: "path"
+          description: "Component Name"
+          required: true
+          type: "string"
+          enum:
+            - zeppelin
+        - name: "nbPath"
+          in: "path"
+          description: "Absolute path. example: /2CQQHUFXK/note.json"
+          required: true
+          type: "string"
+        - name: body
+          in: body
+          schema:
+            type: object
+            required:
+              - notebookNewName
+            properties:
+              notebookNewName:
+                type: string
+                example: Analysis
+      responses:
+        '200':
+          description: Success
+          schema:
+            $ref: '#/definitions/SuccessResponse'
+        '500':
+          description: Error.
+          schema:
+            $ref: '#/definitions/ErrorResponse'
+      x-swagger-router-controller: Notebooks
+    delete:
+      tags:
+        - Notebooks
+      summary: Deletes a notebook.
+      description: Only zeppelin notebooks supported currently. Zeppelin loads notebooks metadata in memory as the container is started. Therefore, after modifying notebooks metadata on the filesystem, we need to issue an API call to the zeppelin container to reload the metadata from the filesystem.
+      operationId: deleteNotebook
+      consumes:
+        - application/json
+      produces:
+        - application/json
+      parameters:
+        - name: jwt-auth-user-payload
+          in: header
+          description: Supplied by proxy.  Do NOT add your own value.
+          type: string
+          required: false
+        - name: "name"
+          in: "path"
+          description: "Project Name"
+          required: true
+          type: "string"
+        - name: "component"
+          in: "path"
+          description: "Component Name"
+          required: true
+          type: "string"
+          enum:
+            - zeppelin
+            - jupyter
+        - name: "nbPath"
+          in: "path"
+          description: "Absolute path. example: /2CQQHUFXK/note.json"
+          required: true
+          type: "string"
+      responses:
+        '200':
+          description: Success
+          schema:
+            $ref: '#/definitions/SuccessResponse'
+        '400':
+          description: Error
+          schema:
+            $ref: '#/definitions/ErrorResponse'
+      x-swagger-router-controller: Notebooks
+  /swagger:
+    x-swagger-pipe: swagger_raw
+definitions:
+  SuccessResponse:
+    required:
+      - message
+    properties:
+      message:
+        type: string
+  ProjectDetails:
+    required:
+      - dateCreated
+      - description
+      - owner
+    properties:
+      owner:
+        type: string
+      dateCreated:
+        type: string
+      description:
+        type: string
+  ProjectStatus:
+    required:
+      - canCommit
+    properties:
+      canCommit:
+        type: boolean
+  ErrorResponse:
+    required:
+      - message
+    properties:
+      message:
+        type: string
+  ModelProperties:
+    required:
+      - guid
+    properties:
+      guid:
+        type: string
+        example: "c61d6008-31b8-45f9-9746-884676206f25"
+  MemberDetails:
+    type: object
+    required:
+      - member_uid
+      - role
+    properties:
+      member_uid:
+        type: string
+        example: user
+      role:
+        type: string
+        example: viewer or editor or admin
+  FlowProperties:
+      type: "object"
+      required:
+        - runtime
+      properties:
+        metadata:
+          type: object
+          properties:
+            updated_at:
+              type: string
+            created_at:
+              type: string
+        guid:
+          type: string
+        runtime:
+          type: object
+          properties:
+            language:
+              type: string
